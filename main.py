@@ -2,26 +2,73 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 
-# --- 1. CONFIGURACIÓN DE PÁGINA ---
-st.set_page_config(page_title="TIPPYTEA | Dashboard Multisede", page_icon="🍃", layout="wide")
+# --- 1. CONFIGURACIÓN DE PÁGINA (Debe ser lo primero) ---
+st.set_page_config(
+    page_title="TIPPYTEA | Gestión de Inventario",
+    page_icon="🍃",
+    layout="wide",
+    initial_sidebar_state="expanded"
+)
 
-# Estilo TIPPYTEA Profesional
+
+# --- 2. SISTEMA DE SEGURIDAD (Contraseña) ---
+def check_password():
+    if "password_correct" not in st.session_state:
+        st.session_state["password_correct"] = False
+
+    if st.session_state["password_correct"]:
+        return True
+
+    st.markdown("""
+        <style>
+        .stApp { background-color: #fcfdfc; }
+        h1 { color: #1b5e20; font-family: sans-serif; }
+        </style>
+    """, unsafe_allow_html=True)
+
+    st.title("🔒 Acceso Restringido - TIPPYTEA")
+    password = st.text_input("Ingresa la clave de acceso:", type="password")
+
+    if st.button("Entrar"):
+        if password == "Tippytea2025":  # <--- PUEDES CAMBIAR TU CLAVE AQUÍ
+            st.session_state["password_correct"] = True
+            st.rerun()
+        else:
+            st.error("❌ Clave incorrecta")
+    return False
+
+
+if not check_password():
+    st.stop()
+
+# --- 3. ESTILOS REFORZADOS (Para PC y Celular) ---
 st.markdown("""
     <style>
-    .stApp { background-color: #fcfdfc; }
+    /* Forzar colores claros y visibilidad */
+    .stApp {
+        background-color: #fcfdfc !important;
+    }
+    /* Forzar color de texto para evitar que el modo oscuro del celular lo oculte */
+    h1, h2, h3, p, span, label, .stMetric div {
+        color: #1b5e20 !important;
+    }
+    /* Tarjetas de métricas profesionales */
     [data-testid="stMetric"] {
-        background-color: #ffffff;
+        background-color: #ffffff !important;
         padding: 20px;
         border-radius: 12px;
         box-shadow: 0 4px 12px rgba(46, 125, 50, 0.1);
         border-left: 5px solid #2e7d32;
     }
-    h1 { color: #1b5e20; font-family: 'Helvetica Neue', sans-serif; }
+    /* Sidebar personalizado */
+    section[data-testid="stSidebar"] {
+        background-color: #e8f5e9;
+    }
     </style>
     """, unsafe_allow_html=True)
 
 
-# --- 2. CARGA Y LIMPIEZA DE DATOS ---
+# --- 4. CARGA DE DATOS ---
 @st.cache_data
 def load_data():
     files = {
@@ -33,14 +80,12 @@ def load_data():
     all_data = []
     for sede, path in files.items():
         try:
-            # Leer con punto y coma
+            # Leer con punto y coma (delimitador de tus archivos)
             df = pd.read_csv(path, sep=';')
+            df.columns = df.columns.str.strip()  # Limpiar espacios en nombres de columnas
 
-            # Limpiar nombres de columnas (quitar espacios al final como 'Costo ')
-            df.columns = df.columns.str.strip()
-
-            # Convertir Saldo y Costo a números (manejar comas decimales)
-            for col in ['Saldo', 'Costo']:
+            # Limpieza de números (Cambiar comas por puntos en Costo y Saldo)
+            for col in ['Costo', 'Saldo']:
                 if col in df.columns:
                     df[col] = df[col].astype(str).str.replace(',', '.').str.strip()
                     df[col] = pd.to_numeric(df[col], errors='coerce').fillna(0)
@@ -49,66 +94,62 @@ def load_data():
             df['Valor_Total'] = df['Saldo'] * df['Costo']
             all_data.append(df)
         except Exception as e:
-            st.error(f"Error cargando {sede}: {e}")
+            st.error(f"Error cargando la sede {sede}: {e}")
 
     return pd.concat(all_data, ignore_index=True) if all_data else None
 
 
-# --- 3. LÓGICA DEL DASHBOARD ---
+# --- 5. EJECUCIÓN DEL DASHBOARD ---
 df = load_data()
 
 if df is not None:
-    st.title("🍃 TIPPYTEA - Gestión de Inventario Multisede")
-    st.markdown(f"Consolidado de inventarios actualizado a Noviembre 2025")
+    st.title("🍃 TIPPYTEA - Panel Multisede")
+    st.markdown("Consolidado de inventarios actualizado")
+    st.divider()
 
-    # --- SIDEBAR ---
-    st.sidebar.header("📍 Filtros de Red")
-    sedes_sel = st.sidebar.multiselect("Seleccionar Sedes:", ["Paseo", "Jardin", "Planta"],
+    # --- FILTROS SIDEBAR ---
+    st.sidebar.header("📍 Control de Sedes")
+    sedes_sel = st.sidebar.multiselect("Ver Sedes:", ["Paseo", "Jardin", "Planta"],
                                        default=["Paseo", "Jardin", "Planta"])
-    busqueda = st.sidebar.text_input("🔍 Buscar insumo (ej: Matcha):")
+    buscar = st.sidebar.text_input("🔍 Buscar Insumo:")
 
     # Filtrado
-    df_filtered = df[df['Sede'].isin(sedes_sel)]
-    if busqueda:
-        df_filtered = df_filtered[df_filtered['nombre'].str.contains(busqueda, case=False, na=False)]
+    df_filtrado = df[df['Sede'].isin(sedes_sel)]
+    if buscar:
+        df_filtrado = df_filtrado[df_filtrado['nombre'].str.contains(buscar, case=False, na=False)]
 
-    # --- MÉTRICAS ---
-    m1, m2, m3, m4 = st.columns(4)
-    inv_total = df_filtered['Valor_Total'].sum()
-    stock_total = df_filtered['Saldo'].sum()
-    sin_stock = len(df_filtered[df_filtered['Saldo'] == 0])
-
-    m1.metric("Inversión Total", f"${inv_total:,.2f}")
-    m2.metric("Items Totales", len(df_filtered))
-    m3.metric("Existencias (Unid/Gramos)", f"{stock_total:,.0f}")
-    m4.metric("Productos en Cero", sin_stock, delta=f"{sin_stock}", delta_color="inverse")
+    # --- MÉTRICAS (KPIs) ---
+    c1, c2, c3 = st.columns(3)
+    c1.metric("Inversión Total", f"${df_filtrado['Valor_Total'].sum():,.2f}")
+    c2.metric("Unidades Totales", f"{df_filtrado['Saldo'].sum():,.0f}")
+    c3.metric("Items Agotados", len(df_filtrado[df_filtrado['Saldo'] == 0]))
 
     st.divider()
 
     # --- GRÁFICOS ---
-    c1, c2 = st.columns([1, 1])
+    col_graf1, col_graf2 = st.columns(2)
 
-    with c1:
+    with col_graf1:
         st.subheader("💰 Inversión por Sede")
-        fig_sede = px.bar(df_filtered.groupby('Sede')['Valor_Total'].sum().reset_index(),
-                          x='Sede', y='Valor_Total', color='Sede',
+        resumen_sede = df_filtrado.groupby('Sede')['Valor_Total'].sum().reset_index()
+        fig_sede = px.bar(resumen_sede, x='Sede', y='Valor_Total', color='Sede',
                           color_discrete_map={"Paseo": "#81c784", "Jardin": "#4caf50", "Planta": "#1b5e20"})
         st.plotly_chart(fig_sede, use_container_width=True)
 
-    with c2:
-        st.subheader("⚠️ Alerta de Stock Bajo (Menos de 10)")
-        stock_bajo = df_filtered[(df_filtered['Saldo'] > 0) & (df_filtered['Saldo'] < 10)].sort_values('Saldo')
-        if not stock_bajo.empty:
-            fig_bajo = px.bar(stock_bajo.head(10), x='Saldo', y='nombre', color='Sede', orientation='h',
-                              title="Top 10 productos por agotarse")
+    with col_graf2:
+        st.subheader("⚠️ Stock Bajo (1-10 unidades)")
+        bajo_stock = df_filtrado[(df_filtrado['Saldo'] > 0) & (df_filtrado['Saldo'] <= 10)]
+        if not bajo_stock.empty:
+            fig_bajo = px.bar(bajo_stock.head(15), x='Saldo', y='nombre', color='Sede', orientation='h')
             st.plotly_chart(fig_bajo, use_container_width=True)
         else:
-            st.write("No hay productos con stock crítico (1-10 unidades).")
+            st.write("No hay stock crítico.")
 
-    # --- TABLA MAESTRA ---
-    st.subheader("📋 Detalle General de Existencias")
+    # --- TABLA DETALLADA ---
+    st.subheader("📋 Lista de Existencias")
     st.dataframe(
-        df_filtered[['Sede', 'Codigo', 'nombre', 'unidad', 'Saldo', 'Costo', 'Valor_Total']],
+        df_filtrado[['Sede', 'Codigo', 'nombre', 'Saldo', 'Costo', 'Valor_Total']].sort_values('Valor_Total',
+                                                                                               ascending=False),
         use_container_width=True,
         hide_index=True
     )
