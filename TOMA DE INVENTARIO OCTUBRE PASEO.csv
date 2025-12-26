@@ -1,0 +1,1830 @@
+﻿Codigo;nombre;unidad;Nombre de la Bodega;Ubicacion;id bodega;id minimo y maximo ;Saldo;Costo ;Lote;TOTAL
+001-001-00002;Red Seduction Encapsulado;Gramo;Paseo;NULL;4;NULL;0,00;0,0105;NULL;0
+001-001-00003;Masala Chai  Encapsulado;Gramo;Paseo;NULL;4;NULL;0,00;0,014;NULL;0
+001-001-00009;Mora Roberto Baldeon;Gramo;Paseo;NULL;4;NULL;0,00;0,024;NULL;0
+001-001-00010;Azucar Impalpable Don Gato;Gramo;Paseo;NULL;4;NULL;0,00;0,0011076;NULL;0
+001-001-00011;Anis Ile;Gramo;Paseo;NULL;4;NULL;0,00;0,0878;NULL;0
+001-001-00012;Stevia En Hoja Ile;Gramo;Paseo;NULL;4;NULL;0,00;0,019;NULL;0
+001-001-00013;Sucralosa;Gramo;Paseo;NULL;4;NULL;0,00;0,1;NULL;0
+001-001-00014;Saborizante Crema De Menta;Gramo;Paseo;NULL;4;NULL;0,00;0,02;NULL;0
+001-001-00015;Crema Batida En Polvo Importada;Gramo;Paseo;NULL;4;NULL;0,00;0,07;NULL;0
+001-001-00016;Saborizante Avellana;Gramo;Paseo;NULL;4;NULL;0,00;0,02;NULL;0
+001-001-00017;Polvo De Cacao Alcalino  Natigold;Gramo;Paseo;NULL;4;NULL;0,00;0,011;NULL;0
+001-001-00018;Polvo De Cacao Natural Natigold;Gramo;Paseo;NULL;4;NULL;0,00;0,01;NULL;0
+001-001-00021;Jamaica Tamarak;Gramo;Paseo;NULL;4;NULL;0,00;0,0085;NULL;0
+001-001-00022;Saborizante Cookies And Cream;Gramo;Paseo;NULL;4;NULL;0,00;0,02;NULL;0
+001-001-00023;Rosas Rojas Pequenas Aromas;Gramo;Paseo;NULL;4;NULL;0,00;0,018;NULL;0
+001-001-00024;Calendula Aromas;Gramo;Paseo;NULL;4;NULL;0,00;0,018;NULL;0
+001-001-00025;Caballo Chupa Aromas;Gramo;Paseo;NULL;4;NULL;0,00;0;NULL;0
+001-001-00026;Tarascaso Aromas;Gramo;Paseo;NULL;4;NULL;0,00;0;NULL;0
+001-001-00027;Matcha Latte Mix 1kg;Gramo;Paseo;NULL;4;NULL;3000,00;0,02;NULL;60
+001-001-00028;Matcha Kyoto Bi;Gramo;Paseo;NULL;4;NULL;0,00;0,306;NULL;0
+001-001-00029;Matcha Kyoto Rin;Gramo;Paseo;NULL;4;NULL;0,00;0,232;NULL;0
+001-001-00030;Manzana En Cubo Roberto Baldeon;Gramo;Paseo;NULL;4;NULL;0,00;0,028;NULL;0
+001-001-00031;Saborizante Naranja Tippytea 250 G;Unidad;Paseo;NULL;4;NULL;0,00;0,03;NULL;0
+001-001-00032;Sunfo Pucara;Gramo;Paseo;NULL;4;NULL;0,00;0,027;NULL;0
+001-001-00033;Maquila Koko Sen;Unidad;Paseo;NULL;4;NULL;0,00;0,01;NULL;0
+001-001-00034;Otros;Unidad;Paseo;NULL;4;NULL;0,00;0,01;NULL;0
+001-001-00035;Etiqueta Pequena Black Velvet;Unidad;Paseo;NULL;4;NULL;0,00;0,03;NULL;0
+001-001-00036;Etiqueta Pequena Bubbly Oolong;Unidad;Paseo;NULL;4;NULL;13,00;0,03;NULL;0,39
+001-001-00037;Etiqueta Pequena Pinneaple Mint;Unidad;Paseo;NULL;4;NULL;0,00;0,03;NULL;0
+001-001-00039;Saborizante Pina Tropical;Gramo;Paseo;NULL;4;NULL;0,00;0,015;NULL;0
+001-001-00040;Saborizante Coco;Gramo;Paseo;NULL;4;NULL;0,00;0,01;NULL;0
+001-001-00041;Saborizante Menta Banano;Gramo;Paseo;NULL;4;NULL;0,00;0,02;NULL;0
+001-001-00042;Balde Blanco Pp 3.5;Unidad;Paseo;NULL;4;NULL;0,00;0,7;NULL;0
+001-001-00056;Fundas de Hielo;Unidad;Paseo;NULL;4;NULL;0,00;0,94;NULL;0
+001-002-00002;Insumo De Maridaje;Unidad;Paseo;NULL;4;NULL;0,00;0,01;NULL;0
+001-003-00001;Latas Xl (Grande);Unidad;Paseo;NULL;4;NULL;38,00;0,45;NULL;17,1
+001-003-00003;Fundas Metalizadas;Unidad;Paseo;NULL;4;NULL;144,00;0,03;NULL;4,32
+001-003-00015;Etiqueta Grande Guayusa Tropical;Unidad;Paseo;NULL;4;NULL;9,00;0,04;NULL;0,36
+001-003-00016;Etiqueta Grande Monn Cycle;Unidad;Paseo;NULL;4;NULL;0,00;0,04;NULL;0
+001-003-00017;Etiqueta Extra Grande Divine Tea;Unidad;Paseo;NULL;4;NULL;0,00;0,06;NULL;0
+001-003-00018;Etiqueta Extra Grande Digestive Blend;Unidad;Paseo;NULL;4;NULL;0,00;0,06;NULL;0
+001-003-00019;Etiqueta Extra Grande Moon Cycle;Unidad;Paseo;NULL;4;NULL;0,00;0,06;NULL;0
+001-003-00020;Etiqueta Extra Grande Focus Boost;Unidad;Paseo;NULL;4;NULL;0,00;0,06;NULL;0
+001-003-00021;Porta Vasos;Unidad;Paseo;NULL;4;NULL;0,00;0,29;NULL;0
+001-003-00022;Etiquetas Pequeñas Jazmin;Unidad;Paseo;NULL;4;NULL;0,00;0,03;NULL;0
+001-003-00023;Etiquetas Pequeñas Butterfly Pea;Unidad;Paseo;NULL;4;NULL;0,00;0,03;NULL;0
+001-003-00024;Cofre Sin Tapa Por 9;Unidad;Paseo;NULL;4;NULL;2,00;6;NULL;12
+001-003-00025;Liner De Aluminio Tapa 120mm;Unidad;Paseo;NULL;4;NULL;0,00;0,15;NULL;0
+001-003-00026;Botella 60ml;Unidad;Paseo;NULL;4;NULL;0,00;0,63;NULL;0
+001-003-00027;Etiqueta Grande Lapsang Souchong;Unidad;Paseo;NULL;4;NULL;6,00;0,04;NULL;0,24
+001-003-00028;Tapa Rosca Blanca;Unidad;Paseo;NULL;4;NULL;0,00;0,03;NULL;0
+001-003-00029;Banda Pvc Tapa 28mm;Unidad;Paseo;NULL;4;NULL;0,00;0,0054;NULL;0
+001-003-00030;Etiquetas Bubble Tea Sabores;Unidad;Paseo;NULL;4;NULL;0,00;0,14;NULL;0
+001-003-00031;Sorbetes Papel Pequeño;Unidad;Paseo;NULL;4;NULL;25,00;0,02;NULL;0,5
+001-003-00032;Sorbetes Papel Grande;Unidad;Paseo;NULL;4;NULL;50,00;0,05;NULL;2,5
+001-003-00033;Tea Collection Caja Amarilla;Unidad;Paseo;NULL;4;NULL;13,00;0,3;NULL;3,9
+001-003-00034;Tapa Lata Pequeña;Unidad;Paseo;NULL;4;NULL;0,00;0,00001;NULL;0
+001-003-00035;Vaso Degustación;Unidad;Paseo;NULL;4;NULL;0,00;0,04;NULL;0
+001-003-00036;Caja Kit Matcha Madera Vacia;Unidad;Paseo;NULL;4;NULL;0,00;2,4;NULL;0
+001-003-00037;Caja Madera 4 Latitas Vacia;Unidad;Paseo;NULL;4;NULL;0,00;2,4;NULL;0
+001-003-00038;Cilindro 4 Latitas Vacio;Unidad;Paseo;NULL;4;NULL;0,00;6,5;NULL;0
+001-003-00039;Etiqueta Grande Rosaline Night;Unidad;Paseo;NULL;4;NULL;20,00;0,04;NULL;0,8
+001-003-00040;Etiqueta Grande Tropical Fusion;Unidad;Paseo;NULL;4;NULL;5,00;0,04;NULL;0,2
+001-003-00041;Etiqueta Grande  Orange Star;Unidad;Paseo;NULL;4;NULL;13,00;0,04;NULL;0,52
+001-003-00042;Etiqueta Grande Golden Rooibos;Unidad;Paseo;NULL;4;NULL;6,00;0,04;NULL;0,24
+001-003-00043;Etiqueta Grande Green Jade;Unidad;Paseo;NULL;4;NULL;9,00;0,04;NULL;0,36
+001-003-00044;Etiqueta Grande Flowers Y Kisses;Unidad;Paseo;NULL;4;NULL;8,00;0,04;NULL;0,32
+001-003-00045;Etiqueta Grande Lavender Mint;Unidad;Paseo;NULL;4;NULL;0,00;0,04;NULL;0
+001-003-00046;Etiqueta Grande Mystic Rose;Unidad;Paseo;NULL;4;NULL;10,00;0,04;NULL;0,4
+001-003-00047;Etiqueta Grande Butterfly Floral;Unidad;Paseo;NULL;4;NULL;7,00;0,04;NULL;0,28
+001-003-00048;Etiqueta Grande Milky Oolong;Unidad;Paseo;NULL;4;NULL;0,00;0,04;NULL;0
+001-003-00049;Etiqueta Grande Caribbean Punch;Unidad;Paseo;NULL;4;NULL;15,00;0,04;NULL;0,6
+001-003-00050;Cofres 6 Espacios Con Tapa;Unidad;Paseo;NULL;4;NULL;0,00;6;NULL;0
+001-003-00051;Divisiones De Carton;Unidad;Paseo;NULL;4;NULL;0,00;0,03;NULL;0
+001-003-00052;Frascos Para Bubbletea;Unidad;Paseo;NULL;4;NULL;0,00;0,49;NULL;0
+001-003-00053;Funda Dorada 13x21;Unidad;Paseo;NULL;4;NULL;0,00;0,05;NULL;0
+001-003-00054;Funda Eco Food Tippytea (500);Unidad;Paseo;NULL;4;NULL;0,00;0,02594;NULL;0
+001-003-00055;Funda Plateada Antigua 13x21;Unidad;Paseo;NULL;4;NULL;0,00;0,11;NULL;0
+001-003-00056;Funda Mate;Unidad;Paseo;NULL;4;NULL;0,00;0,34;NULL;0
+001-003-00057;Funda Tippytea Amarilla 50gr;Unidad;Paseo;NULL;4;NULL;0,00;0,49;NULL;0
+001-003-00058;Funda Zipper Transparente Grande 9x13;Unidad;Paseo;NULL;4;NULL;0,00;0,125;NULL;0
+001-003-00059;Funda Zipper Transparente Mediana 8x9,5;Unidad;Paseo;NULL;4;NULL;0,00;0,078;NULL;0
+001-003-00060;Funda Zipper Transparente Pequena 5,5x7;Unidad;Paseo;NULL;4;NULL;0,00;0,048;NULL;0
+001-003-00061;Funda Negra Kfc;Unidad;Paseo;NULL;4;NULL;0,00;0,61;NULL;0
+001-003-00062;Funda Kraft 10 X 18;Unidad;Paseo;NULL;4;NULL;0,00;0,11;NULL;0
+001-003-00063;Funda Kraft Matcha 13 X 21;Unidad;Paseo;NULL;4;NULL;0,00;0,11;NULL;0
+001-003-00064;Funda Plateada 25x44;Unidad;Paseo;NULL;4;NULL;0,00;0,59;NULL;0
+001-003-00065;Funda Plateada 19x27;Unidad;Paseo;NULL;4;NULL;0,00;0,16;NULL;0
+001-003-00066;Funda Transparente 13x21;Unidad;Paseo;NULL;4;NULL;0,00;0,09;NULL;0
+001-003-00067;Funda Transparente 10x18;Unidad;Paseo;NULL;4;NULL;0,00;0,08;NULL;0
+001-003-00068;Funda Tisana Frutos Rojos;Unidad;Paseo;NULL;4;NULL;0,00;0,02;NULL;0
+001-003-00069;Funda Tisana Naranja;Unidad;Paseo;NULL;4;NULL;0,00;0,02;NULL;0
+001-003-00070;Funda Tisana Manzana;Unidad;Paseo;NULL;4;NULL;0,00;0,02;NULL;0
+001-003-00071;Funda Tisana Pina;Unidad;Paseo;NULL;4;NULL;0,00;0,02;NULL;0
+001-003-00072;Piramides Tippytea;Unidad;Paseo;NULL;4;NULL;0,00;0,23;NULL;0
+001-003-00073;Rollos Para Sachets Nuevos Amarillos Tippytea;Unidad;Paseo;NULL;4;NULL;0,00;0,02;NULL;0
+001-003-00074;Rollos  Zebra 64x102 (1 Fila);Unidad;Paseo;NULL;4;NULL;0,00;0,0088;NULL;0
+001-003-00075;Rollos Zebra 25x40 (3 Filas);Unidad;Paseo;NULL;4;NULL;0,00;0,00022;NULL;0
+001-003-00076;Rollos Zebra 15x32 (2 Filas);Unidad;Paseo;NULL;4;NULL;0,00;0,0003;NULL;0
+001-003-00077;Rollos Impresora 60 X 15;Unidad;Paseo;NULL;4;NULL;0,00;0,004;NULL;0
+001-003-00078;Rollos Impresora 3x1;Unidad;Paseo;NULL;4;NULL;0,00;0,03;NULL;0
+001-003-00079;Rollos Impresora 3x 2;Unidad;Paseo;NULL;4;NULL;0,00;0,1034;NULL;0
+001-003-00080;Rollos Impresora 4 X 3;Unidad;Paseo;NULL;4;NULL;0,00;0,088;NULL;0
+001-003-00081;Rollos Impresora 3x 5;Unidad;Paseo;NULL;4;NULL;0,00;0,06;NULL;0
+001-003-00082;Rollos Impresora 4x 6;Unidad;Paseo;NULL;4;NULL;0,00;0,05;NULL;0
+001-003-00083;Rollos Impresora 2x 2;Unidad;Paseo;NULL;4;NULL;0,00;0,03;NULL;0
+001-003-00084;Rollos Tippytea;Unidad;Paseo;NULL;4;NULL;0,00;0,013;NULL;0
+001-003-00085;Rollos Pads 20cm;Unidad;Paseo;NULL;4;NULL;0,00;11,77;NULL;0
+001-003-00086;Rollos Pads 12cm;Unidad;Paseo;NULL;4;NULL;0,00;18,09;NULL;0
+001-003-00087;Rollos Tag Blancos;Unidad;Paseo;NULL;4;NULL;0,00;6,97;NULL;0
+001-003-00088;Rollo De Nylon Sin Tag;Unidad;Paseo;NULL;4;NULL;0,00;0,03;NULL;0
+001-003-00089;Rollo Kraft Maquina Nueva;Unidad;Paseo;NULL;4;NULL;0,00;7,44;NULL;0
+001-003-00090;Rollo Blanco Maquina Nueva;Unidad;Paseo;NULL;4;NULL;0,00;6,94;NULL;0
+001-003-00091;Rollo Hilo De Algodon;Unidad;Paseo;NULL;4;NULL;0,00;6,94;NULL;0
+001-003-00092;Rollo Fiorana Kraft;Unidad;Paseo;NULL;4;NULL;0,00;7,44;NULL;0
+001-003-00093;Rollo Fiorana Rojo;Unidad;Paseo;NULL;4;NULL;0,00;7,44;NULL;0
+001-003-00094;Rollo Generico Fiorana;Unidad;Paseo;NULL;4;NULL;0,00;6,97;NULL;0
+001-003-00095;Rollo Sweet And Coffe;Unidad;Paseo;NULL;4;NULL;0,00;0,014;NULL;0
+001-003-00096;Sobres Plasticos Tizanas;Unidad;Paseo;NULL;4;NULL;0,00;0,018;NULL;0
+001-003-00097;Tea Collection Tapa Transparente;Unidad;Paseo;NULL;4;NULL;0,00;0,00001;NULL;0
+001-003-00098;Tea Collection Base Azul;Unidad;Paseo;NULL;4;NULL;0,00;0,00001;NULL;0
+001-003-00099;Tubos Acetato Para Latita X8;Unidad;Paseo;NULL;4;NULL;0,00;4,5;NULL;0
+001-003-00100;Tubos Acetato Para Latita X4;Unidad;Paseo;NULL;4;NULL;0,00;6,5;NULL;0
+001-003-00101;Caja Aromatica Vacia;Unidad;Paseo;NULL;4;NULL;0,00;0,13;NULL;0
+001-003-00102;Caja Aromatica Flores De Manzanilla;Unidad;Paseo;NULL;4;NULL;0,00;0,13;NULL;0
+001-003-00103;Caja Aromatica Hierbabuena;Unidad;Paseo;NULL;4;NULL;0,00;0,13;NULL;0
+001-003-00104;Doypac Vacio;Unidad;Paseo;NULL;4;NULL;0,00;0,23;NULL;0
+001-003-00105;Doypac Lemon Ginger;Unidad;Paseo;NULL;4;NULL;0,00;0,23;NULL;0
+001-003-00106;Doypac Chamomile;Unidad;Paseo;NULL;4;NULL;0,00;0,23;NULL;0
+001-003-00107;Doypac Berry Berry;Unidad;Paseo;NULL;4;NULL;0,00;0,23;NULL;0
+001-003-00108;Funda Amarilla 50 Gr Matcha Culinario;Unidad;Paseo;NULL;4;NULL;0,00;0,34;NULL;0
+001-003-00109;Funda Amarilla 50 Gr Pink Matcha;Unidad;Paseo;NULL;4;NULL;0,00;0,34;NULL;0
+001-003-00110;Funda Amarilla 100 Gr Chai Latte Mix;Unidad;Paseo;NULL;4;NULL;0,00;0,31;NULL;0
+001-003-00111;Funda Amarilla 100 Gr Pink Lemonade;Unidad;Paseo;NULL;4;NULL;0,00;0,31;NULL;0
+001-003-00112;Funda Amarilla 100 Gr Te Negro Y Limon;Unidad;Paseo;NULL;4;NULL;0,00;0,34;NULL;0
+001-003-00113;Lata Para Matcha Colores  30gr;Unidad;Paseo;NULL;4;NULL;0,00;0,02;NULL;0
+001-003-00114;Etiquetas Aromaticas Anis;Unidad;Paseo;NULL;4;NULL;0,00;0,02;NULL;0
+001-003-00115;Etiquetas Aromaticas Cedron;Unidad;Paseo;NULL;4;NULL;0,00;0,02;NULL;0
+001-003-00116;Etiquetas Aromaticas Flores De Manzanilla;Unidad;Paseo;NULL;4;NULL;0,00;0,02;NULL;0
+001-003-00117;Etiquetas Aromaticas Guayusa;Unidad;Paseo;NULL;4;NULL;0,00;0,02;NULL;0
+001-003-00118;Etiquetas Aromaticas Hierbabuena;Unidad;Paseo;NULL;4;NULL;0,00;0,02;NULL;0
+001-003-00119;Etiquetas Aromaticas Hierbaluisa;Unidad;Paseo;NULL;4;NULL;0,00;0,02;NULL;0
+001-003-00120;Etiquetas Aromaticas Manzanilla Y Miel;Unidad;Paseo;NULL;4;NULL;0,00;0,02;NULL;0
+001-003-00121;Etiquetas Aromaticas Menta;Unidad;Paseo;NULL;4;NULL;0,00;0,02;NULL;0
+001-003-00122;Etiquetas Aromaticas Toronjil;Unidad;Paseo;NULL;4;NULL;0,00;0,02;NULL;0
+001-003-00123;Etiquetas Doypac Chamomille;Unidad;Paseo;NULL;4;NULL;0,00;0,02;NULL;0
+001-003-00124;Etiquetas Doypac Earl Grey;Unidad;Paseo;NULL;4;NULL;0,00;0,02;NULL;0
+001-003-00125;Etiquetas Doypac Green Tea;Unidad;Paseo;NULL;4;NULL;0,00;0,02;NULL;0
+001-003-00126;Etiquetas Doypac Lemon Ginger;Unidad;Paseo;NULL;4;NULL;0,00;0,02;NULL;0
+001-003-00127;Etiquetas Doypac Strawberry;Unidad;Paseo;NULL;4;NULL;0,00;0,02;NULL;0
+001-003-00128;Etiquetas Latas Atix Blend;Unidad;Paseo;NULL;4;NULL;0,00;0,14;NULL;0
+001-003-00129;Etiquetas Latas Amarillas Delgada;Unidad;Paseo;NULL;4;NULL;0,00;0,02;NULL;0
+001-003-00130;Etiquetas Latas Berry Berry Amarillas Delgada;Unidad;Paseo;NULL;4;NULL;0,00;0,05;NULL;0
+001-003-00131;Etiquetas Latas Chamomille Amarilla Delgada;Unidad;Paseo;NULL;4;NULL;0,00;0,05;NULL;0
+001-003-00132;Etiquetas Latas Cosmic Blend;Unidad;Paseo;NULL;4;NULL;0,00;0,11;NULL;0
+001-003-00133;Etiquetas Latas Cyril Nuit The Noel;Unidad;Paseo;NULL;4;NULL;0,00;0,46;NULL;0
+001-003-00134;Etiquetas Latas Earl Grey Amarilla Delgada;Unidad;Paseo;NULL;4;NULL;0,00;0,04;NULL;0
+001-003-00135;Etiquetas Latas Green Tea Amarilla Delgada;Unidad;Paseo;NULL;4;NULL;0,00;0,01;NULL;0
+001-003-00136;Etiquetas Latas Holiday Blend 10 Anos;Unidad;Paseo;NULL;4;NULL;0,00;0,01;NULL;0
+001-003-00137;Etiquetas Latas Infusion Tartelle Mandarine;Unidad;Paseo;NULL;4;NULL;0,00;0,46;NULL;0
+001-003-00138;Etiquetas Latas Infusion Infusion Coquelicot;Unidad;Paseo;NULL;4;NULL;0,00;0,46;NULL;0
+001-003-00139;Etiquetas Latas Infusion Mademoiselle;Unidad;Paseo;NULL;4;NULL;0,00;0,46;NULL;0
+001-003-00140;Etiquetas Latas Infusion Miss Elissa;Unidad;Paseo;NULL;4;NULL;0,00;0,46;NULL;0
+001-003-00141;Etiquetas Latas Infusion The Les Jardins De La Reine;Unidad;Paseo;NULL;4;NULL;0,00;0,46;NULL;0
+001-003-00142;Etiquetas Latas Infusion The Ophir;Unidad;Paseo;NULL;4;NULL;0,00;0,46;NULL;0
+001-003-00143;Etiquetas Latas Infusion The Angel Y Demon;Unidad;Paseo;NULL;4;NULL;0,00;0,46;NULL;0
+001-003-00144;Etiquetas Latas Infusion The Au Coeur De Paris;Unidad;Paseo;NULL;4;NULL;0,00;0,46;NULL;0
+001-003-00145;Etiquetas Latas Infusion The Les Contrairies;Unidad;Paseo;NULL;4;NULL;0,00;0,46;NULL;0
+001-003-00146;Etiquetas Latas Legacy Blend 10 Anos;Unidad;Paseo;NULL;4;NULL;0,00;0,13;NULL;0
+001-003-00147;Etiquetas Latas Lemon Ginger Amarilla Delgada;Unidad;Paseo;NULL;4;NULL;0,00;0,05;NULL;0
+001-003-00148;Etiquetas Latas Natural Vitality;Unidad;Paseo;NULL;4;NULL;0,00;0,05;NULL;0
+001-003-00149;Etiquetas Latas Strawberry Amarilla Delgada;Unidad;Paseo;NULL;4;NULL;0,00;0,01;NULL;0
+001-003-00150;Etiquetas Latas Arquitectura Sostenible;Unidad;Paseo;NULL;4;NULL;0,00;0,92;NULL;0
+001-003-00151;Etiquetas Latas Menta Sandia;Unidad;Paseo;NULL;4;NULL;0,00;0,09;NULL;0
+001-003-00152;Frascos Pequenos Bubble Tea;Unidad;Paseo;NULL;4;NULL;0,00;0,24;NULL;0
+001-003-00153;Cajas Fiorana;Unidad;Paseo;NULL;4;NULL;0,00;0,43;NULL;0
+001-003-00154;Mangas Calendario Amarilla;Unidad;Paseo;NULL;4;NULL;0,00;1;NULL;0
+001-003-00155;Mangas Calendario Colores;Unidad;Paseo;NULL;4;NULL;0,00;0,8;NULL;0
+001-003-00156;Fajillas Jamaica Berries;Unidad;Paseo;NULL;4;NULL;0,00;0,01;NULL;0
+001-003-00157;Fajillas Lemon Black Tea;Unidad;Paseo;NULL;4;NULL;0,00;0,01;NULL;0
+001-003-00158;Fajillas Lemon Ginger;Unidad;Paseo;NULL;4;NULL;0,00;0,01;NULL;0
+001-003-00160;Fajillas Rooibos Mango;Unidad;Paseo;NULL;4;NULL;0,00;0,07;NULL;0
+001-003-00161;Fajillas White Tea Rose;Unidad;Paseo;NULL;4;NULL;0,00;0,07;NULL;0
+001-003-00162;Fajas;Unidad;Paseo;NULL;4;NULL;0,00;0,26;NULL;0
+001-003-00163;Cartones 178314 (71 Cajas Grandes);Unidad;Paseo;NULL;4;NULL;0,00;1,41;NULL;0
+001-003-00164;Cartones 178314 (61);Unidad;Paseo;NULL;4;NULL;0,00;0,56;NULL;0
+001-003-00165;Cartones 189771 (81 );Unidad;Paseo;NULL;4;NULL;0,00;1,13;NULL;0
+001-003-00166;Cartones 188399 (51 );Unidad;Paseo;NULL;4;NULL;0,00;0,53;NULL;0
+001-003-00167;Maquila Doypack Every Express;Unidad;Paseo;NULL;4;NULL;0,00;0,03;NULL;0
+001-003-00168;Etiqueta Grande Black Sunshine;Unidad;Paseo;NULL;4;NULL;10,00;0,04;NULL;0,4
+001-003-00169;Etiqueta Grande Creamy Noir;Unidad;Paseo;NULL;4;NULL;8,00;0,04;NULL;0,32
+001-003-00170;Etiqueta Grande Caramelo Supreme;Unidad;Paseo;NULL;4;NULL;14,00;0,04;NULL;0,56
+001-003-00171;Etiqueta Grande Black Velvet;Unidad;Paseo;NULL;4;NULL;6,00;0,04;NULL;0,24
+001-003-00172;Etiqueta Grande Lucky Mango;Unidad;Paseo;NULL;4;NULL;0,00;0,04;NULL;0
+001-003-00173;Etiqueta Grande Tilo Lemon;Unidad;Paseo;NULL;4;NULL;22,00;0,04;NULL;0,88
+001-003-00174;Etiqueta Grande Red Seduction;Unidad;Paseo;NULL;4;NULL;2,00;0,04;NULL;0,08
+001-003-00175;Etiqueta Grande Bubbly Oolong;Unidad;Paseo;NULL;4;NULL;0,00;0,04;NULL;0
+001-003-00176;Etiqueta Grande Pineapple Mint;Unidad;Paseo;NULL;4;NULL;10,00;0,04;NULL;0,4
+001-003-00177;Etiqueta Grande Cotton Candid;Unidad;Paseo;NULL;4;NULL;46,00;0,04;NULL;1,84
+001-003-00178;Etiqueta Grande Flower Lullaby;Unidad;Paseo;NULL;4;NULL;14,00;0,04;NULL;0,56
+001-003-00179;Etiqueta Grande Amaranto Spice;Unidad;Paseo;NULL;4;NULL;21,00;0,04;NULL;0,84
+001-003-00180;Etiqueta Grande Ruby Tangerine;Unidad;Paseo;NULL;4;NULL;22,00;0,04;NULL;0,88
+001-003-00181;Etiqueta Grande Ginger Cider;Unidad;Paseo;NULL;4;NULL;9,00;0,04;NULL;0,36
+001-003-00182;Etiqueta Grande Midnight Almond;Unidad;Paseo;NULL;4;NULL;23,00;0,04;NULL;0,92
+001-003-00183;Etiqueta Grande Orange Blossom;Unidad;Paseo;NULL;4;NULL;31,00;0,04;NULL;1,24
+001-003-00184;Etiqueta Grande Majestic Pu-Erh;Unidad;Paseo;NULL;4;NULL;17,00;0,04;NULL;0,68
+001-003-00185;Etiqueta Grande Citrus Matcha;Unidad;Paseo;NULL;4;NULL;21,00;0,04;NULL;0,84
+001-003-00186;Etiqueta Grande Rooibos Organico;Unidad;Paseo;NULL;4;NULL;13,00;0,04;NULL;0,52
+001-003-00187;Etiqueta Grande Provence Rooibos;Unidad;Paseo;NULL;4;NULL;10,00;0,04;NULL;0,4
+001-003-00188;Etiqueta Grande Oolong Cherry Rose;Unidad;Paseo;NULL;4;NULL;1,00;0,04;NULL;0,04
+001-003-00189;Etiqueta Grande Oolong;Unidad;Paseo;NULL;4;NULL;8,00;0,04;NULL;0,32
+001-003-00190;Etiqueta Grande Sencha Organico;Unidad;Paseo;NULL;4;NULL;23,00;0,04;NULL;0,92
+001-003-00191;Etiqueta Grande Cherry Rose;Unidad;Paseo;NULL;4;NULL;21,00;0,04;NULL;0,84
+001-003-00192;Etiqueta Grande Jamaica Green Tea;Unidad;Paseo;NULL;4;NULL;5,00;0,04;NULL;0,2
+001-003-00193;Etiqueta Grande Mint Green;Unidad;Paseo;NULL;4;NULL;0,00;0,04;NULL;0
+001-003-00194;Etiqueta Grande Piña Green Tea;Unidad;Paseo;NULL;4;NULL;21,00;0,04;NULL;0,84
+001-003-00195;Etiqueta Grande Strawberry Green Tea;Unidad;Paseo;NULL;4;NULL;14,00;0,04;NULL;0,56
+001-003-00196;Etiqueta Grande Chocolate Mint;Unidad;Paseo;NULL;4;NULL;18,00;0,04;NULL;0,72
+001-003-00197;Etiqueta Grande Black Mango;Unidad;Paseo;NULL;4;NULL;14,00;0,04;NULL;0,56
+001-003-00198;Etiqueta Grande Black Peach;Unidad;Paseo;NULL;4;NULL;19,00;0,04;NULL;0,76
+001-003-00199;Etiqueta Grande Te Negro;Unidad;Paseo;NULL;4;NULL;23,00;0,04;NULL;0,92
+001-003-00200;Etiqueta Grande English Breakfast;Unidad;Paseo;NULL;4;NULL;6,00;0,04;NULL;0,24
+001-003-00201;Etiqueta Grande Earl Grey;Unidad;Paseo;NULL;4;NULL;12,00;0,04;NULL;0,48
+001-003-00202;Etiqueta Grande Vainilla Chai;Unidad;Paseo;NULL;4;NULL;8,00;0,04;NULL;0,32
+001-003-00203;Etiqueta Grande Flores De Jazmin;Unidad;Paseo;NULL;4;NULL;10,00;0,04;NULL;0,4
+001-003-00204;Etiqueta Grande Strawberry Rose Mint;Unidad;Paseo;NULL;4;NULL;27,00;0,04;NULL;1,08
+001-003-00205;Etiqueta Grande Rosas;Unidad;Paseo;NULL;4;NULL;6,00;0,04;NULL;0,24
+001-003-00206;Etiqueta Grande Lemon Ginger;Unidad;Paseo;NULL;4;NULL;15,00;0,04;NULL;0,6
+001-003-00207;Etiqueta Grande Chamomile Lavender Y Roses;Unidad;Paseo;NULL;4;NULL;1,00;0,04;NULL;0,04
+001-003-00208;Etiqueta Grande Butterfly Pea;Unidad;Paseo;NULL;4;NULL;12,00;0,04;NULL;0,48
+001-003-00209;Etiqueta  Grande Puerh;Unidad;Paseo;NULL;4;NULL;19,00;0,04;NULL;0,76
+001-003-00210;Etiqueta Grande Tè Blanco Pai Mu Tan;Unidad;Paseo;NULL;4;NULL;13,00;0,04;NULL;0,52
+001-003-00211;Etiqueta Grande Puerh Capuccino;Unidad;Paseo;NULL;4;NULL;18,00;0,04;NULL;0,72
+001-003-00212;Etiqueta Grande Detox Tea;Unidad;Paseo;NULL;4;NULL;18,00;0,04;NULL;0,72
+001-003-00213;Etiqueta Grande Casablanca;Unidad;Paseo;NULL;4;NULL;0,00;0,04;NULL;0
+001-003-00214;Etiqueta Grande Bingoblueberry;Unidad;Paseo;NULL;4;NULL;10,00;0,04;NULL;0,4
+001-003-00215;Etiqueta Grande Orange Jamaica;Unidad;Paseo;NULL;4;NULL;12,00;0,04;NULL;0,48
+001-003-00216;Etiqueta Grande Berry Berry;Unidad;Paseo;NULL;4;NULL;7,00;0,04;NULL;0,28
+001-003-00217;Etiqueta Grande Cranberry Apple;Unidad;Paseo;NULL;4;NULL;14,00;0,04;NULL;0,56
+001-003-00218;Etiqueta Grande Strawberry Kiwi;Unidad;Paseo;NULL;4;NULL;10,00;0,04;NULL;0,4
+001-003-00219;Etiqueta Grande Mix Frutal;Unidad;Paseo;NULL;4;NULL;22,00;0,04;NULL;0,88
+001-003-00220;Etiqueta Grande Tutti Frutti;Unidad;Paseo;NULL;4;NULL;7,00;0,04;NULL;0,28
+001-003-00221;Etiqueta Grande Sandia;Unidad;Paseo;NULL;4;NULL;22,00;0,04;NULL;0,88
+001-003-00222;Etiqueta Grande Paradiso Peach;Unidad;Paseo;NULL;4;NULL;30,00;0,04;NULL;1,2
+001-003-00223;Etiqueta Grande  Mercedes Apple Spice;Unidad;Paseo;NULL;4;NULL;15,00;0,04;NULL;0,6
+001-003-00224;Etiqueta Grande Tropical Fruit;Unidad;Paseo;NULL;4;NULL;27,00;0,04;NULL;1,08
+001-003-00225;Etiqueta Grande Guayusa;Unidad;Paseo;NULL;4;NULL;42,00;0,04;NULL;1,68
+001-003-00226;Etiqueta Grande Black Guayusa Y Chocolate;Unidad;Paseo;NULL;4;NULL;0,00;0,04;NULL;0
+001-003-00227;Etiqueta Grande Guayusa Y Mortiño;Unidad;Paseo;NULL;4;NULL;0,00;0,04;NULL;0
+001-003-00228;Etiqueta Grande Black Guayusa;Unidad;Paseo;NULL;4;NULL;0,00;0,04;NULL;0
+001-003-00229;Etiqueta Grande Lavanda;Unidad;Paseo;NULL;4;NULL;10,00;0,04;NULL;0,4
+001-003-00230;Etiqueta Grande Mate Y Guayusa Citrus;Unidad;Paseo;NULL;4;NULL;14,00;0,04;NULL;0,56
+001-003-00231;Etiqueta Grande Orange Cocoa;Unidad;Paseo;NULL;4;NULL;9,00;0,04;NULL;0,36
+001-003-00232;Etiqueta Grande Canela Y Rooibos;Unidad;Paseo;NULL;4;NULL;24,00;0,04;NULL;0,96
+001-003-00233;Etiqueta Grande Rooibos Y Pera;Unidad;Paseo;NULL;4;NULL;0,00;0,04;NULL;0
+001-003-00234;Etiqueta Grande Sunshine Lemon;Unidad;Paseo;NULL;4;NULL;0,00;0,04;NULL;0
+001-003-00235;Etiqueta Grande Banana Republic;Unidad;Paseo;NULL;4;NULL;0,00;0,04;NULL;0
+001-003-00236;Etiqueta Grande Oolong Grape;Unidad;Paseo;NULL;4;NULL;0,00;0,04;NULL;0
+001-003-00237;Etiqueta Grande Tè Verde Y Jazmìn;Unidad;Paseo;NULL;4;NULL;0,00;0,04;NULL;0
+001-003-00238;Etiqueta Grande Agua De Azares;Unidad;Paseo;NULL;4;NULL;4,00;0,04;NULL;0,16
+001-003-00239;Etiqueta Pequena Christmas Blend;Unidad;Paseo;NULL;4;NULL;0,00;0,03;NULL;0
+001-003-00240;Etiqueta Pequena Guayusa Tropical;Unidad;Paseo;NULL;4;NULL;0,00;0,03;NULL;0
+001-003-00241;Etiqueta Grande Aqua De Rosa;Unidad;Paseo;NULL;4;NULL;8,00;0,04;NULL;0,32
+001-003-00242;Etiqueta Grande Sakura;Unidad;Paseo;NULL;4;NULL;7,00;0,04;NULL;0,28
+001-003-00243;Etiqueta Grande Menta;Unidad;Paseo;NULL;4;NULL;0,00;0,04;NULL;0
+001-003-00244;Etiqueta Grande Blueberry Temtptacion;Unidad;Paseo;NULL;4;NULL;16,00;0,04;NULL;0,64
+001-003-00245;Etiqueta Grande Turucucho;Unidad;Paseo;NULL;4;NULL;1,00;0,04;NULL;0,04
+001-003-00246;Etiqueta Grande Cedron;Unidad;Paseo;NULL;4;NULL;0,00;0,04;NULL;0
+001-003-00247;Etiqueta Grande Manzanilla;Unidad;Paseo;NULL;4;NULL;0,00;0,04;NULL;0
+001-003-00248;Etiqueta Grande Divine Tea;Unidad;Paseo;NULL;4;NULL;9,00;0,04;NULL;0,36
+001-003-00249;Etiqueta Grande Focus Boost;Unidad;Paseo;NULL;4;NULL;15,00;0,04;NULL;0,6
+001-003-00250;Etiqueta Grande Moon Cycle;Unidad;Paseo;NULL;4;NULL;7,00;0,04;NULL;0,28
+001-003-00251;Etiqueta Grande  Digestive Blend;Unidad;Paseo;NULL;4;NULL;8,00;0,04;NULL;0,32
+001-003-00252;Etiqueta Grande Delta Night;Unidad;Paseo;NULL;4;NULL;31,00;0,04;NULL;1,24
+001-003-00253;Etiqueta Grande Caramel Dragon Fruit;Unidad;Paseo;NULL;4;NULL;17,00;0,04;NULL;0,68
+001-003-00254;Etiqueta Grande Sandia Y Menta;Unidad;Paseo;NULL;4;NULL;6,00;0,04;NULL;0,24
+001-003-00255;Etiqueta Pequena Digestive Blend;Unidad;Paseo;NULL;4;NULL;0,00;0,03;NULL;0
+001-003-00256;Etiqueta Pequena Moon Cycle;Unidad;Paseo;NULL;4;NULL;0,00;0,03;NULL;0
+001-003-00257;Etiqueta Pequena Delta Nigth;Unidad;Paseo;NULL;4;NULL;0,00;0,03;NULL;0
+001-003-00258;Etiqueta Pequena Focus Boost;Unidad;Paseo;NULL;4;NULL;0,00;0,03;NULL;0
+001-003-00259;Etiqueta Pequena Divine Tea;Unidad;Paseo;NULL;4;NULL;0,00;0,03;NULL;0
+001-003-00260;Etiqueta Navidad Mint Green;Unidad;Paseo;NULL;4;NULL;0,00;0,04;NULL;0
+001-003-00261;Etiqueta Grande Hawaiian Colada;Unidad;Paseo;NULL;4;NULL;11,00;0,04;NULL;0,44
+001-003-00262;Etiqueta Navidad Vainilla Chai;Unidad;Paseo;NULL;4;NULL;0,00;0,04;NULL;0
+001-003-00263;Etiqueta Navidad Christmas Blend;Unidad;Paseo;NULL;4;NULL;0,00;0,04;NULL;0
+001-003-00264;Etiqueta Navidad Earl Grey;Unidad;Paseo;NULL;4;NULL;0,00;0,04;NULL;0
+001-003-00265;Etiqueta Navidad Chocolate Mint;Unidad;Paseo;NULL;4;NULL;0,00;0,04;NULL;0
+001-003-00266;Etiqueta Navidad Cherry Rose Green Tea;Unidad;Paseo;NULL;4;NULL;0,00;0,04;NULL;0
+001-003-00267;Etiqueta Navidad Bubbly Oolong;Unidad;Paseo;NULL;4;NULL;0,00;0,04;NULL;0
+001-003-00268;Etiqueta Navidad Berry Berry;Unidad;Paseo;NULL;4;NULL;0,00;0,04;NULL;0
+001-003-00269;Etiqueta Navidad Cranberry;Unidad;Paseo;NULL;4;NULL;0,00;0,04;NULL;0
+001-003-00270;Etiqueta Navidad Bingo Blueberry;Unidad;Paseo;NULL;4;NULL;0,00;0,04;NULL;0
+001-003-00271;Etiqueta Navidad Casablanca;Unidad;Paseo;NULL;4;NULL;0,00;0,04;NULL;0
+001-003-00272;Etiqueta Navidad Cotton Candid;Unidad;Paseo;NULL;4;NULL;0,00;0,04;NULL;0
+001-003-00273;Etiqueta Navidad Guayusa Y Chocolate;Unidad;Paseo;NULL;4;NULL;0,00;0,04;NULL;0
+001-003-00274;Etiqueta Navidad Lucky Mango;Unidad;Paseo;NULL;4;NULL;0,00;0,04;NULL;0
+001-003-00275;Etiqueta Navidad Red Seduction;Unidad;Paseo;NULL;4;NULL;0,00;0,04;NULL;0
+001-003-00276;Etiqueta Navidad Milky Oolong;Unidad;Paseo;NULL;4;NULL;0,00;0,04;NULL;0
+001-003-00277;Etiqueta Navidad Creamy Noir;Unidad;Paseo;NULL;4;NULL;0,00;0,04;NULL;0
+001-003-00278;Etiqueta Navidad Lemon Ginger;Unidad;Paseo;NULL;4;NULL;0,00;0,04;NULL;0
+001-003-00279;Etiqueta Navidad Provence;Unidad;Paseo;NULL;4;NULL;0,00;0,04;NULL;0
+001-003-00280;Etiqueta Navidad Orange Cocoa;Unidad;Paseo;NULL;4;NULL;0,00;0,04;NULL;0
+001-003-00281;Etiqueta Navidad Pineapple Mint;Unidad;Paseo;NULL;4;NULL;0,00;0,04;NULL;0
+001-003-00282;Etiqueta Navidad Rosaline Night;Unidad;Paseo;NULL;4;NULL;0,00;0,04;NULL;0
+001-003-00283;Etiqueta Sakura Cherry Blossom;Unidad;Paseo;NULL;4;NULL;0,00;0,04;NULL;0
+001-003-00284;Etiqueta Grande Black Blueberry;Unidad;Paseo;NULL;4;NULL;6,00;0,04;NULL;0,24
+001-003-00285;Etiqueta Navidad Chamomile Lavender & Roses;Unidad;Paseo;NULL;4;NULL;0,00;0,04;NULL;0
+001-003-00286;Funda Grande Cafe Chopping Bag;Unidad;Paseo;NULL;4;NULL;43,00;0,6;NULL;25,8
+001-003-00287;Etiqueta Pequena Oolong;Unidad;Paseo;NULL;4;NULL;0,00;0,03;NULL;0
+001-003-00288;Etiqueta Pequena Piña Green Tea;Unidad;Paseo;NULL;4;NULL;0,00;0,03;NULL;0
+001-003-00289;Etiqueta Pequena Strawberry Green Tea;Unidad;Paseo;NULL;4;NULL;0,00;0,03;NULL;0
+001-003-00290;Etiqueta Pequena English Breakfast;Unidad;Paseo;NULL;4;NULL;0,00;0,03;NULL;0
+001-003-00291;Etiqueta Pequena Earl Grey;Unidad;Paseo;NULL;4;NULL;0,00;0,03;NULL;0
+001-003-00292;Etiqueta Pequena Rosas;Unidad;Paseo;NULL;4;NULL;0,00;0,03;NULL;0
+001-003-00293;Etiqueta Pequena Lemon Ginger;Unidad;Paseo;NULL;4;NULL;0,00;0,03;NULL;0
+001-003-00294;Etiqueta Pequena Puerh;Unidad;Paseo;NULL;4;NULL;0,00;0,03;NULL;0
+001-003-00295;Etiqueta Pequena Tè Blanco Pai Mu Tan;Unidad;Paseo;NULL;4;NULL;0,00;0,03;NULL;0
+001-003-00296;Etiqueta Pequena Orange Jamaica;Unidad;Paseo;NULL;4;NULL;0,00;0,03;NULL;0
+001-003-00297;Etiqueta Pequena Mix Frutal;Unidad;Paseo;NULL;4;NULL;0,00;0,03;NULL;0
+001-003-00298;Etiqueta Pequena Tutti Frutti;Unidad;Paseo;NULL;4;NULL;0,00;0,03;NULL;0
+001-003-00299;Etiqueta Pequena Sandia;Unidad;Paseo;NULL;4;NULL;0,00;0,03;NULL;0
+001-003-00300;Etiqueta Pequena Paradiso Peach;Unidad;Paseo;NULL;4;NULL;0,00;0,03;NULL;0
+001-003-00301;Etiqueta Pequena Mercedes Apple Spice;Unidad;Paseo;NULL;4;NULL;0,00;0,03;NULL;0
+001-003-00302;Etiqueta Pequena Tropical Fruit;Unidad;Paseo;NULL;4;NULL;0,00;0,03;NULL;0
+001-003-00303;Etiqueta Pequena Guayusa;Unidad;Paseo;NULL;4;NULL;0,00;0,03;NULL;0
+001-003-00304;Etiqueta Pequena Black Guayusa Y Chocolate;Unidad;Paseo;NULL;4;NULL;0,00;0,03;NULL;0
+001-003-00305;Etiqueta Pequen Guayusa Y Mortiño;Unidad;Paseo;NULL;4;NULL;0,00;0,03;NULL;0
+001-003-00306;Etiqueta Pequena Black Guayusa;Unidad;Paseo;NULL;4;NULL;0,00;0,03;NULL;0
+001-003-00307;Etiqueta Pequena Lavanda;Unidad;Paseo;NULL;4;NULL;0,00;0,03;NULL;0
+001-003-00308;Etiqueta Pequena Casablanca;Unidad;Paseo;NULL;4;NULL;14,00;0,03;NULL;0,42
+001-003-00309;Etiqueta Pequena  Cranberry Apple;Unidad;Paseo;NULL;4;NULL;0,00;0,03;NULL;0
+001-003-00310;Etiqueta Pequena Orange Cocoa;Unidad;Paseo;NULL;4;NULL;0,00;0,03;NULL;0
+001-003-00311;Etiqueta Pequena Chamomile Lavender Y Roses;Unidad;Paseo;NULL;4;NULL;0,00;0,03;NULL;0
+001-003-00312;Etiqueta Pequena Chocolate Mint;Unidad;Paseo;NULL;4;NULL;0,00;0,03;NULL;0
+001-003-00313;Etiqueta Pequena Berry Berry;Unidad;Paseo;NULL;4;NULL;0,00;0,03;NULL;0
+001-003-00314;Etiqueta Pequena Hawaiian Colada;Unidad;Paseo;NULL;4;NULL;0,00;0,03;NULL;0
+001-003-00315;Etiqueta Pequena Mint Green;Unidad;Paseo;NULL;4;NULL;10,00;0,03;NULL;0,3
+001-003-00315;Etiqueta pequena Mint Green ;Unidad;Paseo;NULL;4;NULL;0,00;0,03;NULL;0
+001-003-00316;Etiqueta Pequena Provence Rooibos;Unidad;Paseo;NULL;4;NULL;0,00;0,03;NULL;0
+001-003-00317;Etiqueta Pequena Vainilla Chai;Unidad;Paseo;NULL;4;NULL;0,00;0,03;NULL;0
+001-003-00318;Etiqueta Pequena Creamy Noir;Unidad;Paseo;NULL;4;NULL;0,00;0,03;NULL;0
+001-003-00319;Etiqueta Pequena Milky Oolong;Unidad;Paseo;NULL;4;NULL;16,00;0,03;NULL;0,48
+001-003-00320;Etiqueta Pequena Rosaline Night;Unidad;Paseo;NULL;4;NULL;0,00;0,03;NULL;0
+001-003-00321;Etiqueta Pequena Red Seduction;Unidad;Paseo;NULL;4;NULL;0,00;0,03;NULL;0
+001-003-00322;Etiqueta Pequena Lucky Mango;Unidad;Paseo;NULL;4;NULL;6,00;0,03;NULL;0,18
+001-003-00323;Etiqueta Pequena Cherry Rose Green Tea;Unidad;Paseo;NULL;4;NULL;0,00;0,03;NULL;0
+001-003-00324;Etiqueta Pequena Manzanilla;Unidad;Paseo;NULL;4;NULL;0,00;0,03;NULL;0
+001-003-00325;Etiqueta Pequena Blueberry Temptation;Unidad;Paseo;NULL;4;NULL;0,00;0,03;NULL;0
+001-003-00326;Etiqueta Pequena Caramel Dragon Fruit;Unidad;Paseo;NULL;4;NULL;0,00;0,03;NULL;0
+001-003-00327;Etiqueta Pequena Sandia Y Menta;Unidad;Paseo;NULL;4;NULL;0,00;0,03;NULL;0
+001-003-00328;Etiqueta Pequena Turucucho;Unidad;Paseo;NULL;4;NULL;0,00;0,03;NULL;0
+001-003-00329;Etiqueta Pequena Puerh Caramelo;Unidad;Paseo;NULL;4;NULL;0,00;0,03;NULL;0
+001-003-00330;Etiqueta Grande Puerh Caramelo;Unidad;Paseo;NULL;4;NULL;12,00;0,03;NULL;0,36
+001-003-00331;Etiqueta Pequena Bingoblueberry;Unidad;Paseo;NULL;4;NULL;0,00;0,03;NULL;0
+001-003-00332;Etiqueta Pequena Delta Night;Unidad;Paseo;NULL;4;NULL;0,00;0,03;NULL;0
+001-003-00333;Lata Pequena Amarilla;Unidad;Paseo;NULL;4;NULL;0,00;0,33;NULL;0
+001-003-00334;Etiqueta Extra Grande Mint Green;Unidad;Paseo;NULL;4;NULL;0,00;0,06;NULL;0
+001-003-00335;Etiqueta Extra Grande Berry Berry;Unidad;Paseo;NULL;4;NULL;0,00;0,06;NULL;0
+001-003-00336;Etiqueta Extra Grande Delta Night;Unidad;Paseo;NULL;4;NULL;0,00;0,06;NULL;0
+001-003-00337;Etiqueta Pequena Aqua Rosa;Unidad;Paseo;NULL;4;NULL;0,00;0,03;NULL;0
+001-003-00338;Etiqueta Grande Mercedes Apple;Unidad;Paseo;NULL;4;NULL;0,00;0,04;NULL;0
+001-003-00340;Caja Para 4 Tubos Serigrafias;Unidad;Paseo;NULL;4;NULL;0,00;2,5;NULL;0
+001-003-00341;Caja 4 Unid Tapa Acrilica Logotipo;Unidad;Paseo;NULL;4;NULL;0,00;2,4;NULL;0
+001-003-00342;Mostrador De 6 Espacios Espaldar Y Logotipo;Unidad;Paseo;NULL;4;NULL;0,00;5,2;NULL;0
+001-003-00343;Tapa Lata Xl;Unidad;Paseo;NULL;4;NULL;9,00;0,25;NULL;2,25
+001-003-00344;Etiqueta Extra Grande Orange Star;Unidad;Paseo;NULL;4;NULL;0,00;0,06;NULL;0
+001-003-00345;Etiqueta Extra Grande Guayusa Tropical;Unidad;Paseo;NULL;4;NULL;0,00;0,06;NULL;0
+001-003-00346;Etiqueta Extra Grande Tropical Fruit;Unidad;Paseo;NULL;4;NULL;0,00;0,06;NULL;0
+001-003-00347;Etiqueta Extra Grande Guayusa;Unidad;Paseo;NULL;4;NULL;0,00;0,06;NULL;0
+001-003-00348;Etiqueta Extra Grande Pineaple Mint;Unidad;Paseo;NULL;4;NULL;0,00;0,06;NULL;0
+001-003-00349;Etiqueta Extra Grande Rooibos Organico;Unidad;Paseo;NULL;4;NULL;0,00;0,06;NULL;0
+001-003-00350;Etiqueta Extra Grande Rooibos Y Canela;Unidad;Paseo;NULL;4;NULL;0,00;0,06;NULL;0
+001-003-00351;Etiqueta Extra Grande Mystic Rosa;Unidad;Paseo;NULL;4;NULL;0,00;0,06;NULL;0
+001-003-00352;Etiqueta Extra Grande Lucky Mango;Unidad;Paseo;NULL;4;NULL;0,00;0,06;NULL;0
+001-003-00353;Etiqueta Extra Grande Strawberry Kiwi;Unidad;Paseo;NULL;4;NULL;0,00;0,06;NULL;0
+001-003-00354;Etiqueta Extra Grande Mint Green;Unidad;Paseo;NULL;4;NULL;0,00;0,06;NULL;0
+001-003-00355;Etiqueta Extra Grande Ruby Tangerine;Unidad;Paseo;NULL;4;NULL;0,00;0,06;NULL;0
+001-003-00356;Etiqueta Extra Grande Berry Berry;Unidad;Paseo;NULL;4;NULL;0,00;0,06;NULL;0
+001-003-00357;Etiqueta Extra Goldon Rooibos;Unidad;Paseo;NULL;4;NULL;0,00;0,06;NULL;0
+001-003-00358;Etiqueta Extra Grande Sunshine Lemon;Unidad;Paseo;NULL;4;NULL;0,00;0,06;NULL;0
+001-003-00359;Etiqueta Extra Grande Sandia Y Menta;Unidad;Paseo;NULL;4;NULL;0,00;0,06;NULL;0
+001-003-00360;Etiqueta Extra Grande Mercedes Apple Spice;Unidad;Paseo;NULL;4;NULL;0,00;0,06;NULL;0
+001-003-00361;Etiqueta Extra Grande Black Guayusa Y Chocolate;Unidad;Paseo;NULL;4;NULL;0,00;0,06;NULL;0
+001-003-00362;Etiqueta Extra Grande Chamomile Lavander Y Rosa;Unidad;Paseo;NULL;4;NULL;0,00;0,06;NULL;0
+001-003-00363;Etiqueta Extra Grande Agua De Azahares;Unidad;Paseo;NULL;4;NULL;0,00;0,06;NULL;0
+001-003-00364;Etiqueta Extra Grande Turucucho;Unidad;Paseo;NULL;4;NULL;0,00;0,06;NULL;0
+001-003-00365;Botellas De Jarabe 500ml;Unidad;Paseo;NULL;4;NULL;0,00;1,075;NULL;0
+001-004-00001;Botellas 1 Litro;Unidad;Paseo;NULL;4;NULL;0,00;0,34;NULL;0
+001-005-00001;Tapas Embotellados;Unidad;Paseo;NULL;4;NULL;0,00;0,06;NULL;0
+001-005-00002;Tapa Negra;Unidad;Paseo;NULL;4;NULL;78,00;0,03;NULL;2,34
+001-005-00004;Tapa Domo;Unidad;Paseo;NULL;4;NULL;117,00;0,05;NULL;5,85
+001-014-00003;Botellas 300 Ml;Unidad;Paseo;NULL;4;NULL;0,00;0,17;NULL;0
+001-014-00008;Faja Embotellados;Unidad;Paseo;NULL;4;NULL;0,00;0,26;NULL;0
+001-014-00013;Vasos Termicos;Unidad;Paseo;NULL;4;NULL;37,00;0,12;NULL;4,44
+001-014-00014;Vaso Pet Transparente;Unidad;Paseo;NULL;4;NULL;60,00;0,095;NULL;5,7
+001-021-00002;Material Para Piramides;Unidad;Paseo;NULL;4;NULL;0,00;0,01;NULL;0
+001-021-00003;Piramides Sachet Flower Kisses;Unidad;Paseo;NULL;4;NULL;0,00;0,08;NULL;0
+001-021-00004;Pads Anis Fiorana;Unidad;Paseo;NULL;4;NULL;0,00;0,06;NULL;0
+001-021-00005;Piramides Sachet Divine Detox;Unidad;Paseo;NULL;4;NULL;0,00;0,09;NULL;0
+001-021-00006;Piramides Cotoa 3gr;Unidad;Paseo;NULL;4;NULL;0,00;0,14;NULL;0
+001-026-00004;Jarro De Vidrio Cuadrado;Unidad;Paseo;NULL;4;NULL;0,00;0,01;NULL;0
+003-001-00001;Matcha Culinario 50gr L;Unidad;Paseo;NULL;4;NULL;5,00;1,01;NULL;5,05
+003-001-00002;Latita 10 Gr L;Unidad;Paseo;NULL;4;NULL;29,00;0,38;NULL;11,02
+003-001-00003;Body Detox Tea;Unidad;Paseo;NULL;4;NULL;0,00;0,01;NULL;0
+003-001-00004;Eva Green Balance Te Con Cbd;Unidad;Paseo;NULL;4;NULL;0,00;0,01;NULL;0
+003-001-00005;Eva Red Vitality Te Con Cbd;Unidad;Paseo;NULL;4;NULL;0,00;0,01;NULL;0
+003-001-00006;Eva Blue Focus Te Con Cbd;Unidad;Paseo;NULL;4;NULL;0,00;0,01;NULL;0
+003-001-00007;Red Vitality Pad;Unidad;Paseo;NULL;4;NULL;0,00;0,1;NULL;0
+003-001-00011;Pad 30gr Jamaica Berries;Unidad;Paseo;NULL;4;NULL;0,00;0,045;NULL;0
+003-001-00012;Pad 30gr Butterfly;Unidad;Paseo;NULL;4;NULL;0,00;0,045;NULL;0
+003-001-00013;Bubble Tea Mango 3.4kg;Unidad;Paseo;NULL;4;NULL;0,00;4,25;NULL;0
+003-001-00014;Bubble Tea Arandanos 3.4kg;Unidad;Paseo;NULL;4;NULL;0,00;4,25;NULL;0
+003-001-00015;Bubble Tea Cereza 3.4kg;Unidad;Paseo;NULL;4;NULL;0,00;4,25;NULL;0
+003-001-00016;Bubble Tea Sandia 3.4kg;Unidad;Paseo;NULL;4;NULL;0,00;4,25;NULL;0
+003-001-00018;Mix Blends (2gr) X 25 Unidades;Unidad;Paseo;NULL;4;NULL;0,00;0,55;NULL;0
+003-001-00019;Mix Aromaticas X 30 Unidades;Unidad;Paseo;NULL;4;NULL;0,00;0,056;NULL;0
+003-001-00020;Tizana Frutas Deshidrata Frutos Rojos Bolsitas 10gr;Unidad;Paseo;NULL;4;NULL;0,00;2,5;NULL;0
+003-001-00021;Tizana Frutas Desidratada Pina Bolsita 10gr;Unidad;Paseo;NULL;4;NULL;0,00;2,6;NULL;0
+003-001-00022;Tizana Frutas Deshidratada Naranja Bolsita 10gr;Unidad;Paseo;NULL;4;NULL;0,00;2,1;NULL;0
+003-001-00023;Blue Matcha 50g L;Unidad;Paseo;NULL;4;NULL;7,00;4,72;NULL;33,04
+003-001-00024;Roasted 50g L;Unidad;Paseo;NULL;4;NULL;13,00;4,33;NULL;56,29
+003-001-00025;Tisana Frutos Rojos L;Unidad;Paseo;NULL;4;NULL;39,00;0,25;NULL;9,75
+003-001-00026;Tisana Naranja L;Unidad;Paseo;NULL;4;NULL;111,00;0,25;NULL;27,75
+003-001-00027;Tisana Pina L;Unidad;Paseo;NULL;4;NULL;107,00;0,25;NULL;26,75
+003-001-00028;Tisana Manzana L;Unidad;Paseo;NULL;4;NULL;91,00;0,25;NULL;22,75
+003-001-00029;Empacado De Pad 2gr;Unidad;Paseo;NULL;4;NULL;0,00;0,05;NULL;0
+003-001-00030;Calendula 35gr;Unidad;Paseo;NULL;4;NULL;0,00;2;NULL;0
+003-001-00032;Caja Tea Collection L;Unidad;Paseo;NULL;4;NULL;0,00;1,94;NULL;0
+003-001-00034;Maquila;Unidad;Paseo;NULL;4;NULL;0,00;0,01;NULL;0
+003-001-00035;Solubles Te Negro Y Limon 1kg;Unidad;Paseo;NULL;4;NULL;0,00;0,006;NULL;0
+003-001-00037;Costo Por Insumo Blend Digestivo;Unidad;Paseo;NULL;4;NULL;0,00;0,003;NULL;0
+003-001-00039;Chai Latte Mix 100gr L;Unidad;Paseo;NULL;4;NULL;11,00;0,69;NULL;7,59
+003-001-00040;Flor De Loto 35gr;Unidad;Paseo;NULL;4;NULL;0,00;2;NULL;0
+003-001-00041;Crisantemos 30gr;Unidad;Paseo;NULL;4;NULL;1,00;2;NULL;2
+003-001-00042;Butterfly Pea 35gr;Unidad;Paseo;NULL;4;NULL;0,00;3,2;NULL;0
+003-001-00043;Flores Comestibles 35gr;Unidad;Paseo;NULL;4;NULL;0,00;2;NULL;0
+003-001-00046;Pink Limonade 100gr L;Unidad;Paseo;NULL;4;NULL;14,00;0,79;NULL;11,06
+003-001-00047;Cocoa Sabor A Cookies And Creams;Unidad;Paseo;NULL;4;NULL;0,00;0,87;NULL;0
+003-001-00048;Cocoa Sabor A Caramelo Salado;Unidad;Paseo;NULL;4;NULL;0,00;0,97;NULL;0
+003-001-00049;Cocoa Sabor A Nutella;Unidad;Paseo;NULL;4;NULL;0,00;0,84;NULL;0
+003-001-00050;Cocoa Sabor A Dulce De Leche;Unidad;Paseo;NULL;4;NULL;0,00;0,86;NULL;0
+003-001-00052;Bubble Tea Manzana Verde 3.4 Kg;Unidad;Paseo;NULL;4;NULL;0,00;4,25;NULL;0
+003-001-00053;Varios;Unidad;Paseo;NULL;4;NULL;0,00;0,005;NULL;0
+003-001-00055;Sacha Blends Wild Berry;Unidad;Paseo;NULL;4;NULL;0,00;0,01;NULL;0
+003-001-00056;Tippytea Limonada Rosa 100 G;Unidad;Paseo;NULL;4;NULL;0,00;0,01;NULL;0
+003-001-00057;Tippytea Te Negro Y Limon 100 G;Unidad;Paseo;NULL;4;NULL;0,00;0,01;NULL;0
+003-001-00058;Tippytea Chai Latte Mix 100 G;Unidad;Paseo;NULL;4;NULL;0,00;0,01;NULL;0
+003-001-00059;Soluble Pumpkin Spice Latte  100 G L;Unidad;Paseo;NULL;4;NULL;10,00;4,06;NULL;40,6
+003-001-00060;Lata Piramides Colada Morada;Unidad;Paseo;NULL;4;NULL;31,00;1;NULL;31
+003-001-00062;Funda Red Velvet 100 G;Unidad;Paseo;NULL;4;NULL;0,00;0,76;NULL;0
+003-001-00063;Red Velvet Latte 100g L;Unidad;Paseo;NULL;4;NULL;0,00;0,76;NULL;0
+003-001-00064;Te Negro Y Limon 100 G L;Unidad;Paseo;NULL;4;NULL;16,00;0,57;NULL;9,12
+003-001-00065;Lata Piramides Blueberry Temptation;Unidad;Paseo;NULL;4;NULL;0,00;1,29;NULL;0
+003-001-00066;Lata Japan Gyokuro 50gr;Unidad;Paseo;NULL;4;NULL;0,00;9;NULL;0
+003-001-00067;Lata Crested Crane Pai Mu Tan 50gr;Unidad;Paseo;NULL;4;NULL;0,00;9;NULL;0
+003-001-00068;Alishan High Mountain Oolong 50 Gr;Unidad;Paseo;NULL;4;NULL;3,00;9;NULL;27
+003-001-00069;Oriental Beauty Oolong 50gr;Unidad;Paseo;NULL;4;NULL;0,00;9;NULL;0
+003-001-00070;Lata Dragon Well 50gr;Unidad;Paseo;NULL;4;NULL;0,00;9;NULL;0
+003-001-00071;Lata Dragon Pearls 50 Gr;Unidad;Paseo;NULL;4;NULL;1,00;9;NULL;9
+003-001-00072;Lata Lovers Leap 50 G;Unidad;Paseo;NULL;4;NULL;0,00;9;NULL;0
+003-001-00073;Lata Golden Monkey 50 Gr;Unidad;Paseo;NULL;4;NULL;0,00;9;NULL;0
+003-001-00074;Lata Dragon 4 Flowers 50 Gr;Unidad;Paseo;NULL;4;NULL;0,00;9;NULL;0
+003-001-00076;Mint Chai;Unidad;Paseo;NULL;4;NULL;5000,00;0,00455;NULL;22,75
+003-001-00081;Cajita 20 Bolsita Detox;Unidad;Paseo;NULL;4;NULL;0,00;0,01;NULL;0
+003-001-00082;Lata Blend De  San Valentin 100gr;Unidad;Paseo;NULL;4;NULL;0,00;2,32;NULL;0
+003-001-00083;Bubble Te Durazno 3.4 Kg;Unidad;Paseo;NULL;4;NULL;0,00;4,25;NULL;0
+003-001-00084;Bubble Te Mandarina 3.4 Kg;Unidad;Paseo;NULL;4;NULL;0,00;4,25;NULL;0
+003-001-00085;Bubble Te Caramelo 3.4 Kg;Unidad;Paseo;NULL;4;NULL;0,00;4,25;NULL;0,00
+003-001-00086;Bubble Te Oreo 3.4 Kg;Unidad;Paseo;NULL;4;NULL;0,00;4,25;NULL;0,00
+003-001-00088;Blends Agua De Azares;Gramo;Paseo;NULL;4;NULL;306,00;0,014;NULL;4,28
+003-001-00090;Blendsblack Guayusa Y Chocolate;Gramo;Paseo;NULL;4;NULL;87,80;0,015;NULL;1,32
+003-001-00091;Blends Black Mango;Gramo;Paseo;NULL;4;NULL;286,00;0,015;NULL;4,29
+003-001-00092;Blends Black Peach;Gramo;Paseo;NULL;4;NULL;228,00;0,023;NULL;5,24
+003-001-00093;Blends Casablanca;Gramo;Paseo;NULL;4;NULL;219,00;0,012;NULL;2,628
+003-001-00095;Blends Cherry Rose;Gramo;Paseo;NULL;4;NULL;531,60;0,018;NULL;9,57
+003-001-00096;Blends Detox Locales;Gramo;Paseo;NULL;4;NULL;226,20;0,22;NULL;49,76
+003-001-00097;Blends Divine Tea;Gramo;Paseo;NULL;4;NULL;0,00;0,014;NULL;0,00
+003-001-00098;Blends Earl Grey;Gramo;Paseo;NULL;4;NULL;294,00;0,012;NULL;3,53
+003-001-00099;Blendsenglish Break Fast;Gramo;Paseo;NULL;4;NULL;251,00;0,012;NULL;3,012
+003-001-00100;Blends Guayusa Tropical;Gramo;Paseo;NULL;4;NULL;124,60;0,012;NULL;1,495
+003-001-001-00004;Te De Navidad;Unidad;Paseo;NULL;4;NULL;0,00;1,28;NULL;0
+003-001-001-00005;Dragon Falowers;Unidad;Paseo;NULL;4;NULL;0,00;9;NULL;0
+003-001-001-00009;Lata Yerba Mate 100gr;Unidad;Paseo;NULL;4;NULL;4,00;1,29;NULL;5,16
+003-001-00101;Blends Guayusa Y Mortiño;Gramo;Paseo;NULL;4;NULL;0,00;0,011;NULL;0,00
+003-001-00102;Blends Hawaiian Colada;Gramo;Paseo;NULL;4;NULL;270,20;0,01;NULL;2,70
+003-001-00103;Blends Jamaica Green;Gramo;Paseo;NULL;4;NULL;221,60;0,011;NULL;2,44
+003-001-00104;Blends Lemon Ginger;Gramo;Paseo;NULL;4;NULL;235,80;0,012;NULL;2,83
+003-001-00105;Blends Mercedes Apple;Gramo;Paseo;NULL;4;NULL;326,00;0,011;NULL;3,59
+003-001-00106;Blends Mint Green;Gramo;Paseo;NULL;4;NULL;246,00;0,014;NULL;3,44
+003-001-00107;Blends Mix Frutal;Gramo;Paseo;NULL;4;NULL;204,00;0,015;NULL;3,06
+003-001-00108;Blends Lapsang Souchong;Gramo;Paseo;NULL;4;NULL;246,00;0,019;NULL;4,67
+003-001-00109;Blends Olong Grape;Gramo;Paseo;NULL;4;NULL;0,00;0,01;NULL;0,00
+003-001-00110;Blends Orange Cocoa;Gramo;Paseo;NULL;4;NULL;200,60;0,011;NULL;2,2066
+003-001-00111;Blends Orange Jamaica;Gramo;Paseo;NULL;4;NULL;127,00;0,014;NULL;1,778
+003-001-00112;Blends Pai Mu Tan;Unidad;Paseo;NULL;4;NULL;0,00;0,011;NULL;0
+003-001-00113;Blends Pera Rooibos;Gramo;Paseo;NULL;4;NULL;0,00;0,016;NULL;0,00
+003-001-00114;Blends Sakura Cherry Blosson;Unidad;Paseo;NULL;4;NULL;0,00;0,013;NULL;0,00
+003-001-00115;Blends Blueberry Tentation;Gramo;Paseo;NULL;4;NULL;285,00;0,019;NULL;5,42
+003-001-00116;Blends Agua De Rosas;Gramo;Paseo;NULL;4;NULL;0,00;0,018;NULL;0,00
+003-001-00117;Blends Canela Rooibos;Gramo;Paseo;NULL;4;NULL;329,60;0,012;NULL;3,96
+003-001-00118;Blends Provence;Gramo;Paseo;NULL;4;NULL;157,20;0,015;NULL;2,36
+003-001-00119;Blends Puerh Capuchino;Gramo;Paseo;NULL;4;NULL;204,80;0,011;NULL;2,25
+003-001-00120;Blends Strawberry Green Tea;Gramo;Paseo;NULL;4;NULL;222,20;0,015;NULL;3,33
+003-001-00121;Blends Strawberry Kiwi;Gramo;Paseo;NULL;4;NULL;316,00;0,02;NULL;6,32
+003-001-00122;Blends Strawberry Rose Mint;Gramo;Paseo;NULL;4;NULL;104,20;0,009;NULL;0,94
+003-001-00123;Blends Tropical Fruit;Gramo;Paseo;NULL;4;NULL;213,00;0,013;NULL;2,769
+003-001-00124;Blends Vainilla Chai;Gramo;Paseo;NULL;4;NULL;368,00;0,01;NULL;3,68
+003-001-00125;Blends Oolong Rose;Gramo;Paseo;NULL;4;NULL;0,00;0,01;NULL;0
+003-001-00126;Blends Paramo Quitu;Gramo;Paseo;NULL;4;NULL;0,00;0,008;NULL;0,00
+003-001-00127;Blends Quitu Equinoccial;Gramo;Paseo;NULL;4;NULL;0,00;0,012;NULL;0,00
+003-001-00128;Blends Sandia Locales;Gramo;Paseo;NULL;4;NULL;114,00;0,011;NULL;1,25
+003-001-00129;Blends Ginger Cidier;Gramo;Paseo;NULL;4;NULL;261,00;0,011;NULL;2,87
+003-001-00130;Blends Tropical Fusion;Gramo;Paseo;NULL;4;NULL;397,00;0,012;NULL;4,76
+003-001-00131;Blends Cotton Candy;Gramo;Paseo;NULL;4;NULL;209,00;0,011;NULL;2,30
+003-001-00132;Blend Creamy Noir;Gramo;Paseo;NULL;4;NULL;238,00;0,015;NULL;3,57
+003-001-00133;Blends Green Jade;Gramo;Paseo;NULL;4;NULL;274,40;0,01;NULL;2,74
+003-001-00134;Blends Mistic Rose;Gramo;Paseo;NULL;4;NULL;0,00;0,008;NULL;0,00
+003-001-00135;Blends Orange Star;Gramo;Paseo;NULL;4;NULL;349,00;0,012;NULL;4,19
+003-001-00136;Blends Caribbean Punch;Gramo;Paseo;NULL;4;NULL;333,00;0,018;NULL;5,99
+003-001-00137;Blends Golden Rooibos;Gramo;Paseo;NULL;4;NULL;293,60;0,026;NULL;7,63
+003-001-00138;Blends Red Seduction;Gramo;Paseo;NULL;4;NULL;253,00;0,017;NULL;4,30
+003-001-00139;Blends Pineapple Mint;Gramo;Paseo;NULL;4;NULL;248,00;0,013;NULL;3,22
+003-001-00140;Blends Mindningth Almond;Gramo;Paseo;NULL;4;NULL;271,00;0,014;NULL;3,79
+003-001-00141;Blends Orange Blosson;Gramo;Paseo;NULL;4;NULL;227,40;0,018;NULL;4,09
+003-001-00142;Blends Amaranto Spice;Gramo;Paseo;NULL;4;NULL;0,00;0,018;NULL;0,00
+003-001-00143;Blends Rosaline Night;Gramo;Paseo;NULL;4;NULL;248,00;0,013;NULL;3,224
+003-001-00144;Blends Chocolate Mint;Gramo;Paseo;NULL;4;NULL;253,00;0,015;NULL;3,80
+003-001-00145;Blends Majestic Pu Erh;Gramo;Paseo;NULL;4;NULL;218,00;0,02;NULL;4,36
+003-001-00146;Blends Menta;Gramo;Paseo;NULL;4;NULL;298,40;0,022;NULL;6,56
+003-001-00147;Blends Cedron;Gramo;Paseo;NULL;4;NULL;363,60;0,011;NULL;4,00
+003-001-00148;Blends Pu Erh;Gramo;Paseo;NULL;4;NULL;389,80;0,019;NULL;7,41
+003-001-00149;Blends Lavanda;Gramo;Paseo;NULL;4;NULL;262,60;0,013;NULL;3,41
+003-001-00150;Blends Rosas;Gramo;Paseo;NULL;4;NULL;256,60;0,011;NULL;2,82
+003-001-00151;Blends Jazmin;Gramo;Paseo;NULL;4;NULL;324,00;0,01;NULL;3,24
+003-001-00152;Blends Butterfly Pea;Gramo;Paseo;NULL;4;NULL;0,00;0,012;NULL;0,00
+003-001-00153;Blends Lucky Mango;Gramo;Paseo;NULL;4;NULL;167,60;0,016;NULL;2,68
+003-001-00154;Blend Cranberry Apple;Gramo;Paseo;NULL;4;NULL;148,00;0,017;NULL;2,52
+003-001-00155;Blends Flower & Kisses;Gramo;Paseo;NULL;4;NULL;226,40;0,012;NULL;2,7168
+003-001-00156;Blends Ruby Tangerine;Gramo;Paseo;NULL;4;NULL;240,00;0,012;NULL;2,88
+003-001-00157;Blends Black Guayusa;Gramo;Paseo;NULL;4;NULL;0,00;0,008;NULL;0
+003-001-00158;Blends Lavander Mint;Gramo;Paseo;NULL;4;NULL;167,40;0,01;NULL;1,674
+003-001-00159;Blends Sushine Lemon;Gramo;Paseo;NULL;4;NULL;0,00;0,01;NULL;0,00
+003-001-00160;Blends Negro Blueberry;Gramo;Paseo;NULL;4;NULL;0,00;0,013;NULL;0,00
+003-001-00161;Blends Manzanilla;Gramo;Paseo;NULL;4;NULL;314,20;0,01;NULL;3,14
+003-001-00162;Blends Caramelo Supreme;Gramo;Paseo;NULL;4;NULL;200,40;0,019;NULL;3,81
+003-001-00163;Blends Citrus Matcha;Gramo;Paseo;NULL;4;NULL;0,00;0,011;NULL;0,00
+003-001-00164;Blends Black Sunshine;Gramo;Paseo;NULL;4;NULL;164,00;0,011;NULL;1,80
+003-001-00165;Blends Flower Lubally;Gramo;Paseo;NULL;4;NULL;183,00;0,014;NULL;2,56
+003-001-00166;Blends Milky Oolong;Gramo;Paseo;NULL;4;NULL;274,40;0,014;NULL;3,8416
+003-001-00167;Blends Black Velvet;Gramo;Paseo;NULL;4;NULL;281,00;0,016;NULL;4,496
+003-001-00168;Blends Bubbly Oolong;Gramo;Paseo;NULL;4;NULL;170,20;0,02;NULL;3,404
+003-001-00169;Blends Butterfly Floral;Gramo;Paseo;NULL;4;NULL;272,20;0,014;NULL;3,81
+003-001-00170;Blends Bingoblueberry;Gramo;Paseo;NULL;4;NULL;323,00;0,019;NULL;6,14
+003-001-00171;Blends Paradiso Peach;Gramo;Paseo;NULL;4;NULL;196,00;0,014;NULL;2,74
+003-001-00172;Blends Te Negro Keemun;Gramo;Paseo;NULL;4;NULL;206,00;0,015;NULL;3,09
+003-001-00173;Blends Rooibos;Gramo;Paseo;NULL;4;NULL;267,00;0,011;NULL;2,937
+003-001-00174;Blends Te Blanco;Gramo;Paseo;NULL;4;NULL;202,40;0,005;NULL;1,01
+003-001-00175;Blends Te Negro Amazonico;Gramo;Paseo;NULL;4;NULL;0,00;0,026;NULL;0,00
+003-001-00176;Blends Tilo Lemon;Gramo;Paseo;NULL;4;NULL;223,40;0,022;NULL;4,91
+003-001-00177;Blends Oolong;Gramo;Paseo;NULL;4;NULL;358,20;0,015;NULL;5,37
+003-001-00178;Blends Te Verde;Gramo;Paseo;NULL;4;NULL;417,20;0,025;NULL;10,43
+003-001-00179;Blends Piña Green Tea;Gramo;Paseo;NULL;4;NULL;198,20;0,012;NULL;2,38
+003-001-00180;Blends Guayusa;Gramo;Paseo;NULL;4;NULL;351,80;0,01;NULL;3,52
+003-001-00181;Blends Focus Boost;Gramo;Paseo;NULL;4;NULL;0,00;0,015;NULL;0,00
+003-001-00182;Blends Moon Cycle;Gramo;Paseo;NULL;4;NULL;160,60;0,023;NULL;3,69
+003-001-00183;Blends Divine Detox;Gramo;Paseo;NULL;4;NULL;372,60;0,02;NULL;7,45
+003-001-00184;Blends Aqua Rosa;Gramo;Paseo;NULL;4;NULL;275,00;0,015;NULL;4,13
+003-001-00185;Blends Digestive Blend;Gramo;Paseo;NULL;4;NULL;0,00;0,027;NULL;0,000
+003-001-00186;Blends Delta Night;Gramo;Paseo;NULL;4;NULL;98,80;0,015;NULL;1,482
+003-001-00187;Blends Caramel Dragon Fruit;Gramo;Paseo;NULL;4;NULL;210,00;0,017;NULL;3,570
+003-001-00188;Blends Menta Sandia;Gramo;Paseo;NULL;4;NULL;287,00;0,019;NULL;5,453
+003-001-00189;Blends Turucucho;Gramo;Paseo;NULL;4;NULL;178,40;0,023;NULL;4,103
+003-001-00190;Blends Puerh Caramelo;Gramo;Paseo;NULL;4;NULL;165,40;0,02;NULL;3,308
+003-001-00191;Blends Amazon Power;Gramo;Paseo;NULL;4;NULL;0,00;0,015;NULL;0,000
+003-001-00192;Blends Citrus Zen;Gramo;Paseo;NULL;4;NULL;0,00;0,027;NULL;0,000
+003-001-00193;Blends Mate Guayusa;Gramo;Paseo;NULL;4;NULL;0,00;0,015;NULL;0,00
+003-001-00194;Blends Chamomile;Gramo;Paseo;NULL;4;NULL;250,20;0,018;NULL;4,50
+003-001-00195;Tippytea Menta Y Sandia 30g;Unidad;Paseo;NULL;4;NULL;0,00;0,01;NULL;0,00
+003-001-00196;Muestras Tisanas Naranja;Unidad;Paseo;NULL;4;NULL;6,00;0,25;NULL;1,50
+003-001-00197;Muestras Tisanas Manzana;Unidad;Paseo;NULL;4;NULL;6,00;0,25;NULL;1,50
+003-001-00198;Blends Tutti Fruti;Gramo;Paseo;NULL;4;NULL;282,00;0,009;NULL;2,54
+003-001-00199;Lata Divine Tea;Unidad;Paseo;NULL;4;NULL;3,00;1,29;NULL;3,87
+003-001-00200;Latita Hawaiian Colada;Unidad;Paseo;NULL;4;NULL;0,00;0,38;NULL;0
+003-001-00201;Latita Chamomile;Unidad;Paseo;NULL;4;NULL;0,00;0,38;NULL;0
+003-001-00202;Latita Green Mint;Unidad;Paseo;NULL;4;NULL;1,00;0,38;NULL;0,38
+003-001-00203;Latita Provence Rooibos;Unidad;Paseo;NULL;4;NULL;1,00;0,38;NULL;0,38
+003-001-00204;Latita Casablanca;Unidad;Paseo;NULL;4;NULL;1,00;0,38;NULL;0,38
+003-001-00205;Latita Blueberry Temptation;Unidad;Paseo;NULL;4;NULL;0,00;0,38;NULL;0
+003-001-00206;Latita Aqua Rosa;Unidad;Paseo;NULL;4;NULL;0,00;0,38;NULL;0
+003-001-00207;Latita Sakura  Cherry;Unidad;Paseo;NULL;4;NULL;0,00;0,38;NULL;0
+003-001-00208;Latita Black Velvet;Unidad;Paseo;NULL;4;NULL;1,00;0,38;NULL;0,38
+003-001-00210;Muestra Chai Latte Mix;Unidad;Paseo;NULL;4;NULL;0,00;0,44;NULL;0
+003-001-00211;Muestra Sachet Matcha Pink;Unidad;Paseo;NULL;4;NULL;0,00;0,014;NULL;0
+003-001-00212;Muestra Menta Y Sandia  15gr;Unidad;Paseo;NULL;4;NULL;14,00;0,05;NULL;0,7
+003-001-00213;Muestra Matcha Culinario 15gr;Unidad;Paseo;NULL;4;NULL;0,00;0,08;NULL;0
+003-001-00214;Muestra Butterfly Soluble 15gr;Unidad;Paseo;NULL;4;NULL;3,00;0,07;NULL;0,21
+003-001-00215;Muestra Matcha Mango 15gr;Unidad;Paseo;NULL;4;NULL;0,00;0,04;NULL;0
+003-001-00216;Muestra Latte Rosa 15gr;Unidad;Paseo;NULL;4;NULL;0,00;0,06;NULL;0
+003-001-00217;Muestra Jamaica Berrys 15gr;Unidad;Paseo;NULL;4;NULL;12,00;0,06;NULL;0,72
+003-001-00218;Muestra Dragon Fruit 15gr;Unidad;Paseo;NULL;4;NULL;0,00;0,08;NULL;0
+003-001-00219;Blend Rooibos Guordmandises;Gramo;Paseo;NULL;4;NULL;0,00;0,02;NULL;0
+003-001-00221;Chai Ordeno 100g;Gramo;Paseo;NULL;4;NULL;0,00;0,01;NULL;0
+003-001-00222;Matcha Ordeno 100g;Gramo;Paseo;NULL;4;NULL;0,00;0,01;NULL;0
+003-001-00223;Blends Black Blueberry;Gramo;Paseo;NULL;4;NULL;0,00;0,02;NULL;0
+003-001-00224;Latita Berry Berry;Unidad;Paseo;NULL;4;NULL;0,00;0,38;NULL;0
+003-001-00225;Latita Orange Cocoa;Unidad;Paseo;NULL;4;NULL;1,00;0,38;NULL;0,38
+003-001-00226;Latita Earl Grey;Unidad;Paseo;NULL;4;NULL;2,00;0,38;NULL;0,76
+003-001-00227;Latita Bingoblueberry;Unidad;Paseo;NULL;4;NULL;2,00;0,38;NULL;0,76
+003-001-00228;Latita Vainilla Chai;Unidad;Paseo;NULL;4;NULL;0,00;0,38;NULL;0
+003-001-00229;Latita Cranberry Apple;Unidad;Paseo;NULL;4;NULL;0,00;0,38;NULL;0
+003-001-00230;Latita Chocolate Mint;Unidad;Paseo;NULL;4;NULL;0,00;0,38;NULL;0
+003-001-00231;Latita Ruby Tangerine;Unidad;Paseo;NULL;4;NULL;0,00;0,38;NULL;0
+003-001-00232;Latita Pineapple Mint;Unidad;Paseo;NULL;4;NULL;19,00;0,38;NULL;7,22
+003-001-00233;Latita Creamy Noir;Unidad;Paseo;NULL;4;NULL;2,00;0,38;NULL;0,76
+003-001-00234;Latita Red Seduction;Unidad;Paseo;NULL;4;NULL;0,00;0,38;NULL;0
+003-001-00235;Latita Cotton Candy;Unidad;Paseo;NULL;4;NULL;1,00;0,38;NULL;0,38
+003-001-00236;Latita Lucky Mango;Unidad;Paseo;NULL;4;NULL;0,00;0,38;NULL;0
+003-001-00237;Latita Cherry Rose;Unidad;Paseo;NULL;4;NULL;0,00;0,38;NULL;0
+003-001-00238;Latita Black Guayusa Y Chocolate;Unidad;Paseo;NULL;4;NULL;1,00;0,38;NULL;0,38
+003-001-00239;Latita Milky Oolong;Unidad;Paseo;NULL;4;NULL;0,00;0,38;NULL;0
+003-001-00240;Latita Rosaline Night;Unidad;Paseo;NULL;4;NULL;1,00;0,38;NULL;0,38
+003-001-00241;Latita Delta Night;Unidad;Paseo;NULL;4;NULL;0,00;0,38;NULL;0
+003-001-00242;FundaPumkin Spice Latte;Unidad;Paseo;NULL;4;NULL;0,00;0,076;NULL;0
+003-001-00243;Te Negro Y Arandanos;Gramo;Paseo;NULL;4;NULL;0,00;0,00485;NULL;0
+003-001-00244;Te Negro Y Limon;Gramo;Paseo;NULL;4;NULL;7000,00;0,00485;NULL;33,95
+003-001-00245;Funda Caramelo Supreme 50gr;Unidad;Paseo;NULL;4;NULL;0,00;0,55;NULL;0
+003-001-00246;Funda Citrus Matcha 50gr;Gramo;Paseo;NULL;4;NULL;0,00;0,68;NULL;0
+003-001-00247;Funda Black Guayusa 50gr;Gramo;Paseo;NULL;4;NULL;0,00;0,87;NULL;0
+003-001-00248;Caja De 4 Tubos De Vidrio;Unidad;Paseo;NULL;4;NULL;0,00;5,2;NULL;0
+003-001-00249;Caja De 8 Tubos De Vidrio;Unidad;Paseo;NULL;4;NULL;0,00;7,58;NULL;0
+003-001-00250;Bubble Tea Rosa 3.4kg;Unidad;Paseo;NULL;4;NULL;0,00;4,25;NULL;0
+003-001-00251;Rosas Comestibles;Gramo;Paseo;NULL;4;NULL;0,00;2;NULL;0
+003-001-00252;Latita Bubbly Oolong;Unidad;Paseo;NULL;4;NULL;1,00;0,38;NULL;0,38
+003-001-00253;Latita Lemon Ginger;Unidad;Paseo;NULL;4;NULL;1,00;0,38;NULL;0,38
+003-001-00254;Muestras Base De Limon 15 Gr;Unidad;Paseo;NULL;4;NULL;0,00;0,15;NULL;0
+003-001-00255;Muestras Te Negro Durazno 15 Gr;Unidad;Paseo;NULL;4;NULL;9,00;0,25;NULL;2,25
+003-001-00256;Muestras Pink Lemonada 15 Gr;Unidad;Paseo;NULL;4;NULL;0,00;0,2;NULL;0
+003-001-00257;Muestras Taro Purple 6 Gr;Unidad;Paseo;NULL;4;NULL;0,00;0,3;NULL;0
+003-001-00258;Muestras Pad De Jamaica Berries 30gr;Unidad;Paseo;NULL;4;NULL;0,00;0,35;NULL;0
+003-001-00259;Muestras Pumkin Spice 10 Gr;Unidad;Paseo;NULL;4;NULL;0,00;0,25;NULL;0
+003-001-00260;Muestra Matcha Ceremonial 10 Gr;Unidad;Paseo;NULL;4;NULL;3,00;0,04;NULL;0,12
+003-001-00261;Muestras Matcha Mango;Gramo;Paseo;NULL;4;NULL;0,00;0,6;NULL;0
+003-001-00262;Muestras Golden Matcha;Gramo;Paseo;NULL;4;NULL;0,00;0,2;NULL;0
+003-001-00263;Muestars Te Negro Limon;Gramo;Paseo;NULL;4;NULL;0,00;0,4;NULL;0
+003-001-00264;Muestras Caramelo Salado;Gramo;Paseo;NULL;4;NULL;0,00;0,6;NULL;0
+003-001-00265;Muestra Matcha Latte Mix;Gramo;Paseo;NULL;4;NULL;0,00;0,25;NULL;0
+003-001-00266;Muestras Mint Chai;Gramo;Paseo;NULL;4;NULL;0,00;0,45;NULL;0
+003-001-00267;Muestras Te Negro Limon 15 Gr;Unidad;Paseo;NULL;4;NULL;9,00;0,2;NULL;1,8
+003-001-00268;Muestras Pink Matcha 6 Gr;Unidad;Paseo;NULL;4;NULL;0,00;0,2;NULL;0
+003-001-00269;Muestras Taro Latte Mix 6 Gr;Unidad;Paseo;NULL;4;NULL;0,00;0,24;NULL;0
+003-001-00270;Bubble Tea Chicle 3.4kg;Unidad;Paseo;NULL;4;NULL;0,00;4,25;NULL;0
+003-001-00271;Pink Lemonade;Gramo;Paseo;NULL;4;NULL;0,00;0,00428;NULL;0
+003-001-00272;Cajita De 4 Tubos Floral;Unidad;Paseo;NULL;4;NULL;0,00;4,75;NULL;0
+003-001-00273;Sachets Te Negro;Unidad;Paseo;NULL;4;NULL;0,00;0,1;NULL;0
+003-001-00275;Muestra Butterfly Soluble;Gramo;Paseo;NULL;4;NULL;0,00;0,02;NULL;0
+003-001-00276;Muestras Te Negro Durazno;Gramo;Paseo;NULL;4;NULL;0,00;0,018;NULL;0
+003-001-00277;Muestras Pink Lemonada;Gramo;Paseo;NULL;4;NULL;0,00;0,02;NULL;0
+003-001-00278;Muestras Te Negro;Gramo;Paseo;NULL;4;NULL;0,00;0,02;NULL;0
+003-001-00279;Muestra  Sandia;Unidad;Paseo;NULL;4;NULL;0,00;0,1;NULL;0
+003-001-00280;Muestra Blue Matcha;Gramo;Paseo;NULL;4;NULL;0,00;0,3;NULL;0
+003-001-00281;Bubble Tea Maracuya 3.4kg;Unidad;Paseo;NULL;4;NULL;0,00;4,25;NULL;0
+003-001-00282;Caja De 4 Latas Xl Ecuador;Unidad;Paseo;NULL;4;NULL;0,00;6,9;NULL;0
+003-001-00283;Caja De 4 Latitas 10 Gr Ecuador;Unidad;Paseo;NULL;4;NULL;0,00;2,9;NULL;0
+003-001-00284;Pads Apaysami Diuretico;Unidad;Paseo;NULL;4;NULL;0,00;0,45;NULL;0
+003-001-00285;Blends Apaysami Diuretico;Gramo;Paseo;NULL;4;NULL;0,00;0,02;NULL;0
+003-001-00286;Blends Dia De La Mujer;Gramo;Paseo;NULL;4;NULL;0,00;0,02;NULL;0
+003-001-00287;Muestra Matcha Tostado;Unidad;Paseo;NULL;4;NULL;0,00;0,013;NULL;0
+003-001-00288;Pads Detox Fiorana;Unidad;Paseo;NULL;4;NULL;0,00;0,03;NULL;0
+003-001-00289;Muestras Taro Latte Mix 10g;Unidad;Paseo;NULL;4;NULL;21,00;0,5;NULL;10,5
+003-001-00290;Muestras Purple Taro 10g;Unidad;Paseo;NULL;4;NULL;0,00;0,06;NULL;0
+003-001-00291;Muestras Base De Liom 10g;Unidad;Paseo;NULL;4;NULL;0,00;0,09;NULL;0
+003-001-00292;Muestras Te Negro Y Limon;Unidad;Paseo;NULL;4;NULL;0,00;0,1;NULL;0
+003-001-00293;Muestras Te Negro Y Durazno 10g;Unidad;Paseo;NULL;4;NULL;0,00;0,1;NULL;0
+003-001-00294;Muestras Matcha Mango 15 G;Unidad;Paseo;NULL;4;NULL;0,00;0,12;NULL;0
+003-001-00295;Muestras Matcha Culinario 10g;Unidad;Paseo;NULL;4;NULL;0,00;0,05;NULL;0
+003-001-00296;Muestras Matcha Ceremonial 10g;Unidad;Paseo;NULL;4;NULL;0,00;0,03;NULL;0
+003-001-00297;Muestras Matcha Latte Mix 10g;Unidad;Paseo;NULL;4;NULL;15,00;0,04;NULL;0,6
+003-001-00298;Muestras Jamaica Berries 10g;Unidad;Paseo;NULL;4;NULL;0,00;0,09;NULL;0
+003-001-00299;Muestras Pink Limonade 10g;Unidad;Paseo;NULL;4;NULL;10,00;0,06;NULL;0,6
+003-001-00300;Muestras Polvo De Jamaica 10g;Unidad;Paseo;NULL;4;NULL;0,00;0,08;NULL;0
+003-001-00301;Muestras Butterfly Soluble 10g;Unidad;Paseo;NULL;4;NULL;0,00;0,07;NULL;0
+003-001-00302;Muestras Pink Matcha 10g;Unidad;Paseo;NULL;4;NULL;12,00;0,03;NULL;0,36
+003-001-00303;Muestras Sandia Y Menta 10g;Unidad;Paseo;NULL;4;NULL;0,00;0,04;NULL;0
+003-001-00304;Muestras Mint Chai 10g;Unidad;Paseo;NULL;4;NULL;10,00;0,02;NULL;0,2
+003-001-00305;Muestras Chai Latte Mix 10g;Unidad;Paseo;NULL;4;NULL;10,00;0,09;NULL;0,9
+003-001-00306;Muestras Golden Matcha 10g;Unidad;Paseo;NULL;4;NULL;12,00;0,07;NULL;0,84
+003-001-00307;Muestras Roasted Matcha 10g;Unidad;Paseo;NULL;4;NULL;0,00;0,09;NULL;0
+003-001-00308;Muestras Jamaica Y Limon 10g;Unidad;Paseo;NULL;4;NULL;0,00;0,1;NULL;0
+003-001-00309;Muestras Pumkin Spice 10g;Unidad;Paseo;NULL;4;NULL;33,00;0,1;NULL;3,3
+003-001-00310;Soluble Mint Chai;Gramo;Paseo;NULL;4;NULL;0,00;0,00376;NULL;0
+003-001-00311;Jarabe Vainilla 750ml;Unidad;Paseo;NULL;4;NULL;0,00;1,51;NULL;0
+003-001-00312;Jarabe Rosas 750ml;Unidad;Paseo;NULL;4;NULL;0,00;1,41;NULL;0,00
+003-001-00313;Chai Soluble;Gramo;Paseo;NULL;4;NULL;0,00;0,00376;NULL;0,00
+003-001-00314;Soluble Te Negro Y Durazno 1kg;Gramo;Paseo;NULL;4;NULL;4000,00;0,00271;NULL;10,84
+003-001-00315;Soluble Jamaica Y Limon 1kg;Gramo;Paseo;NULL;4;NULL;5000,00;0,00299;NULL;14,95
+003-001-00316;Butterflye Soluble 1kg;Gramo;Paseo;NULL;4;NULL;0,00;0,00284;NULL;0,00
+003-001-00317;Sandia Menta Soluble 1kg;Gramo;Paseo;NULL;4;NULL;2000,00;0,00329;NULL;6,58
+003-001-00318;Jamaica Berries Soluble 1kg;Gramo;Paseo;NULL;4;NULL;4000,00;0,00332;NULL;13,28
+003-001-00319;Soluble Pumpkin Spice;Gramo;Paseo;NULL;4;NULL;3000,00;0,00406;NULL;12,18
+003-001-00320;Soluble Te Negro Y Limon Para Licuar;Gramo;Paseo;NULL;4;NULL;0,00;0,00152;NULL;0,00
+003-001-00321;Jarabe Durazno 750ml;Unidad;Paseo;NULL;4;NULL;3,00;1,47;NULL;4,41
+003-001-00322;Jarabe Menta 750ml;Unidad;Paseo;NULL;4;NULL;0,00;0,91;NULL;0,00
+003-001-00323;Te Negro Y Limon 150 Gr;Unidad;Paseo;NULL;4;NULL;0,00;0,01;NULL;0,00
+003-001-00324;Blends Berry Berry;Gramo;Paseo;NULL;4;NULL;2000,00;0,016;NULL;32,00
+003-001-00326;English Break Fast Encapsulado;Gramo;Paseo;NULL;4;NULL;0,00;0,1;NULL;0,00
+003-001-00327;Muestras Te Negro y Arandano;Unidad;Paseo;NULL;4;NULL;3,00;0,1;NULL;0,30
+003-001-00329;Jarabe Chicle 750ml;Unidad;Paseo;NULL;4;NULL;1,00;1,39;NULL;1,39
+003-001-00336;Etiqueta pequena Cotton Candy;Unidad;Paseo;NULL;4;NULL;0,00;0,03;NULL;0,00
+003-001-00377;Sachet Lavander Mint;Unidad;Paseo;NULL;4;NULL;25,00;0,08;NULL;2,00
+003-002-00009;Maridaje Leche Entera;Gramo;Paseo;NULL;4;NULL;1000,00;0,00097;NULL;0,97
+003-002-00011;Maridaje De Leche De Coco;Gramo;Paseo;NULL;4;NULL;1890,00;0,0025;NULL;4,73
+003-002-00012;Maridaje Leche De Almendra;Gramo;Paseo;NULL;4;NULL;1890,00;0,0042;NULL;7,94
+003-002-00013;Maridaje Bubbletea Cereza;Gramo;Paseo;NULL;4;NULL;6800,00;0,00125;NULL;8,50
+003-002-00014;Maridaje Bubbletea Arandanos;Gramo;Paseo;NULL;4;NULL;3400,00;0,00125;NULL;4,25
+003-002-00015;Maridaje Bubble Tea Mango;Gramo;Paseo;NULL;4;NULL;0,00;4,25;NULL;0,00
+003-002-00016;Maridaje Stevia Sobres 1 Gramo;Unidad;Paseo;NULL;4;NULL;80,00;0,11;NULL;8,80
+003-002-00017;Maridaje Azucar Sobres 2,5 Gramos;Unidad;Paseo;NULL;4;NULL;0,00;0,02;NULL;0,00
+003-002-00018;Maridaje Azucar Sobres 5 Gramos;Unidad;Paseo;NULL;4;NULL;100,00;0,03;NULL;3,00
+003-002-00019;Maridaje Roasted Preparación;Gramo;Paseo;NULL;4;NULL;0,00;0,004;NULL;0,00
+003-002-00020;Maridaje Matcha Ceremonial Preparación;Gramo;Paseo;NULL;4;NULL;0,00;0,004;NULL;0,00
+003-002-00021;Maridaje Golden Matcha Preparación;Gramo;Paseo;NULL;4;NULL;0,00;0,004;NULL;0,00
+003-002-00022;Maridaje Zumo Limon;Gramo;Paseo;NULL;4;NULL;0,00;0,004;NULL;0,00
+003-002-00023;Maridaje Chai Latte Preparación;Gramo;Paseo;NULL;4;NULL;0,00;0,004;NULL;0,00
+003-002-00024;Maridaje Blue Matcha Preparación;Gramo;Paseo;NULL;4;NULL;0,00;0,004;NULL;0,00
+003-002-00025;Maridaje Purple Taro Preparacion;Gramo;Paseo;NULL;4;NULL;0,00;0,004;NULL;0,00
+003-002-00026;Maridaje Pink Matcha Preparación;Gramo;Paseo;NULL;4;NULL;0,00;0,004;NULL;0,00
+003-002-00027;Maridaje Matcha Culinario Preparación;Gramo;Paseo;NULL;4;NULL;0,00;0,004;NULL;0,00
+003-002-00028;Maridaje Matcha Mango Preparación;Gramo;Paseo;NULL;4;NULL;0,00;0,004;NULL;0,00
+003-002-00029;Maridaje Pumkin Spice Latte Preparación;Gramo;Paseo;NULL;4;NULL;0,00;0,004;NULL;0,00
+003-002-00030;Meridaje Lecha De Soya;Unidad;Paseo;NULL;4;NULL;1890,00;0,0017;NULL;3,21
+003-002-003-00001;Bubbles Teas / Media Ración 20 Gr;Gramo;Paseo;NULL;4;NULL;0,00;0,01;NULL;0,00
+003-002-003-00002;Bubbles Teas / Ración Completa 40 Gr;Gramo;Paseo;NULL;4;NULL;0,00;0,01;NULL;0,00
+003-003-00006;Sachet Black Velvet;Unidad;Paseo;NULL;4;NULL;25,00;0,1;NULL;2,50
+003-003-00008;Sachet Creamy Noir;Unidad;Paseo;NULL;4;NULL;25,00;0,04;NULL;1,00
+003-003-00009;Sachet Flowers y Kisses;Unidad;Paseo;NULL;4;NULL;0,00;0,08;NULL;0,00
+003-003-00010;Sachet Orange Blosson;Unidad;Paseo;NULL;4;NULL;25,00;0,08;NULL;2,00
+003-003-00011;Sachet Chocolate Mint;Unidad;Paseo;NULL;4;NULL;25,00;0,07;NULL;1,75
+003-003-00012;Sachet Orange Cocoa;Unidad;Paseo;NULL;4;NULL;25,00;0,1;NULL;2,50
+003-003-00013;Sachet Pinneaple Mint;Unidad;Paseo;NULL;4;NULL;25,00;0,1;NULL;2,50
+003-003-00014;Sachet Caramelo Supreme;Unidad;Paseo;NULL;4;NULL;25,00;0,11;NULL;2,75
+003-003-00015;Sachet Costa Blend;Unidad;Paseo;NULL;4;NULL;25,00;0,09;NULL;2,25
+003-003-00016;Sachet Green Jade;Unidad;Paseo;NULL;4;NULL;25,00;0,08;NULL;2
+003-003-00017;Sachet Sandia;Unidad;Paseo;NULL;4;NULL;25,00;0,08;NULL;2
+003-006-00001;Maquila Cannandes;Unidad;Paseo;NULL;4;NULL;0,00;0,01;NULL;0
+003-006-00002;Maquila Y Funda Plateada;Unidad;Paseo;NULL;4;NULL;0,00;0,01;NULL;0
+003-006-00003;Producion Caja De Te Personalizada Apaysami;Unidad;Paseo;NULL;4;NULL;0,00;0,01;NULL;0
+003-009-00003;Matcha Latte Mix 100g L;Unidad;Paseo;NULL;4;NULL;4,00;0,97;NULL;3,88
+003-010-00010;Lata De Blend De  Navidad 50gr;Unidad;Paseo;NULL;4;NULL;0,00;2,12;NULL;0
+003-010-00012;Lata Colaboracion Atix;Unidad;Paseo;NULL;4;NULL;0,00;1,29;NULL;0
+003-010-00013;Lata Colaboracion Cardo;Unidad;Paseo;NULL;4;NULL;1,00;1,29;NULL;1,29
+003-010-00014;Lata Colaboracion Urko;Unidad;Paseo;NULL;4;NULL;0,00;1,29;NULL;0
+003-010-00015;Lata Colaboracion Nuema;Unidad;Paseo;NULL;4;NULL;0,00;1,29;NULL;0
+003-010-00016;Lata Colaboracion 3500;Unidad;Paseo;NULL;4;NULL;0,00;1,29;NULL;0
+003-010-00017;Lata Colaboracion  Kriollo;Unidad;Paseo;NULL;4;NULL;0,00;1,29;NULL;0
+003-010-00018;Latas Té Negro De Sri Lanka Lovers Leap;Unidad;Paseo;NULL;4;NULL;0,00;1,29;NULL;0
+003-010-00019;Lata Colaboracion Nuema Amazonia;Unidad;Paseo;NULL;4;NULL;0,00;1,29;NULL;0
+003-010-00020;Lata Colaboracion Nuema Sierra;Unidad;Paseo;NULL;4;NULL;0,00;1,29;NULL;0
+003-010-00021;Lata Colaboracion Quitu Andes;Unidad;Paseo;NULL;4;NULL;0,00;1,29;NULL;0
+003-010-00022;Lata Colaboracion Quitu Paramo;Unidad;Paseo;NULL;4;NULL;2,00;1,29;NULL;2,58
+003-010-00023;Lata Colaboracion Nuema Costa Insular;Unidad;Paseo;NULL;4;NULL;0,00;1,29;NULL;0
+003-010-00024;Lata Colaboracion Holiday;Unidad;Paseo;NULL;4;NULL;0,00;1,29;NULL;0
+003-010-00025;Lata Colaboracion Kriollo Jardin Selvatica;Unidad;Paseo;NULL;4;NULL;0,00;1,29;NULL;0
+003-010-00026;Lata Digestive Blend;Unidad;Paseo;NULL;4;NULL;0,00;1,29;NULL;0
+003-010-00027;Lata Delta Night;Unidad;Paseo;NULL;4;NULL;4,00;1,29;NULL;5,16
+003-010-00028;Lata Colaboracion Ikaro;Unidad;Paseo;NULL;4;NULL;0,00;1,29;NULL;0
+003-010-00029;Lata Colaboracion Quitu Linea Ecuatorial;Unidad;Paseo;NULL;4;NULL;0,00;1,29;NULL;0
+003-010-00030;Lata Colaboracion Quitu Archipielago;Unidad;Paseo;NULL;4;NULL;0,00;1,29;NULL;0
+003-010-00031;Lata Colaboracion Ikaro Encanto Frutal;Unidad;Paseo;NULL;4;NULL;3,00;1,29;NULL;3,87
+003-010-00032;Lata  Sencha Orgànico;Unidad;Paseo;NULL;4;NULL;0,00;1,29;NULL;0
+003-010-00033;Lata Moon Cycle;Unidad;Paseo;NULL;4;NULL;0,00;1,29;NULL;0
+003-010-00034;Lata Flores De Jazmin;Unidad;Paseo;NULL;4;NULL;0,00;1,29;NULL;0
+003-010-00035;Lata Mint Green;Unidad;Paseo;NULL;4;NULL;3,00;1,29;NULL;3,87
+003-010-00036;Lata Hawaiian Colada;Unidad;Paseo;NULL;4;NULL;1,00;1,29;NULL;1,29
+003-010-00037;Lata Casablanca;Unidad;Paseo;NULL;4;NULL;2,00;1,29;NULL;2,58
+003-010-00038;Lata Golden Rooibos;Unidad;Paseo;NULL;4;NULL;1,00;1,29;NULL;1,29
+003-010-00040;Lata Colaboracion Quitu Amazonia;Unidad;Paseo;NULL;4;NULL;0,00;1,29;NULL;0
+003-010-00041;Lata Colaboracion Kriollo Especiado;Unidad;Paseo;NULL;4;NULL;0,00;1,29;NULL;0
+003-010-001-00001;Lata X 10 Earl Grey;Unidad;Paseo;NULL;4;NULL;9,00;1,27;NULL;11,43
+003-010-001-00002;Lata X 10 Berry Berry;Unidad;Paseo;NULL;4;NULL;10,00;1,25;NULL;12,5
+003-010-001-00003;Lata X 10 Strawberry Green Tea;Unidad;Paseo;NULL;4;NULL;9,00;1,41;NULL;12,69
+003-010-001-00004;Lata X 10 Green Tea;Unidad;Paseo;NULL;4;NULL;7,00;1,28;NULL;8,96
+003-010-001-00005;Lata X 10 Chamomile;Unidad;Paseo;NULL;4;NULL;9,00;1,2;NULL;10,8
+003-010-001-00006;Lata X 10 Lemon Ginger;Unidad;Paseo;NULL;4;NULL;9,00;1,17;NULL;10,53
+003-010-001-00008;Lata X15 Cosmic Blends;Unidad;Paseo;NULL;4;NULL;4,00;1,26;NULL;5,04
+003-014-00001;Caja De Acetato;Unidad;Paseo;NULL;4;NULL;120,00;0,46;NULL;55,2
+003-014-00002;Caja Tippytea Regalo Motivo Colores 2024;Unidad;Paseo;NULL;4;NULL;1,00;2,35;NULL;2,35
+003-014-00003;Funda Pequeña Café Shopping Bag;Unidad;Paseo;NULL;4;NULL;41,00;0,29;NULL;11,89
+003-017-00007;Doypack Te Ansiedad;Unidad;Paseo;NULL;4;NULL;0,00;0,01;NULL;0
+003-017-00008;Doypack Te Para Bajar De Peso;Unidad;Paseo;NULL;4;NULL;0,00;0,01;NULL;0
+003-017-00009;Doypack Te Para Dolor De Articulaciones;Unidad;Paseo;NULL;4;NULL;0,00;0,01;NULL;0
+003-017-00010;Doypack Variados;Unidad;Paseo;NULL;4;NULL;0,00;0,01;NULL;0
+003-017-001-00001;Doy Pack Green Tea;Unidad;Paseo;NULL;4;NULL;5,00;0,35;NULL;1,75
+003-017-001-00002;Doy Pack Earl Grey;Unidad;Paseo;NULL;4;NULL;6,00;0,64;NULL;3,84
+003-017-001-00003;Doy Pack Chamomile;Unidad;Paseo;NULL;4;NULL;5,00;0,72;NULL;3,6
+003-017-001-00004;Doy Pack Lemon Ginger;Unidad;Paseo;NULL;4;NULL;9,00;0,72;NULL;6,48
+003-017-001-00005;Doy Pack Strawberry;Unidad;Paseo;NULL;4;NULL;5,00;0,81;NULL;4,05
+003-017-001-00006;Doy Pack Berry Berry;Unidad;Paseo;NULL;4;NULL;0,00;0,92;NULL;0
+003-018-00013;Cajita 20 Bolsita Te Negro;Unidad;Paseo;NULL;4;NULL;0,00;0,01;NULL;0
+003-018-00014;Cajita 20 Bolsita Valeriana;Unidad;Paseo;NULL;4;NULL;0,00;0,01;NULL;0
+003-018-00015;Cajita 20 Bolsita Toronjil;Unidad;Paseo;NULL;4;NULL;0,00;0,01;NULL;0
+003-018-00016;Cajita 20 Bolsita Adelgazante;Unidad;Paseo;NULL;4;NULL;0,00;0,01;NULL;0
+003-018-001-00001;Aromatica Manzanilla;Unidad;Paseo;NULL;4;NULL;8,00;0,84;NULL;6,72
+003-018-001-00002;Aromatica Manzanilla & Miel;Unidad;Paseo;NULL;4;NULL;9,00;0,87;NULL;7,83
+003-018-001-00003;Aromatica Hierbaluisa;Unidad;Paseo;NULL;4;NULL;6,00;0,6;NULL;3,6
+003-018-001-00004;Aromatica Cedron;Unidad;Paseo;NULL;4;NULL;8,00;0,7;NULL;5,6
+003-018-001-00005;Aromatica Menta;Unidad;Paseo;NULL;4;NULL;8,00;0,67;NULL;5,36
+003-018-001-00006;Aromatica Hierbabuena;Unidad;Paseo;NULL;4;NULL;9,00;0,67;NULL;6,03
+003-018-001-00007;Aromatica Toronjil;Unidad;Paseo;NULL;4;NULL;10,00;0,67;NULL;6,7
+003-018-001-00008;Aromatica Guayusa;Unidad;Paseo;NULL;4;NULL;7,00;0,68;NULL;4,76
+003-018-001-00009;Aromatica Anis;Unidad;Paseo;NULL;4;NULL;7,00;0,62;NULL;4,34
+003-019-00009;Tippytea Te Negro/Limon 300ml;Unidad;Paseo;NULL;4;NULL;0,00;0,55;NULL;0
+003-019-00010;Syrups Rosas;Mililitro;Paseo;NULL;4;NULL;0,00;0,00189;NULL;0
+003-019-00011;Syrups Chicle;Mililitro;Paseo;NULL;4;NULL;0,00;0,018;NULL;0
+003-019-00012;Syrups Vainilla;Mililitro;Paseo;NULL;4;NULL;0,00;0,0018;NULL;0
+003-019-00013;Syrups Durazno;Mililitro;Paseo;NULL;4;NULL;0,00;0,0196;NULL;0
+003-019-00014;Botellas 750ml Jarabes;Unidad;Paseo;NULL;4;NULL;0,00;0,63;NULL;0
+003-019-00015;Syrups Menta;Mililitro;Paseo;NULL;4;NULL;0,00;0,0012;NULL;0
+003-019-00016;Jarabe De Vainilla 500ml;Unidad;Paseo;NULL;4;NULL;0,00;1,71;NULL;0
+003-019-00017;Jarabe De Durazno 500ml;Unidad;Paseo;NULL;4;NULL;1,00;1,67;NULL;1,67
+003-019-002-00001;Botella 300 Ml Lemon Ginger;Unidad;Paseo;NULL;4;NULL;6,00;0,55;NULL;3,3
+003-019-002-00002;Botella 300 Ml Jamaica & Berries;Unidad;Paseo;NULL;4;NULL;7,00;0,55;NULL;3,85
+003-019-002-00005;Botella 300ml  Te Blanco & Rosas;Unidad;Paseo;NULL;4;NULL;4,00;0,56;NULL;2,24
+003-019-002-00007;Botella 300 Ml Te Negro & Limon;Unidad;Paseo;NULL;4;NULL;5,00;0,55;NULL;2,75
+003-019-002-00008;Botella 300 Ml Rooibos & Mango;Unidad;Paseo;NULL;4;NULL;8,00;0,55;NULL;4,4
+003-019-002-00009;Jarabe De Rosas 500ml;Unidad;Paseo;NULL;4;NULL;0,00;1,43;NULL;0
+003-020-00003;Funda Matcha Grado Superior 50gr;Unidad;Paseo;NULL;4;NULL;0,00;4,72;NULL;0
+003-020-00004;Matcha Wakamurasaki 20gr;Unidad;Paseo;NULL;4;NULL;0,00;0,02;NULL;0
+003-020-00005;Matcha Ujinoko 20gr;Unidad;Paseo;NULL;4;NULL;0,00;0,025;NULL;0
+003-020-00006;Matcha Yutaka 20gr;Unidad;Paseo;NULL;4;NULL;0,00;0,028;NULL;0
+003-020-00007;Matcha Kiwami  20 Gr;Unidad;Paseo;NULL;4;NULL;0,00;0,03;NULL;0
+003-020-00008;Matcha Pink 50gr L;Unidad;Paseo;NULL;4;NULL;7,00;1,15;NULL;8,05
+003-020-00009;Matcha Golden 50gr L;Unidad;Paseo;NULL;4;NULL;6,00;1,16;NULL;6,96
+003-020-00011;Kit Matchas Japoneses;Unidad;Paseo;NULL;4;NULL;0,00;0,01;NULL;0
+003-020-00013;Matcha Golden - 15 Fdas X 300gr;Unidad;Paseo;NULL;4;NULL;0,00;0,01;NULL;0
+003-020-00014;Matcha Pink - 15 Fdas X 300gr;Unidad;Paseo;NULL;4;NULL;0,00;0,01;NULL;0
+003-020-00015;Matcha Culinario - 15 Fdas X 300gr;Unidad;Paseo;NULL;4;NULL;0,00;0,01;NULL;0
+003-020-00016;Purple Taro Latte 50 Gramos L;Unidad;Paseo;NULL;4;NULL;11,00;1,28;NULL;14,08
+003-020-00017;Matcha Mango 100gr L;Unidad;Paseo;NULL;4;NULL;7,00;1,31;NULL;9,17
+003-020-00018;Lata Matcha Grado Superior 30gr;Unidad;Paseo;NULL;4;NULL;1,00;2,753;NULL;2,753
+003-020-00019;Matcha Culinario;Unidad;Paseo;NULL;4;NULL;0,00;9,5;NULL;0
+003-020-00020;Matcha Kyoto Bi 20 Gr;Unidad;Paseo;NULL;4;NULL;1,00;7,98;NULL;7,98
+003-020-00021;Matcha Kyoto Rin 20gr;Unidad;Paseo;NULL;4;NULL;1,00;6,48;NULL;6,48
+003-021-00007;Mystic Petal Sacha Blends;Unidad;Paseo;NULL;4;NULL;0,00;0,01;NULL;0
+003-021-00008;Lemon Splash Sacha Blends;Unidad;Paseo;NULL;4;NULL;0,00;0,01;NULL;0
+003-021-00009;Sacha Blend Minty Mist;Unidad;Paseo;NULL;4;NULL;0,00;0,01;NULL;0
+003-021-00010;Purple Rain Sacha Blends;Unidad;Paseo;NULL;4;NULL;0,00;0,01;NULL;0
+003-021-00011;Orange Sunset Sacha Blends;Unidad;Paseo;NULL;4;NULL;0,00;0,01;NULL;0
+003-021-00013;Minty Mist Fórmula Ecuador.;Unidad;Paseo;NULL;4;NULL;0,00;0,01;NULL;0
+003-021-00014;Te De Especialidad X10 Piramide;Unidad;Paseo;NULL;4;NULL;0,00;0,01;NULL;0
+003-021-00015;Lata Piramide X10 Blend Natural Vitality;Unidad;Paseo;NULL;4;NULL;0,00;1,09;NULL;0
+003-021-00016;Piramide The Vert 3gr;Unidad;Paseo;NULL;4;NULL;0,00;0,03;NULL;0
+003-021-00017;Piramide The Blanc 3gr;Unidad;Paseo;NULL;4;NULL;0,00;0,07;NULL;0
+003-021-00018;Piramide Oolong 3gr;Unidad;Paseo;NULL;4;NULL;0,00;0,07;NULL;0
+003-021-00019;Piramide Pu-Erh 3gr;Unidad;Paseo;NULL;4;NULL;0,00;0,06;NULL;0
+003-021-00020;Piramide Earl Grey 3gr;Unidad;Paseo;NULL;4;NULL;0,00;0,06;NULL;0
+003-021-00021;Piramide Ophir 3gr;Unidad;Paseo;NULL;4;NULL;10,00;0,13;NULL;1,3
+003-021-00022;Piramide Angel Demon 3gr;Unidad;Paseo;NULL;4;NULL;5,00;0,13;NULL;0,65
+003-021-00023;Piramide The Les Contraires 3gr;Unidad;Paseo;NULL;4;NULL;0,00;0,05;NULL;0
+003-021-00024;Piramide The Au Coeur De Paris 3gr;Unidad;Paseo;NULL;4;NULL;16,00;0,05;NULL;0,8
+003-021-00025;Piramide The Les Jardins De La Reine 3gr;Unidad;Paseo;NULL;4;NULL;10,00;0,07;NULL;0,7
+003-021-00026;Piramide Infusion Miss Elisa 3 Gr;Unidad;Paseo;NULL;4;NULL;11,00;0,05;NULL;0,55
+003-021-00027;Piramide Infusion Mademoiselle 3gr;Unidad;Paseo;NULL;4;NULL;9,00;0,06;NULL;0,54
+003-021-00028;Piramide Infusion Coquelicot 3gr;Unidad;Paseo;NULL;4;NULL;3,00;0,05;NULL;0,15
+003-021-00029;Piramide Infusion Tar Madarina Ver;Unidad;Paseo;NULL;4;NULL;0,00;0,05;NULL;0
+003-021-00030;Lata Piramides The Ophir;Unidad;Paseo;NULL;4;NULL;3,00;1,97;NULL;5,91
+003-021-00031;Lata Piramides The Angel Demon;Unidad;Paseo;NULL;4;NULL;2,00;1,91;NULL;3,82
+003-021-00032;Lata Piramides The Les Contraires;Unidad;Paseo;NULL;4;NULL;3,00;1,23;NULL;3,69
+003-021-00033;Lata Piramides The Au Coeur De Paris;Unidad;Paseo;NULL;4;NULL;0,00;1,14;NULL;0
+003-021-00034;Lata Piramides The Les Jardins De La Reine;Unidad;Paseo;NULL;4;NULL;3,00;1,09;NULL;3,27
+003-021-00035;Lata Piramides Infusion Miss Elisa;Unidad;Paseo;NULL;4;NULL;5,00;1,41;NULL;7,05
+003-021-00036;Lata Piramides Infusion Mademoiselle;Unidad;Paseo;NULL;4;NULL;4,00;1,26;NULL;5,04
+003-021-00037;Lata Piramides Infusion Coquelicot;Unidad;Paseo;NULL;4;NULL;4,00;1,09;NULL;4,36
+003-021-00038;Lata Piramides Infusion Tar Mandarina Ver;Unidad;Paseo;NULL;4;NULL;2,00;1,09;NULL;2,18
+003-021-00039;Piramide The Negro 3gr;Unidad;Paseo;NULL;4;NULL;0,00;0,04;NULL;0
+003-021-00040;Piramide Te Ansiedad 2gr;Unidad;Paseo;NULL;4;NULL;0,00;0,08;NULL;0
+003-021-00041;Piramide Te Para Bajar De Peso 2gr;Unidad;Paseo;NULL;4;NULL;0,00;0,1;NULL;0
+003-021-00042;Piramide Te Para Dolor De Articulaciones 2gr;Unidad;Paseo;NULL;4;NULL;0,00;0,11;NULL;0
+003-021-00043;Lata Piramide Legacy;Unidad;Paseo;NULL;4;NULL;6,00;1,73;NULL;10,38
+003-021-00044;Lata X15 Piramides Pumkin;Unidad;Paseo;NULL;4;NULL;17,00;1,27;NULL;21,59
+003-021-00045;Lata X10 Piramides Blend Lum;Unidad;Paseo;NULL;4;NULL;0,00;1,29;NULL;0
+003-021-00046;Latas Navidenas  Nuit De Noel;Unidad;Paseo;NULL;4;NULL;0,00;1,41;NULL;0
+003-021-00047;Piramide Navidenas Nuit De Noel;Unidad;Paseo;NULL;4;NULL;0,00;0,015;NULL;0
+003-021-00048;Empacado De Pad Y Funda;Unidad;Paseo;NULL;4;NULL;0,00;0,01;NULL;0
+003-021-00049;Lata Palo Azul X15 Piramides;Unidad;Paseo;NULL;4;NULL;0,00;1,28;NULL;0
+003-021-00050;Lata Piramides X15 Dia De La Madre;Unidad;Paseo;NULL;4;NULL;8,00;1,27;NULL;10,16
+003-021-00058;Lata Pumkin Spice  X 10;Unidad;Paseo;NULL;4;NULL;0,00;1,25;NULL;0
+003-021-00060;Lata X15 Piramides Blends;Unidad;Paseo;NULL;4;NULL;0,00;0,01;NULL;0
+003-021-00061;Piramides Berry Berry;Unidad;Paseo;NULL;4;NULL;26,00;0,07;NULL;1,82
+003-021-00062;Piramides Bingoblueberry;Unidad;Paseo;NULL;4;NULL;14,00;0,09;NULL;1,26
+003-021-00063;Piramides Black Peach;Unidad;Paseo;NULL;4;NULL;15,00;0,07;NULL;1,05
+003-021-00064;Piramides Casablanca;Unidad;Paseo;NULL;4;NULL;55,00;0,06;NULL;3,3
+003-021-00065;Piramides Cedron;Unidad;Paseo;NULL;4;NULL;50,00;0,08;NULL;4
+003-021-00066;Piramides Cherry Rose;Unidad;Paseo;NULL;4;NULL;33,00;0,09;NULL;2,97
+003-021-00067;Piramides Chocolate Mint;Unidad;Paseo;NULL;4;NULL;5,00;0,07;NULL;0,35
+003-021-00068;Piramides Cranberry Apple;Unidad;Paseo;NULL;4;NULL;9,00;0,07;NULL;0,63
+003-021-00069;Piramides Detox Local;Unidad;Paseo;NULL;4;NULL;29,00;0,08;NULL;2,32
+003-021-00070;Piramides Divine Tea;Unidad;Paseo;NULL;4;NULL;75,00;0,09;NULL;6,75
+003-021-00071;Piramides Oolong;Unidad;Paseo;NULL;4;NULL;12,00;0,08;NULL;0,96
+003-021-00072;Piramides Guayusa Y Mortiño;Unidad;Paseo;NULL;4;NULL;0,00;0,07;NULL;0
+003-021-00073;Piramides Guayusa;Unidad;Paseo;NULL;4;NULL;25,00;0,06;NULL;1,5
+003-021-00074;Piramides Guayusa Mate Citrus;Unidad;Paseo;NULL;4;NULL;24,00;0,05;NULL;1,2
+003-021-00075;Piramides Hawaiian Colada;Unidad;Paseo;NULL;4;NULL;18,00;0,08;NULL;1,44
+003-021-00076;Piramides Lavanda;Unidad;Paseo;NULL;4;NULL;56,00;0,09;NULL;5,04
+003-021-00077;Piramides Lemon Ginger;Unidad;Paseo;NULL;4;NULL;124,00;0,06;NULL;7,44
+003-021-00078;Piramides Manzanilla;Unidad;Paseo;NULL;4;NULL;92,00;0,05;NULL;4,6
+003-021-00079;Piramides Menta;Unidad;Paseo;NULL;4;NULL;115,00;0,04;NULL;4,6
+003-021-00080;Piramides Mercedes Apple;Unidad;Paseo;NULL;4;NULL;20,00;0,08;NULL;1,6
+003-021-00081;Piramides Mint Green;Unidad;Paseo;NULL;4;NULL;16,00;0,09;NULL;1,44
+003-021-00082;Piramides Oolong Grape;Unidad;Paseo;NULL;4;NULL;0,00;0,07;NULL;0
+003-021-00083;Piramides Earl Grey;Unidad;Paseo;NULL;4;NULL;56,00;0,07;NULL;3,92
+003-021-00084;Piramides Piña Green Tea;Unidad;Paseo;NULL;4;NULL;25,00;0,09;NULL;2,25
+003-021-00085;Piramides Provence;Unidad;Paseo;NULL;4;NULL;8,00;0,08;NULL;0,64
+003-021-00086;Piramides Rooibos;Unidad;Paseo;NULL;4;NULL;70,00;0,08;NULL;5,6
+003-021-00087;Piramides Rosas;Unidad;Paseo;NULL;4;NULL;15,00;0,09;NULL;1,35
+003-021-00088;PiramidesSandia;Unidad;Paseo;NULL;4;NULL;24,00;0,07;NULL;1,68
+003-021-00089;Piramides Strawberry Green Tea;Unidad;Paseo;NULL;4;NULL;91,00;0,9;NULL;81,9
+003-021-00090;Piramides Strawberry Kiwi;Unidad;Paseo;NULL;4;NULL;14,00;0,07;NULL;0,98
+003-021-00091;Piramides Te Blanco;Unidad;Paseo;NULL;4;NULL;28,00;0,09;NULL;2,52
+003-021-00092;Piramides Te Verde;Unidad;Paseo;NULL;4;NULL;68,00;0,07;NULL;4,76
+003-021-00093;Piramides Caribean Punch;Unidad;Paseo;NULL;4;NULL;18,00;0,09;NULL;1,62
+003-021-00094;Piramides Rosalinet Night;Unidad;Paseo;NULL;4;NULL;16,00;0,04;NULL;0,64
+003-021-00095;Piramides Chamomile;Unidad;Paseo;NULL;4;NULL;57,00;0,04;NULL;2,28
+003-021-00096;Piramides Amaranto Spice;Unidad;Paseo;NULL;4;NULL;0,00;0,09;NULL;0
+003-021-00097;Piramides English Breakfast;Unidad;Paseo;NULL;4;NULL;19,00;0,07;NULL;1,33
+003-021-00098;Piramides Red Seduction;Unidad;Paseo;NULL;4;NULL;20,00;0,06;NULL;1,2
+003-021-00099;Piramides Strawberry Rose Mint;Unidad;Paseo;NULL;4;NULL;15,00;0,09;NULL;1,35
+003-021-00100;Piramides Ginger Cider;Unidad;Paseo;NULL;4;NULL;12,00;0,08;NULL;0,96
+003-021-00101;Piramides Majestic Pu Erh;Unidad;Paseo;NULL;4;NULL;19,00;0,05;NULL;0,95
+003-021-00102;Piramides Pu Erh Capuccino;Unidad;Paseo;NULL;4;NULL;17,00;0,07;NULL;1,19
+003-021-00103;Piramides Pinneaple Mint;Unidad;Paseo;NULL;4;NULL;0,00;0,08;NULL;0
+003-021-00104;Piramides Orange Cocoa;Unidad;Paseo;NULL;4;NULL;15,00;0,09;NULL;1,35
+003-021-00105;Piramides Pu Erh;Unidad;Paseo;NULL;4;NULL;50,00;0,09;NULL;4,5
+003-021-00106;Piramides Jazmin;Unidad;Paseo;NULL;4;NULL;16,00;0,07;NULL;1,12
+003-021-00107;Piramides Oolong Rose;Unidad;Paseo;NULL;4;NULL;0,00;0,08;NULL;0
+003-021-00108;Piramides Jamaica Green;Unidad;Paseo;NULL;4;NULL;24,00;0,07;NULL;1,68
+003-021-00109;Piramides Lucky Mango;Unidad;Paseo;NULL;4;NULL;50,00;0,06;NULL;3
+003-021-00110;Piramides Guayusa Tropical;Unidad;Paseo;NULL;4;NULL;18,00;0,07;NULL;1,26
+003-021-00111;Piramides Tutti Fruti;Unidad;Paseo;NULL;4;NULL;26,00;0,07;NULL;1,82
+003-021-00112;Piramides  Paradiso Peach;Unidad;Paseo;NULL;4;NULL;28,00;0,07;NULL;1,96
+003-021-00113;Piramides Te Negro Keemun;Unidad;Paseo;NULL;4;NULL;22,00;0,06;NULL;1,32
+003-021-00114;Piramides Flower & Kisses;Unidad;Paseo;NULL;4;NULL;16,00;0,08;NULL;1,28
+003-021-00115;Piramides Black Guayusa Y Chocolate;Unidad;Paseo;NULL;4;NULL;6,00;0,05;NULL;0,3
+003-021-00116;Piramides Black Mango;Unidad;Paseo;NULL;4;NULL;21,00;0,06;NULL;1,26
+003-021-00117;Piramides Mystic Rose;Unidad;Paseo;NULL;4;NULL;24,00;0,04;NULL;0,96
+003-021-00118;Piramides Ruby Tangerine;Unidad;Paseo;NULL;4;NULL;38,00;0,08;NULL;3,04
+003-021-00119;Piramides Tilo Lemon;Unidad;Paseo;NULL;4;NULL;17,00;0,08;NULL;1,36
+003-021-00120;Piramides Sakura Cherry Blosson;Unidad;Paseo;NULL;4;NULL;24,00;0,09;NULL;2,16
+003-021-00121;Piramides Blueberry Tentation;Unidad;Paseo;NULL;4;NULL;23,00;0,09;NULL;2,07
+003-021-00122;Piramide Aqua De Rosas;Unidad;Paseo;NULL;4;NULL;6,00;0,1;NULL;0,6
+003-021-00123;Piramides Citrus Matcha;Unidad;Paseo;NULL;4;NULL;0,00;0,05;NULL;0
+003-021-00124;Piramides Black Guayusa;Unidad;Paseo;NULL;4;NULL;0,00;0,05;NULL;0
+003-021-00125;Piramides Lavander Mint;Unidad;Paseo;NULL;4;NULL;14,00;0,06;NULL;0,84
+003-021-00126;Piramides Sushine Lemon;Unidad;Paseo;NULL;4;NULL;0,00;0,1;NULL;0
+003-021-00127;Piramides Orange Star;Unidad;Paseo;NULL;4;NULL;20,00;0,08;NULL;1,6
+003-021-00128;Piramides Golden Rooibos;Unidad;Paseo;NULL;4;NULL;25,00;0,03;NULL;0,75
+003-021-00129;Piramides Cotton Candy;Unidad;Paseo;NULL;4;NULL;12,00;0,06;NULL;0,72
+003-021-00130;Piramides Green Jade;Unidad;Paseo;NULL;4;NULL;19,00;0,06;NULL;1,14
+003-021-00131;Piramides Black Sunshine;Unidad;Paseo;NULL;4;NULL;31,00;0,02;NULL;0,62
+003-021-00132;Piramides Mindningth Almond;Unidad;Paseo;NULL;4;NULL;21,00;0,07;NULL;1,47
+003-021-00133;Piramides Flower Lubally;Unidad;Paseo;NULL;4;NULL;24,00;0,06;NULL;1,44
+003-021-00134;Piramides Milky Oolong;Unidad;Paseo;NULL;4;NULL;28,00;0,1;NULL;2,8
+003-021-00135;Piramides Black Velvet;Unidad;Paseo;NULL;4;NULL;13,00;0,08;NULL;1,04
+003-021-00136;Piramides Bubbly Oolong;Unidad;Paseo;NULL;4;NULL;6,00;0,03;NULL;0,18
+003-021-00137;Piramides Orange Blosson;Unidad;Paseo;NULL;4;NULL;24,00;0,06;NULL;1,44
+003-021-00138;Piramides Tropical Fusion;Unidad;Paseo;NULL;4;NULL;24,00;0,06;NULL;1,44
+003-021-00139;Piramides Creamy Noir;Unidad;Paseo;NULL;4;NULL;36,00;0,02;NULL;0,72
+003-021-00140;Piramides Sachet Rooibos;Unidad;Paseo;NULL;4;NULL;0,00;0,07;NULL;0
+003-021-00141;Piramides Sachet Sandia;Unidad;Paseo;NULL;4;NULL;0,00;0,06;NULL;0
+003-021-00142;Piramides Sachet Strawberry Kiwi;Unidad;Paseo;NULL;4;NULL;0,00;0,01;NULL;0
+003-021-00143;Piramides Sachet Te Balnco;Unidad;Paseo;NULL;4;NULL;0,00;0,05;NULL;0
+003-021-00144;Piramides Sachet Te Verde;Unidad;Paseo;NULL;4;NULL;0,00;0,07;NULL;0
+003-021-00145;Piramides Sachet Hierbabuena;Unidad;Paseo;NULL;4;NULL;0,00;0,04;NULL;0
+003-021-00146;Piramides Sachet Hierbaluisa;Unidad;Paseo;NULL;4;NULL;0,00;0,05;NULL;0
+003-021-00147;Piramides Sachet Manzanilla Y Miel;Unidad;Paseo;NULL;4;NULL;0,00;0,01;NULL;0
+003-021-00148;Piramides Sachet Te Verde Kfc;Unidad;Paseo;NULL;4;NULL;0,00;0,09;NULL;0
+003-021-00149;Piramides Mix Frutal;Unidad;Paseo;NULL;4;NULL;20,00;0,01;NULL;0,2
+003-021-00150;Piramides Tropical Fruit;Unidad;Paseo;NULL;4;NULL;22,00;0,06;NULL;1,32
+003-021-00151;Piramides Agua De Azares;Unidad;Paseo;NULL;4;NULL;22,00;0,03;NULL;0,66
+003-021-00152;Piramides Canela Rooibos;Unidad;Paseo;NULL;4;NULL;23,00;0,06;NULL;1,38
+003-021-00153;Piramides Palo Azul;Unidad;Paseo;NULL;4;NULL;0,00;0,05;NULL;0
+003-021-00154;Piramides Negro Blueberry;Unidad;Paseo;NULL;4;NULL;0,00;0,05;NULL;0
+003-021-00155;Piramides Pera Rooibos;Unidad;Paseo;NULL;4;NULL;0,00;0,08;NULL;0
+003-021-00156;Piramides Butterfly Pea;Unidad;Paseo;NULL;4;NULL;75,00;0,07;NULL;5,25
+003-021-00157;Piramides Focus Boost;Unidad;Paseo;NULL;4;NULL;0,00;0,03;NULL;0
+003-021-00158;Piramides Moon Cycle;Unidad;Paseo;NULL;4;NULL;15,00;0,08;NULL;1,2
+003-021-00159;Piramides Divine Detox;Unidad;Paseo;NULL;4;NULL;27,00;0,03;NULL;0,81
+003-021-00160;Piramides Digestive Blend;Unidad;Paseo;NULL;4;NULL;15,00;0,02;NULL;0,3
+003-021-00161;Piramides Delta Nigth;Unidad;Paseo;NULL;4;NULL;22,00;0,06;NULL;1,32
+003-021-00162;Piramides Sachet Te Negro Kfc;Unidad;Paseo;NULL;4;NULL;0,00;0,09;NULL;0
+003-021-00163;Piramides Cosmic Blends;Unidad;Paseo;NULL;4;NULL;173,00;0,1;NULL;17,3
+003-021-00164;Piramides Pumkin Spice;Unidad;Paseo;NULL;4;NULL;0,00;0,08;NULL;0
+003-021-00165;Piramides Colada Morada;Unidad;Paseo;NULL;4;NULL;0,00;0,07;NULL;0
+003-021-00166;Piramides Legacy;Unidad;Paseo;NULL;4;NULL;31,00;0,08;NULL;2,48
+003-021-00167;Piramides Menta Sandia;Unidad;Paseo;NULL;4;NULL;14,00;0,09;NULL;1,26
+003-021-00168;Piramides Turucucho;Unidad;Paseo;NULL;4;NULL;21,00;0,06;NULL;1,26
+003-021-00169;Piramides Puer Caramelo;Unidad;Paseo;NULL;4;NULL;22,00;0,09;NULL;1,98
+003-021-00170;Piramides Amazon Power;Unidad;Paseo;NULL;4;NULL;0,00;0,04;NULL;0
+003-021-00171;Piramides Citrus Zen;Unidad;Paseo;NULL;4;NULL;0,00;0,08;NULL;0
+003-021-00172;Piramides Caramel Dragon;Unidad;Paseo;NULL;4;NULL;16,00;0,09;NULL;1,44
+003-021-00173;Piramides Sachet Anis Y Oregano Lucia;Unidad;Paseo;NULL;4;NULL;0,00;0,07;NULL;0
+003-021-00174;Piramides Butterfly Floral;Unidad;Paseo;NULL;4;NULL;11,00;0,1;NULL;1,1
+003-021-00175;Lata Colaboracion  Quitu;Unidad;Paseo;NULL;4;NULL;0,00;1,29;NULL;0
+003-021-00176;Sachets Manzanilla Y Miel;Unidad;Paseo;NULL;4;NULL;150,00;0,06;NULL;9
+003-021-00177;Sachets Strawberry Green Tea;Unidad;Paseo;NULL;4;NULL;50,00;0,11;NULL;5,5
+003-021-00178;Sachets Hierbaluisa;Unidad;Paseo;NULL;4;NULL;0,00;0,08;NULL;0
+003-021-00179;Sachets Berry Berry;Unidad;Paseo;NULL;4;NULL;37,00;0,09;NULL;3,33
+003-021-00180;Sachets Anis;Unidad;Paseo;NULL;4;NULL;100,00;0,09;NULL;9
+003-021-00181;Sachets Menta;Unidad;Paseo;NULL;4;NULL;0,00;0,07;NULL;0
+003-021-00182;Sachets Cedron;Unidad;Paseo;NULL;4;NULL;0,00;0,08;NULL;0
+003-021-00183;Sachets Manzanilla;Unidad;Paseo;NULL;4;NULL;0,00;0,07;NULL;0
+003-021-00184;Sachets Chamomile Lavander Y Roses;Unidad;Paseo;NULL;4;NULL;125,00;0,06;NULL;7,5
+003-021-00185;Sachets Earl Grey;Unidad;Paseo;NULL;4;NULL;0,00;0,05;NULL;0
+003-021-00186;Sachets Guayusa;Unidad;Paseo;NULL;4;NULL;74,00;0,05;NULL;3,7
+003-021-00187;Sachet Lemon Ginger L;Unidad;Paseo;NULL;4;NULL;125,00;0,08;NULL;10
+003-021-00188;Sachet Te Verde;Unidad;Paseo;NULL;4;NULL;0,00;0,09;NULL;0
+003-021-00189;Sachet Toronjil;Unidad;Paseo;NULL;4;NULL;50,00;0,1;NULL;5
+003-021-00190;Sachet Hierbabuena;Unidad;Paseo;NULL;4;NULL;57,00;0,07;NULL;3,99
+003-021-00191;Muestras Tisanas Frutos Rojos;Unidad;Paseo;NULL;4;NULL;5,00;0,25;NULL;1,25
+003-021-00192;Muestras Sachet Strawberry Green Tea;Unidad;Paseo;NULL;4;NULL;0,00;0,11;NULL;0
+003-021-00193;Muestras Sachet Earl Grey;Unidad;Paseo;NULL;4;NULL;0,00;0,05;NULL;0
+003-021-00194;Muestras Sachet Chamomile Lavender & Roses;Unidad;Paseo;NULL;4;NULL;0,00;0,06;NULL;0
+003-021-00195;Muestras Sachet Lemon Ginger;Unidad;Paseo;NULL;4;NULL;0,00;0,08;NULL;0
+003-021-00196;Muestras Sachet Berry Berry;Unidad;Paseo;NULL;4;NULL;0,00;0,09;NULL;0
+003-021-00197;Muestras Sachet Flores De Manzanilla;Unidad;Paseo;NULL;4;NULL;0,00;0,05;NULL;0
+003-021-00198;Muestras Sachet Guayusa;Unidad;Paseo;NULL;4;NULL;0,00;0,05;NULL;0
+003-021-00199;Muestras Sachet Menta;Unidad;Paseo;NULL;4;NULL;0,00;0,06;NULL;0
+003-021-00200;Muestras Sachet Hierbaluisa;Unidad;Paseo;NULL;4;NULL;0,00;0,05;NULL;0
+003-021-00201;Muestras Sachet Cedron;Unidad;Paseo;NULL;4;NULL;0,00;0,07;NULL;0
+003-021-00202;Muestras Sachet Manzanilla Y Miel;Unidad;Paseo;NULL;4;NULL;7,00;0,06;NULL;0,42
+003-021-00203;Muestras Sachet Toronjil;Unidad;Paseo;NULL;4;NULL;0,00;0,1;NULL;0
+003-021-00204;Muestras Sachet Hierbabuena;Unidad;Paseo;NULL;4;NULL;0,00;0,07;NULL;0
+003-021-00205;Muestras Sachet Anis;Unidad;Paseo;NULL;4;NULL;0,00;0,08;NULL;0
+003-021-00206;Muestras Sachet Green Tea;Unidad;Paseo;NULL;4;NULL;0,00;0,09;NULL;0
+003-021-00207;Muestras Tisanas Pina;Unidad;Paseo;NULL;4;NULL;0,00;0,25;NULL;0
+003-021-00208;Piramide Vainilla Chai;Unidad;Paseo;NULL;4;NULL;80,00;0,08;NULL;6,4
+003-021-00209;Piramide San Valentin;Unidad;Paseo;NULL;4;NULL;1,00;0,07;NULL;0,07
+003-021-00210;Piramide Caramelo Supreme;Unidad;Paseo;NULL;4;NULL;18,00;0,09;NULL;1,62
+003-021-00211;Sachet Té Negro Y Limon;Unidad;Paseo;NULL;4;NULL;0,00;0,05;NULL;0
+003-021-00212;Piramides Atix Blend;Unidad;Paseo;NULL;4;NULL;11,00;0,09;NULL;0,99
+003-021-00213;Piramides Mate Guayusa;Unidad;Paseo;NULL;4;NULL;0,00;0,07;NULL;0
+003-021-00214;Piramides Nuema Sierra;Unidad;Paseo;NULL;4;NULL;5,00;0,09;NULL;0,45
+003-021-00215;Piramides Nuema Costa;Unidad;Paseo;NULL;4;NULL;7,00;0,04;NULL;0,28
+003-021-00216;Piramides Urko Blend;Unidad;Paseo;NULL;4;NULL;0,00;0,08;NULL;0
+003-021-00217;Piramides Cardo Blend;Unidad;Paseo;NULL;4;NULL;13,00;0,06;NULL;0,78
+003-021-00218;Piramides Mate;Unidad;Paseo;NULL;4;NULL;13,00;0,05;NULL;0,65
+003-021-00219;Piramides Quitu Andes;Unidad;Paseo;NULL;4;NULL;6,00;0,07;NULL;0,42
+003-021-00220;Piramides Quitu Amazonia;Unidad;Paseo;NULL;4;NULL;12,00;0,06;NULL;0,72
+003-021-00221;Piramides Quitu Archipielago;Unidad;Paseo;NULL;4;NULL;7,00;0,08;NULL;0,56
+003-021-00222;Piramide Quitu Bosque Nubaldo;Unidad;Paseo;NULL;4;NULL;9,00;0,09;NULL;0,81
+003-021-00223;Piramides Quitu Paramo;Unidad;Paseo;NULL;4;NULL;7,00;0,04;NULL;0,28
+003-021-00224;Piramides Quitu Linea Ecuatorial;Unidad;Paseo;NULL;4;NULL;21,00;0,06;NULL;1,26
+003-021-00225;Piramides Holiday Blend 10 Años;Unidad;Paseo;NULL;4;NULL;7,00;0,05;NULL;0,35
+003-021-00226;Piramides Black Blueberry;Unidad;Paseo;NULL;4;NULL;22,00;0,08;NULL;1,76
+003-021-00227;Piramides Sachet Caramelo Supreme;Unidad;Paseo;NULL;4;NULL;0,00;0,09;NULL;0
+003-021-00228;Piramides Blend 3500;Unidad;Paseo;NULL;4;NULL;10,00;0,06;NULL;0,6
+003-021-00229;Piramide Orange Jamaica;Unidad;Paseo;NULL;4;NULL;23,00;0,04;NULL;0,92
+003-021-00230;Piramides Sachet Oregano;Unidad;Paseo;NULL;4;NULL;0,00;0,07;NULL;0
+003-021-00231;Piramide Nuema Amazonia;Unidad;Paseo;NULL;4;NULL;5,00;0,09;NULL;0,45
+003-021-00232;Piramide Kriollo Oriente Especiado;Unidad;Paseo;NULL;4;NULL;14,00;0,08;NULL;1,12
+003-021-00233;Piramide Ikaro Encanto Frutal;Unidad;Paseo;NULL;4;NULL;8,00;0,09;NULL;0,72
+003-021-00234;Piramide Ikaro Selvatica;Unidad;Paseo;NULL;4;NULL;10,00;0,03;NULL;0,3
+003-021-00235;Sachet Green Tea;Unidad;Paseo;NULL;4;NULL;0,00;0,09;NULL;0
+003-021-00236;Piramides Blends De La Madre;Unidad;Paseo;NULL;4;NULL;21,00;0,07;NULL;1,47
+003-021-00237;Lata X10 Piramides Blend Boda Vic Y Jose;Unidad;Paseo;NULL;4;NULL;0,00;1,28;NULL;0
+003-021-00238;Piramides Sachet Earl Grey;Unidad;Paseo;NULL;4;NULL;0,00;0,09;NULL;0
+003-021-00239;Piramides Sachet Green Tea;Unidad;Paseo;NULL;4;NULL;12,00;0,09;NULL;1,08
+003-021-00240;Piramides Sachet Casablanca;Unidad;Paseo;NULL;4;NULL;0,00;0,09;NULL;0
+003-021-00241;Piramides Sachet Lemon Ginger;Unidad;Paseo;NULL;4;NULL;0,00;0,09;NULL;0
+003-021-00242;Piramides Sachet Chamomile;Unidad;Paseo;NULL;4;NULL;0,00;0,06;NULL;0
+003-021-00243;Piramides Sachet Berry Berry;Unidad;Paseo;NULL;4;NULL;0,00;0,09;NULL;0
+003-021-00244;Piramides Sachet Bingoblueberry;Unidad;Paseo;NULL;4;NULL;0,00;0,09;NULL;0
+003-021-00245;Piramides Sachet Black Peach;Unidad;Paseo;NULL;4;NULL;0,00;0,07;NULL;0
+003-021-00246;Piramide Sachet Cedron;Unidad;Paseo;NULL;4;NULL;0,00;0,08;NULL;0
+003-021-00247;Piramides Sachet Cherry Rose;Unidad;Paseo;NULL;4;NULL;0,00;0,09;NULL;0
+003-021-00248;Piramides Sachet Chocolate Mint;Unidad;Paseo;NULL;4;NULL;0,00;0,07;NULL;0
+003-021-00249;Piramides Sachet Cranberry Apple;Unidad;Paseo;NULL;4;NULL;0,00;0,05;NULL;0
+003-021-00250;Piramides Sachet Divine Tea;Unidad;Paseo;NULL;4;NULL;0,00;0,06;NULL;0
+003-021-00251;Piramides Sachet Oolong;Unidad;Paseo;NULL;4;NULL;0,00;0,08;NULL;0
+003-021-00252;Piramides Sachet Guayusa;Unidad;Paseo;NULL;4;NULL;0,00;0,09;NULL;0
+003-021-00253;Piramides Sachet Hawaiian Colada;Unidad;Paseo;NULL;4;NULL;0,00;0,07;NULL;0
+003-021-00254;Piramides Sachet Manzanilla;Unidad;Paseo;NULL;4;NULL;0,00;0,06;NULL;0
+003-021-00255;Piramides Sachet Menta;Unidad;Paseo;NULL;4;NULL;7,00;0,08;NULL;0,56
+003-021-00256;Piramides Sachet Anis;Unidad;Paseo;NULL;4;NULL;15,00;0,08;NULL;1,2
+003-021-00257;Piramides Sachet Toronjil;Unidad;Paseo;NULL;4;NULL;16,00;0,09;NULL;1,44
+003-021-00258;Piramides Sachet Tilo Lemon;Gramo;Paseo;NULL;4;NULL;0,00;0,04;NULL;0
+003-021-00259;Piramides Sachet Tutti Fruti;Unidad;Paseo;NULL;4;NULL;0,00;0,08;NULL;0
+003-021-00260;Piramides Sachet Paradiso Peach;Unidad;Paseo;NULL;4;NULL;0,00;0,08;NULL;0
+003-021-00261;Piramides Sachet Black Mango;Unidad;Paseo;NULL;4;NULL;0,00;0,07;NULL;0
+003-021-00262;Piramides Sachet Mystic Rose;Unidad;Paseo;NULL;4;NULL;0,00;0,09;NULL;0
+003-021-00263;Piramides Sachet Ruby Tangerine;Unidad;Paseo;NULL;4;NULL;0,00;0,09;NULL;0
+003-021-00264;Piramides Sachet Citrus Matcha;Unidad;Paseo;NULL;4;NULL;0,00;0,09;NULL;0
+003-021-00265;Piramides Sachet Black Guayusa;Unidad;Paseo;NULL;4;NULL;0,00;0,08;NULL;0
+003-021-00266;Piramide Sachet Sushine Lemon;Unidad;Paseo;NULL;4;NULL;0,00;0,06;NULL;0
+003-021-00267;Piramides Sachet Orange Star;Unidad;Paseo;NULL;4;NULL;0,00;0,05;NULL;0
+003-021-00268;Piramides Sachet Golden Rooibos;Unidad;Paseo;NULL;4;NULL;0,00;0,05;NULL;0
+003-021-00269;Piramides Sachet Cotton Candy;Unidad;Paseo;NULL;4;NULL;0,00;0,08;NULL;0
+003-021-00270;Piramide Sachet Green Jade;Unidad;Paseo;NULL;4;NULL;0,00;0,09;NULL;0
+003-021-00271;Piramide Sachet Black Sunshine;Unidad;Paseo;NULL;4;NULL;0,00;0,07;NULL;0
+003-021-00272;Piramides Sachet Mindningth Almond;Unidad;Paseo;NULL;4;NULL;0,00;0,04;NULL;0
+003-021-00273;Piramides Sachet Flower Lubally;Unidad;Paseo;NULL;4;NULL;0,00;0,09;NULL;0
+003-021-00274;Piramides Sachet Milky Oolong;Unidad;Paseo;NULL;4;NULL;0,00;0,05;NULL;0
+003-021-00275;Piramides Sachet Black Velvet;Unidad;Paseo;NULL;4;NULL;0,00;0,08;NULL;0
+003-021-00276;Piramide Sachet Bubbly Oolong;Unidad;Paseo;NULL;4;NULL;0,00;0,07;NULL;0
+003-021-00277;Piramides Sachet Orange Blosson;Unidad;Paseo;NULL;4;NULL;0,00;0,09;NULL;0
+003-021-00278;Piramides Sachet Tropical Fusion;Unidad;Paseo;NULL;4;NULL;0,00;0,06;NULL;0
+003-021-00279;Piramides Sachet Creamy Noir;Unidad;Paseo;NULL;4;NULL;0,00;0,04;NULL;0
+003-021-00280;Piramide Sachet Mix Frutal;Unidad;Paseo;NULL;4;NULL;0,00;0,08;NULL;0
+003-021-00281;Piramide Sachet Tropical Fruit;Unidad;Paseo;NULL;4;NULL;0,00;0,09;NULL;0
+003-021-00282;Piramides Sachet Agua De Azares;Unidad;Paseo;NULL;4;NULL;0,00;0,08;NULL;0
+003-021-00283;Piramides Sachet Canela Rooibos;Unidad;Paseo;NULL;4;NULL;0,00;0,06;NULL;0
+003-021-00284;Piramides Sachet Pera Rooibos;Unidad;Paseo;NULL;4;NULL;0,00;0,07;NULL;0
+003-021-00285;Piramides Sachet Butterfly Pea;Unidad;Paseo;NULL;4;NULL;0,00;0,1;NULL;0
+003-021-00286;Piramides Sachet Focus Boost;Unidad;Paseo;NULL;4;NULL;0,00;0,06;NULL;0
+003-021-00287;Piramides Sachet Moon Cycle;Unidad;Paseo;NULL;4;NULL;0,00;0,07;NULL;0
+003-021-00288;Piramides Sachet Digestive Blend;Unidad;Paseo;NULL;4;NULL;0,00;0,09;NULL;0
+003-021-00289;Piramides Sachet Delta Nigth;Unidad;Paseo;NULL;4;NULL;0,00;0,05;NULL;0
+003-021-00290;Piramides Sachet Aqua Rosa;Unidad;Paseo;NULL;4;NULL;0,00;0,06;NULL;0
+003-021-00291;Piramides Sachet Colada Morada;Unidad;Paseo;NULL;4;NULL;0,00;0,07;NULL;0
+003-021-00292;Piramides Sachet Menta Sandia;Unidad;Paseo;NULL;4;NULL;0,00;0,06;NULL;0
+003-021-00293;Piramides Sachet Turucucho;Unidad;Paseo;NULL;4;NULL;0,00;0,05;NULL;0
+003-021-00294;Piramides Sachet Puerh Caramelo;Unidad;Paseo;NULL;4;NULL;0,00;0,09;NULL;0
+003-021-00295;Piramides Sachet Amazon Power;Unidad;Paseo;NULL;4;NULL;0,00;0,07;NULL;0
+003-021-00296;Piramides Sachet Citrus Zen;Unidad;Paseo;NULL;4;NULL;0,00;0,09;NULL;0
+003-021-00297;Piramides Sachet Caramel Dragon;Unidad;Paseo;NULL;4;NULL;0,00;0,08;NULL;0
+003-021-00298;Piramides Sachet Butterfly Floral;Unidad;Paseo;NULL;4;NULL;0,00;0,1;NULL;0
+003-021-00299;Piramides Sachet Vainilla Chai;Unidad;Paseo;NULL;4;NULL;0,00;0,09;NULL;0
+003-021-00300;Piramides Sachet Mate Guayusa;Unidad;Paseo;NULL;4;NULL;0,00;0,08;NULL;0
+003-021-00301;Piramides Sachet Black Blueberry;Unidad;Paseo;NULL;4;NULL;0,00;0,05;NULL;0
+003-021-00302;Piramides Sachet Orange Jamaica;Unidad;Paseo;NULL;4;NULL;0,00;0,09;NULL;0
+003-021-00303;Piramides Sachet Green Jamaica;Unidad;Paseo;NULL;4;NULL;0,00;0,06;NULL;0
+003-021-00304;Piramides Sachet Guayusa Negra;Unidad;Paseo;NULL;4;NULL;0,00;0,06;NULL;0
+003-021-00305;Piramides Sachet Minty Mist;Unidad;Paseo;NULL;4;NULL;0,00;0,08;NULL;0
+003-021-00306;Piramides Sachet Te Negro Granada;Unidad;Paseo;NULL;4;NULL;0,00;0,07;NULL;0
+003-021-00307;Piramides Sachet Malva Olorosa;Unidad;Paseo;NULL;4;NULL;0,00;0,09;NULL;0
+003-021-00308;Piramides Sachet Sandia Y Jamaica;Unidad;Paseo;NULL;4;NULL;0,00;0,08;NULL;0
+003-021-00309;Piramides Sachet Wild Berry;Unidad;Paseo;NULL;4;NULL;0,00;0,1;NULL;0
+003-021-00310;Piramides Sachet Samples;Unidad;Paseo;NULL;4;NULL;0,00;0,09;NULL;0
+003-021-00311;Piramides Sachet Lavander Mint;Unidad;Paseo;NULL;4;NULL;0,00;0,07;NULL;0
+003-021-00312;Piramide Sachet Ishpingo;Unidad;Paseo;NULL;4;NULL;0,00;0,06;NULL;0
+003-021-00313;Piramide Sachet Lavanda;Unidad;Paseo;NULL;4;NULL;0,00;0,05;NULL;0
+003-021-00315;Sachet Guayusa;Unidad;Paseo;NULL;4;NULL;0,00;0,05;NULL;0
+003-021-00316;Sachet Lucky Mango;Unidad;Paseo;NULL;4;NULL;0,00;0,08;NULL;0
+003-021-00317;Piramide Kriollo Selvatica;Unidad;Paseo;NULL;4;NULL;0,00;0,09;NULL;0
+003-021-00318;Piramide Manzanilla;Unidad;Paseo;NULL;4;NULL;0,00;0,06;NULL;0
+003-021-00319;Piramide Cedron Hierbaluisa;Unidad;Paseo;NULL;4;NULL;0,00;0,08;NULL;0
+003-021-00322;Piramides Pivoine Floral;Unidad;Paseo;NULL;4;NULL;0,00;0,08;NULL;0
+003-021-00323;Piramide Rooibos Banana;Unidad;Paseo;NULL;4;NULL;0,00;0,06;NULL;0
+003-021-00324;Piramide Nuema Episodio Costa 2;Unidad;Paseo;NULL;4;NULL;0,00;0,09;NULL;0
+003-022-00017;Tippytea Matcha Grado Culinario 50g;Unidad;Paseo;NULL;4;NULL;0,00;0,01;NULL;0
+003-022-00019;Tippytea Tea Collection Lite 40g;Unidad;Paseo;NULL;4;NULL;0,00;0,01;NULL;0
+003-022-001-00002;Caja (24 Unidades) Tippytea Relax X 10;Unidad;Paseo;NULL;4;NULL;0,00;0,01;NULL;0
+003-022-001-00003;Caja (24 Unidades ) Tippytea Lemon Ginger X10;Unidad;Paseo;NULL;4;NULL;0,00;0,01;NULL;0
+003-022-001-00004;Caja (24 Unidades) Tippytea Berry Berry X10;Unidad;Paseo;NULL;4;NULL;0,00;0,01;NULL;0
+003-022-001-00007;Caja (24 Unidades) Tippytea P/Pasar Relax 40g;Unidad;Paseo;NULL;4;NULL;0,00;0,01;NULL;0
+003-022-001-00008;Caja (24 Unidades) Tippytea P/Pasar Lemon 40 G;Unidad;Paseo;NULL;4;NULL;0,00;0,01;NULL;0
+003-022-001-00009;Caja (24 Unidades) Tippytea Berry Berry P 55 G;Unidad;Paseo;NULL;4;NULL;0,00;0,01;NULL;0
+003-022-001-00010;Caja (24 Unidades) Tippytea Flores De Manzanilla 20 Gr;Unidad;Paseo;NULL;4;NULL;0,00;0,01;NULL;0
+003-022-001-00014;Caja (24 Unidades) Tippytea Hojas De Hierbabuena 20gr;Unidad;Paseo;NULL;4;NULL;0,00;0,01;NULL;0
+003-022-002-00001;Caja (12 Unidades) Tippytea Bebida Jamaic 300 M;Unidad;Paseo;NULL;4;NULL;0,00;0,01;NULL;0
+003-022-002-00002;Tippytea Bebida Te Rooibos 300 M;Unidad;Paseo;NULL;4;NULL;0,00;0,01;NULL;0
+003-022-002-00003;Tippytea Bebida Hierbaluisa 300 M;Unidad;Paseo;NULL;4;NULL;0,00;0,01;NULL;0
+003-022-002-00004;Tippytea Bebida De Rosas 300m;Unidad;Paseo;NULL;4;NULL;0,00;0,01;NULL;0
+003-023-00003;Te Soluble Dragon Fruit 150gr;Unidad;Paseo;NULL;4;NULL;0,00;0,8;NULL;0
+003-023-001-00001;Bolsita Frutos Rojos Y Jamaica 3 Gr;Unidad;Paseo;NULL;4;NULL;0,00;0,09;NULL;0
+003-023-001-00002;Bolsita Gengibre Y Limon 3 Gr;Unidad;Paseo;NULL;4;NULL;0,00;0,07;NULL;0
+003-023-002-00001;Botella Infus Frutos Rojos Jamaica 1l  (4 Unidades);Unidad;Paseo;NULL;4;NULL;0,00;4,28;NULL;0
+003-023-002-00002;Botella Infus Gengibre Y Limon 1 Lt (4 Unidades);Unidad;Paseo;NULL;4;NULL;0,00;4,2;NULL;0
+003-024-00014;Te Surtido Piramide Tippytea 50g Cjx25bol;Unidad;Paseo;NULL;4;NULL;0,00;1,88;NULL;0
+003-024-00015;Te Jamaica Berries 360g Tippyte Cjx24bol;Unidad;Paseo;NULL;4;NULL;0,00;4,08;NULL;0
+003-024-00016;Te Jamaica Berries 150g Tippyte Cj24 Bol;Unidad;Paseo;NULL;4;NULL;0,00;1,98;NULL;0
+003-024-00021;Bubble Tea Cereza 3.4kg Tippytea Cjx8gln;Unidad;Paseo;NULL;4;NULL;0,00;16,96;NULL;0
+003-024-00022;Bubble Tea Menta 3.4kg Tippytea Cjx8gln;Unidad;Paseo;NULL;4;NULL;0,00;21;NULL;0
+003-024-00023;Te Butterfly Pea Tippytea Cj8bol(12un);Unidad;Paseo;NULL;4;NULL;0,00;69,97;NULL;0
+003-024-00024;Bubble Tea Mango 3.4kg Tippytea Cjx8gln;Unidad;Paseo;NULL;4;NULL;0,00;21;NULL;0
+003-024-00025;Te Sandia Jamaica 960g Tippytea Cjx4bol;Unidad;Paseo;NULL;4;NULL;0,00;14,51;NULL;0
+003-024-00027;Te Butterfly Pea 360g Tippy Cjx24bol (12u);Unidad;Paseo;NULL;4;NULL;0,00;23,44;NULL;0
+003-024-00035;Tippytea Matcha Rosada 50g;Unidad;Paseo;NULL;4;NULL;0,00;0,01;NULL;0
+003-024-00036;Mezcla Te Negro/Limon Tippyte 1kg Cjx6bo;Unidad;Paseo;NULL;4;NULL;0,00;0,01;NULL;0
+003-024-00037;Bubble Tea Fresa 3.4kg;Unidad;Paseo;NULL;4;NULL;0,00;0,01;NULL;0
+003-024-001-00001;Tippytea Kg Te Colada Morada;Unidad;Paseo;NULL;4;NULL;0,00;0,01;NULL;0
+003-024-001-00006;Tippytea 960 Gr Te Jamaica Mora;Unidad;Paseo;NULL;4;NULL;0,00;0,01;NULL;0
+003-024-001-00007;Tippytea 960g Te Jamaica Arandano;Unidad;Paseo;NULL;4;NULL;0,00;0,01;NULL;0
+003-024-001-00009;Te Tippytea Surtido Piramide;Unidad;Paseo;NULL;4;NULL;0,00;0,01;NULL;0
+003-024-001-00010;Te Surtido Aromática Tradicional Tippytea;Unidad;Paseo;NULL;4;NULL;0,00;0,01;NULL;0
+003-024-001-00011;Te Surtido Tizana Frutas Deshidratadas;Unidad;Paseo;NULL;4;NULL;0,00;0,01;NULL;0
+003-024-001-00012;Te Butterfly Pea Tippytea Cjx4bol(0.96kg);Unidad;Paseo;NULL;4;NULL;0,00;0,01;NULL;0
+003-024-001-00013;Te Soluble Negro Limon 1kg Tippy Cjx6bol;Unidad;Paseo;NULL;4;NULL;0,00;0,01;NULL;0
+003-024-002-00001;Tippytea Bebida Jamaica & Berries 300 Ml;Unidad;Paseo;NULL;4;NULL;0,00;0,01;NULL;0
+003-025-003-00001;Te Frio;Unidad;Paseo;NULL;4;NULL;0,00;0,01;NULL;0
+003-025-003-00002;Te Frio Piramide;Unidad;Paseo;NULL;4;NULL;0,00;0,01;NULL;0
+003-025-003-00003;Te Matcha Frio;Unidad;Paseo;NULL;4;NULL;0,00;0,01;NULL;0
+003-025-003-00006;Te Caliente;Unidad;Paseo;NULL;4;NULL;0,00;0,01;NULL;0
+003-025-003-00007;Te Caliente Piramide;Unidad;Paseo;NULL;4;NULL;0,00;0,01;NULL;0
+003-025-003-00008;Te Matcha Caliente;Unidad;Paseo;NULL;4;NULL;0,00;0,01;NULL;0
+003-025-003-00009;Te Floral Caliente;Unidad;Paseo;NULL;4;NULL;0,00;0,01;NULL;0
+003-025-003-00010;Te Floral Caliente Piramide;Unidad;Paseo;NULL;4;NULL;0,00;0,01;NULL;0
+003-025-003-00011;Te Floral Frio;Unidad;Paseo;NULL;4;NULL;0,00;0,01;NULL;0
+003-025-003-00012;Te Floral Frio Piramide;Unidad;Paseo;NULL;4;NULL;0,00;0,01;NULL;0
+003-025-003-00013;Chai Latte Caliente 12oz;Unidad;Paseo;NULL;4;NULL;0,00;0,01;NULL;0
+003-025-003-00014;Chai Latte Frio 12oz;Unidad;Paseo;NULL;4;NULL;0,00;0,01;NULL;0
+003-025-003-00017;Chai Latte Caliente Leche Vegetal;Unidad;Paseo;NULL;4;NULL;0,00;0,01;NULL;0
+003-025-003-00018;Chai Latte Frio Leche Vegetal;Unidad;Paseo;NULL;4;NULL;0,00;0,01;NULL;0
+003-025-004-00003;Latte Matcha Caliente;Unidad;Paseo;NULL;4;NULL;0,00;0,01;NULL;0
+003-025-004-00004;Latte Matcha Frio/Frappe;Unidad;Paseo;NULL;4;NULL;0,00;0,01;NULL;0
+003-026-00001;Batidor De Bambu;Unidad;Paseo;NULL;4;NULL;0,00;12,85;NULL;0
+003-026-00003;Tetera Ingenitea;Unidad;Paseo;NULL;4;NULL;6,00;18,64;NULL;111,84
+003-026-00012;Termo Color 550ml;Unidad;Paseo;NULL;4;NULL;0,00;14;NULL;0
+003-026-00013;Cofres  6 Espacios;Unidad;Paseo;NULL;4;NULL;0,00;6;NULL;0
+003-026-00014;Infusor Bola Malla;Unidad;Paseo;NULL;4;NULL;0,00;0,52;NULL;0
+003-026-00032;Tetera Coffee Tea & Pot 1600ml;Unidad;Paseo;NULL;4;NULL;0,00;7,47;NULL;0
+003-026-00041;Cuchara Metalica;Unidad;Paseo;NULL;4;NULL;7,00;1,91;NULL;13,37
+003-026-00051;Kit De Matcha;Unidad;Paseo;NULL;4;NULL;3,00;2,4;NULL;7,2
+003-026-00065;Caja De Latitas X8;Unidad;Paseo;NULL;4;NULL;0,00;2,4;NULL;0
+003-026-00066;Caja De Latitas X6;Unidad;Paseo;NULL;4;NULL;0,00;2,8;NULL;0
+003-026-00068;Cuenco Cristal 50ml;Unidad;Paseo;NULL;4;NULL;2,00;2,56;NULL;5,12
+003-026-00071;Vaso De Vidrio Con Sorbete;Unidad;Paseo;NULL;4;NULL;8,00;2,82;NULL;22,56
+003-026-00080;Cajita De Madera Con Te;Unidad;Paseo;NULL;4;NULL;0,00;2,85;NULL;0
+003-026-00095;Batidor Manual;Unidad;Paseo;NULL;4;NULL;8,00;10,24;NULL;81,92
+003-026-001-00003;Tetera Cristal 250ml;Unidad;Paseo;NULL;4;NULL;3,00;2,92;NULL;8,76
+003-026-001-00005;Cilindro 4 Latitas;Unidad;Paseo;NULL;4;NULL;0,00;6,5;NULL;0
+003-026-00103;Cilindro 8 Latitas;Unidad;Paseo;NULL;4;NULL;0,00;2,5;NULL;0
+003-026-00105;Vaso De Vidrio 350ml;Unidad;Paseo;NULL;4;NULL;0,00;4,41;NULL;0
+003-026-00107;Jarro Con Infusor;Unidad;Paseo;NULL;4;NULL;3,00;7,91;NULL;23,73
+003-026-00110;Lata Tubo Grande 200gr;Unidad;Paseo;NULL;4;NULL;14,00;3,9;NULL;54,6
+003-026-00111;Lata Metal 100gr;Unidad;Paseo;NULL;4;NULL;15,00;3,9;NULL;58,5
+003-026-00115;Acetato Con Sachet;Unidad;Paseo;NULL;4;NULL;0,00;0;NULL;0
+003-026-00116;Velas;Unidad;Paseo;NULL;4;NULL;4,00;4,8;NULL;19,2
+003-026-00117;Cajita De Madera 4 Latitas;Unidad;Paseo;NULL;4;NULL;0,00;4,5;NULL;0
+003-026-00118;Cajita De  Madera 8 Latitas;Unidad;Paseo;NULL;4;NULL;0,00;3,2;NULL;0
+003-026-00119;Cajita De Madera 12 Latitas;Unidad;Paseo;NULL;4;NULL;0,00;4,4;NULL;0
+003-026-00120;Cajita De Madera 24 Latitas;Unidad;Paseo;NULL;4;NULL;0,00;7,2;NULL;0
+003-026-00122;Tetera Con Batidor;Unidad;Paseo;NULL;4;NULL;9,00;10,47;NULL;94,23
+003-026-00123;Kit 2 Latas;Unidad;Paseo;NULL;4;NULL;2,00;19,15;NULL;38,3
+003-026-00124;Kit 3 Latas;Unidad;Paseo;NULL;4;NULL;3,00;21,58;NULL;64,74
+003-026-00125;Kit 6 Latas;Unidad;Paseo;NULL;4;NULL;3,00;26,05;NULL;78,15
+003-026-00127;Kit  24 Sachet;Unidad;Paseo;NULL;4;NULL;0,00;12,97;NULL;0
+003-026-00129;Infusor Silicon Submarino;Unidad;Paseo;NULL;4;NULL;11,00;3,23;NULL;35,53
+003-026-00130;Infusor Silicon Paraguas;Unidad;Paseo;NULL;4;NULL;2,00;2,04;NULL;4,08
+003-026-00131;Infusor Silicon Paleta;Unidad;Paseo;NULL;4;NULL;5,00;1,62;NULL;8,1
+003-026-00132;Infusor Silicon Delfin;Unidad;Paseo;NULL;4;NULL;7,00;3,6;NULL;25,2
+003-026-00133;Infusor Silicon Hombre;Unidad;Paseo;NULL;4;NULL;0,00;2,56;NULL;0
+003-026-00134;Infusor Silicon Orca;Unidad;Paseo;NULL;4;NULL;7,00;4,67;NULL;32,69
+003-026-00135;Infusor Silicon Funda De Te;Unidad;Paseo;NULL;4;NULL;0,00;1,95;NULL;0
+003-026-00136;Infusor Silicon Muñeco;Unidad;Paseo;NULL;4;NULL;28,00;2,78;NULL;77,84
+003-026-00137;Infusor Silicon Pinguino;Unidad;Paseo;NULL;4;NULL;0,00;5,15;NULL;0
+003-026-00138;Infusor Hoja Rojo;Unidad;Paseo;NULL;4;NULL;4,00;0,56;NULL;2,24
+003-026-00139;Infusor Hoja Naranja;Unidad;Paseo;NULL;4;NULL;7,00;0,56;NULL;3,92
+003-026-00140;Infusor Hoja Azul;Unidad;Paseo;NULL;4;NULL;7,00;0,56;NULL;3,92
+003-026-00141;Infusor Hoja Verde;Unidad;Paseo;NULL;4;NULL;0,00;0,56;NULL;0
+003-026-00142;Infusor Metalico Rana;Unidad;Paseo;NULL;4;NULL;7,00;2,49;NULL;17,43
+003-026-00143;Infusor Metalico Robot;Unidad;Paseo;NULL;4;NULL;8,00;2,64;NULL;21,12
+003-026-00144;Infusor Metalico Corazon;Unidad;Paseo;NULL;4;NULL;3,00;1,97;NULL;5,91
+003-026-00145;Infusor Metalico Tetera Plateada;Unidad;Paseo;NULL;4;NULL;1,00;2,52;NULL;2,52
+003-026-00146;Infusor Metalico Tetera Dorada;Unidad;Paseo;NULL;4;NULL;0,00;2,52;NULL;0
+003-026-00147;Infusor Metalico Cohete;Unidad;Paseo;NULL;4;NULL;4,00;2,16;NULL;8,64
+003-026-00148;Infusor Metalico Casa;Unidad;Paseo;NULL;4;NULL;6,00;2,43;NULL;14,58
+003-026-00149;Infusor Metalico Pato;Unidad;Paseo;NULL;4;NULL;6,00;2,28;NULL;13,68
+003-026-00150;Infusor Metalico Buho;Unidad;Paseo;NULL;4;NULL;5,00;2,28;NULL;11,4
+003-026-00151;Caja De Madera  4 Latas Xl;Unidad;Paseo;NULL;4;NULL;0,00;2,4;NULL;0
+003-026-00152;Tubo De Vidrio Para Te;Unidad;Paseo;NULL;4;NULL;10,00;1,15;NULL;11,5
+003-026-00153;Caja 4 Tubos Vacia;Unidad;Paseo;NULL;4;NULL;0,00;2,4;NULL;0
+003-026-00154;Caja Vacia Ecuador;Unidad;Paseo;NULL;4;NULL;0,00;6,9;NULL;0
+003-026-00155;Matcha Kyoto Rin 10gr;Unidad;Paseo;NULL;4;NULL;1,00;5,6;NULL;5,6
+003-026-00156;Matcha Kyoto Bi 10 Gr;Unidad;Paseo;NULL;4;NULL;1,00;4,8;NULL;4,8
+004-000-00123;Acido Ascorbico;Gramo;Paseo;NULL;4;NULL;0,00;0,02;NULL;0
+004-000-00124;Citrato De Sodio;Gramo;Paseo;NULL;4;NULL;0,00;0,0011;NULL;0
+004-000-00125;Maltodextrina;Gramo;Paseo;NULL;4;NULL;0,00;0,0012;NULL;0
+004-000-00126;Stevia En Polvo Florarom;Gramo;Paseo;NULL;4;NULL;0,00;0,14;NULL;0
+004-000-00127;Mora Azul Florarom;Gramo;Paseo;NULL;4;NULL;0,00;0,0175;NULL;0
+004-000-00128;Saborizante Polvo Te;Gramo;Paseo;NULL;4;NULL;0,00;0,0136;NULL;0
+004-000-00129;Oregano Dona Janna;Gramo;Paseo;NULL;4;NULL;0,00;0,0065;NULL;0
+004-000-00130;Ajenjo Dona Janna;Gramo;Paseo;NULL;4;NULL;0,00;0,013;NULL;0
+004-000-00131;Albahaca Dona Janna;Gramo;Paseo;NULL;4;NULL;0,00;0,0139;NULL;0
+004-000-00132;Azucar Impalpable Dona Janna;Gramo;Paseo;NULL;4;NULL;0,00;0,00111;NULL;0
+004-000-00133;Hoja De Naranja Dona Janna;Gramo;Paseo;NULL;4;NULL;0,00;0,0119;NULL;0
+004-000-00134;Nuez Moscada Dona Janna;Gramo;Paseo;NULL;4;NULL;0,00;0,02;NULL;0
+004-000-00135;Palo Santo Dona Janna;Gramo;Paseo;NULL;4;NULL;0,00;0,0032;NULL;0
+004-000-00136;Canela Dona Janna;Gramo;Paseo;NULL;4;NULL;0,00;0,02;NULL;0
+004-000-00137;Pasas Mini Donajanna;Gramo;Paseo;NULL;4;NULL;0,00;0,0035;NULL;0
+004-000-00138;Anis Estrellado Dona Janna;Gramo;Paseo;NULL;4;NULL;0,00;0,01786;NULL;0
+004-000-00139;Anis Pequeno Dona Janna;Gramo;Paseo;NULL;4;NULL;0,00;0,00431;NULL;0
+004-000-00140;Canela Polvo Dona Janna;Gramo;Paseo;NULL;4;NULL;0,00;0,01725;NULL;0
+004-000-00141;Cardamono Dona Janna;Gramo;Paseo;NULL;4;NULL;0,00;0,0289;NULL;0
+004-000-00142;Cola De Caballo Dona Janna;Gramo;Paseo;NULL;4;NULL;0,00;0,0058;NULL;0
+004-000-00143;Diente De Leon Dona Janna;Gramo;Paseo;NULL;4;NULL;0,00;0,00775;NULL;0
+004-000-00144;Sen Dona Janna;Gramo;Paseo;NULL;4;NULL;0,00;0,00572;NULL;0
+004-000-00145;Linaza Dona Janna;Gramo;Paseo;NULL;4;NULL;0,00;0,0025;NULL;0
+004-000-00146;Valeriana Molida Dona Janna;Gramo;Paseo;NULL;4;NULL;0,00;0,0146;NULL;0
+004-000-00147;Hoja De Eucalipto Dona Janna;Gramo;Paseo;NULL;4;NULL;0,00;0,0058;NULL;0
+004-000-00148;Hoja De Coca Dona Janna;Gramo;Paseo;NULL;4;NULL;0,00;0,055;NULL;0
+004-000-00149;Clavo De Olor Dona Janna;Gramo;Paseo;NULL;4;NULL;0,00;0,01995;NULL;0
+004-000-00150;Stevia En Hoja Dona Janna;Gramo;Paseo;NULL;4;NULL;0,00;0;NULL;0
+004-000-00151;Hojas De Higo Dona Janna;Gramo;Paseo;NULL;4;NULL;0,00;0,02015;NULL;0
+004-000-00152;Hojas De Palo Santo Dona Janna;Gramo;Paseo;NULL;4;NULL;0,00;0,032;NULL;0
+004-000-00153;Mate Dona Janna;Gramo;Paseo;NULL;4;NULL;0,00;0,01;NULL;0
+004-000-00154;Moringa Dona Janna;Gramo;Paseo;NULL;4;NULL;0,00;0,0165;NULL;0
+004-000-00155;Matico Dona Janna;Gramo;Paseo;NULL;4;NULL;0,00;0,008;NULL;0
+004-000-00156;Pimienta Blanca Dona Janna;Gramo;Paseo;NULL;4;NULL;0,00;0,012;NULL;0
+004-000-00157;Pimienta Negra Dona Janna;Gramo;Paseo;NULL;4;NULL;0,00;0,0071;NULL;0
+004-000-00158;Romero Dona Janna;Gramo;Paseo;NULL;4;NULL;0,00;0,01018;NULL;0
+004-000-00159;Jamaica Polvo Dona Janna;Gramo;Paseo;NULL;4;NULL;0,00;0,01;NULL;0
+004-000-00160;Jamaica Dona Janna;Gramo;Paseo;NULL;4;NULL;0,00;0,01;NULL;0
+004-000-00161;Boldo Dona Janna;Gramo;Paseo;NULL;4;NULL;0,00;0,0145;NULL;0
+004-000-00162;Pasiflora Dona Janna;Gramo;Paseo;NULL;4;NULL;0,00;0,014;NULL;0
+004-000-00163;Tilo Dona Janna;Gramo;Paseo;NULL;4;NULL;0,00;0,0095;NULL;0
+004-000-00164;Eneldo Dona Janna;Gramo;Paseo;NULL;4;NULL;0,00;0,0075;NULL;0
+004-000-00165;Maca Molida Dona Janna;Gramo;Paseo;NULL;4;NULL;0,00;0,0115;NULL;0
+004-000-00166;Coco Rallado Dona Janna;Gramo;Paseo;NULL;4;NULL;0,00;0,0118;NULL;0
+004-000-00167;Ortiga Dona Janna;Gramo;Paseo;NULL;4;NULL;0,00;0,00726;NULL;0
+004-000-00168;Cedron Dona Janna;Gramo;Paseo;NULL;4;NULL;0,00;0,013;NULL;0
+004-000-00169;Hierbabuena Dona Janna;Gramo;Paseo;NULL;4;NULL;0,00;0,018;NULL;0
+004-000-00170;Amaranto Ile;Gramo;Paseo;NULL;4;NULL;0,00;0,0116;NULL;0
+004-000-00171;Curcuma En Trozos Ile;Gramo;Paseo;NULL;4;NULL;0,00;0,001112;NULL;0
+004-000-00172;Curcuma Molida O En Polvo Ile;Gramo;Paseo;NULL;4;NULL;0,00;0,004525;NULL;0
+004-000-00173;Jengibre Triturado Ile;Gramo;Paseo;NULL;4;NULL;0,00;0,011;NULL;0
+004-000-00174;Jengibre Polvo Ile;Gramo;Paseo;NULL;4;NULL;0,00;0,0058;NULL;0
+004-000-00175;Cafe Robusto;Gramo;Paseo;NULL;4;NULL;0,00;0,014;NULL;0
+004-000-00176;Cafe Tostado;Gramo;Paseo;NULL;4;NULL;0,00;0,01;NULL;0
+004-000-00177;Esencia Rosas Ile;Gramo;Paseo;NULL;4;NULL;0,00;0,0118;NULL;0
+004-000-00178;Oregano En Hoja Ile;Gramo;Paseo;NULL;4;NULL;0,00;0,00769;NULL;0
+004-000-00179;Toronjil Ile;Gramo;Paseo;NULL;4;NULL;0,00;0,0127;NULL;0
+004-000-00180;Banano Cubos Roberto Baldeon;Gramo;Paseo;NULL;4;NULL;0,00;0,017;NULL;0
+004-000-00181;Cascara De Naranja Roberto Baldeon;Gramo;Paseo;NULL;4;NULL;0,00;0,015;NULL;0
+004-000-00182;Zanahoria Cubos Roberto Baldeon;Gramo;Paseo;NULL;4;NULL;0,00;0,017;NULL;0
+004-000-00183;Cascara De Limon Roberto Baldeon;Gramo;Paseo;NULL;4;NULL;0,00;0,024;NULL;0
+004-000-00184;Durazno En Trozos Roberto Baldeon;Gramo;Paseo;NULL;4;NULL;0,00;0,035;NULL;0
+004-000-00185;Kiwi Cubos Roberto Baldeon;Gramo;Paseo;NULL;4;NULL;0,00;0,016;NULL;0
+004-000-00186;Mandarina Roberto Baldeon;Gramo;Paseo;NULL;4;NULL;0,00;0,017;NULL;0
+004-000-00187;Mango En Trozos Roberto Baldeon;Gramo;Paseo;NULL;4;NULL;0,00;0,024;NULL;0
+004-000-00188;Manzana Rodajas Roberto Baldeon;Gramo;Paseo;NULL;4;NULL;0,00;0,025;NULL;0
+004-000-00189;Naranja Rodaja Roberto Baldeon;Gramo;Paseo;NULL;4;NULL;0,00;0,023;NULL;0
+004-000-00190;Pera En Trozos Roberto Baldeon;Gramo;Paseo;NULL;4;NULL;0,00;0,016;NULL;0
+004-000-00191;Pina Cubos Roberto Baldeon;Gramo;Paseo;NULL;4;NULL;0,00;0,016;NULL;0
+004-000-00192;Pina Rodajas Roberto Baldeon;Gramo;Paseo;NULL;4;NULL;0,00;0,032;NULL;0
+004-000-00193;Melon En Cubo Roberto Baldeon;Gramo;Paseo;NULL;4;NULL;0,00;0,015;NULL;0
+004-000-00194;Remolacha Cubos Roberto Baldeon;Gramo;Paseo;NULL;4;NULL;0,00;0,014;NULL;0
+004-000-00195;Camote Cubos Roberto Baldeon;Gramo;Paseo;NULL;4;NULL;0,00;0,03;NULL;0
+004-000-00196;Papaya Cubo Roberto Baldeon;Gramo;Paseo;NULL;4;NULL;0,00;0,014;NULL;0
+004-000-00197;Mortino Roberto Baldeon;Gramo;Paseo;NULL;4;NULL;0,00;0,02;NULL;0
+004-000-00198;Uva Roberto Baldeon;Gramo;Paseo;NULL;4;NULL;0,00;0,027;NULL;0
+004-000-00199;Zapallo Roberto Baldeon;Gramo;Paseo;NULL;4;NULL;0,00;0,025;NULL;0
+004-000-00200;Pitahaya En Rodajas Roberto Baldeon;Gramo;Paseo;NULL;4;NULL;0,00;0,021;NULL;0
+004-000-00201;Frutilla Cubos Arbori;Gramo;Paseo;NULL;4;NULL;0,00;0,014;NULL;0
+004-000-00202;Uvilla Arbori;Gramo;Paseo;NULL;4;NULL;0,00;0,016;NULL;0
+004-000-00203;Manzana En Cubos Arbori;Gramo;Paseo;NULL;4;NULL;0,00;0,02;NULL;0
+004-000-00204;Mora Arbori;Gramo;Paseo;NULL;4;NULL;0,00;0,02;NULL;0
+004-000-00205;Pina En Cubo Arbori;Gramo;Paseo;NULL;4;NULL;0,00;0,019;NULL;0
+004-000-00206;Mango En Cubo Arbori;Gramo;Paseo;NULL;4;NULL;0,00;0,026;NULL;0
+004-000-00207;Banano En Cubo Arbori;Gramo;Paseo;NULL;4;NULL;0,00;0,026;NULL;0
+004-000-00208;Mortino Arbori;Gramo;Paseo;NULL;4;NULL;0,00;0,03;NULL;0
+004-000-00209;Hierbaluisa Cetca;Gramo;Paseo;NULL;4;NULL;0,00;0,013;NULL;0
+004-000-00210;Polvo Chai Cetca;Gramo;Paseo;NULL;4;NULL;0,00;0,02;NULL;0
+004-000-00211;Te Negro Bolita Cetca;Gramo;Paseo;NULL;4;NULL;0,00;0,01;NULL;0
+004-000-00212;Flor Manzanilla Cetca;Gramo;Paseo;NULL;4;NULL;0,00;0,005;NULL;0
+004-000-00213;Te Verde Cetca;Gramo;Paseo;NULL;4;NULL;0,00;0,015;NULL;0
+004-000-00214;Toronjil Cetca;Gramo;Paseo;NULL;4;NULL;0,00;0,013;NULL;0
+004-000-00215;Hojas De Ishpingo Martha Chimbo;Gramo;Paseo;NULL;4;NULL;0,00;0,008;NULL;0
+004-000-00216;Guayusa Negra Martha Chimbo;Gramo;Paseo;NULL;4;NULL;0,00;0,008;NULL;0
+004-000-00217;Guayusa Verde Martha;Gramo;Paseo;NULL;4;NULL;0,00;0,009;NULL;0
+004-000-00218;Hierbaluisa Martha;Gramo;Paseo;NULL;4;NULL;0,00;0,01;NULL;0
+004-000-00219;Calendula Turucucho;Gramo;Paseo;NULL;4;NULL;0,00;0,008;NULL;0
+004-000-00220;Manzanilla Turucucho;Gramo;Paseo;NULL;4;NULL;0,00;0,01;NULL;0
+004-000-00221;Hierbabuena Turucucho;Gramo;Paseo;NULL;4;NULL;0,00;0,007;NULL;0
+004-000-00222;Rosas Rojas Turucucho;Gramo;Paseo;NULL;4;NULL;0,00;0,03;NULL;0
+004-000-00223;Rosas Blancas Turucucho;Gramo;Paseo;NULL;4;NULL;0,00;0,03;NULL;0
+004-000-00224;Lavanda Turucucho;Gramo;Paseo;NULL;4;NULL;0,00;0,03;NULL;0
+004-000-00225;Menta Turucucho;Gramo;Paseo;NULL;4;NULL;0,00;0,007;NULL;0
+004-000-00226;Tipo Turucucho;Gramo;Paseo;NULL;4;NULL;0,00;0,023;NULL;0
+004-000-00227;Sunfo Turucucho;Gramo;Paseo;NULL;4;NULL;0,00;0,005;NULL;0
+004-000-00228;Malva Olorosa Turucucho;Gramo;Paseo;NULL;4;NULL;0,00;0,05;NULL;0
+004-000-00229;Butterfly Turucucho;Gramo;Paseo;NULL;4;NULL;0,00;0,03;NULL;0
+004-000-00230;Toronjil Turucucho;Gramo;Paseo;NULL;4;NULL;0,00;0,03;NULL;0
+004-000-00231;Cedron Turucucho;Gramo;Paseo;NULL;4;NULL;0,00;0,007;NULL;0
+004-000-00232;Flor Manzanilla Aromas;Gramo;Paseo;NULL;4;NULL;0,00;0,018;NULL;0
+004-000-00233;Hierbabuena Aromas;Gramo;Paseo;NULL;4;NULL;0,00;0,013;NULL;0
+004-000-00234;Lavanda Aromas;Gramo;Paseo;NULL;4;NULL;0,00;0,018;NULL;0
+004-000-00235;Rosas Rojas Aromas;Gramo;Paseo;NULL;4;NULL;0,00;0,018;NULL;0
+004-000-00236;Rosas Blancas Aromas;Gramo;Paseo;NULL;4;NULL;0,00;0,018;NULL;0
+004-000-00237;Hoja De Mora Aromas;Gramo;Paseo;NULL;4;NULL;0,00;0,01;NULL;0
+004-000-00238;Menta Aromas;Gramo;Paseo;NULL;4;NULL;0,00;0,013;NULL;0
+004-000-00239;Toronjil Aromas;Gramo;Paseo;NULL;4;NULL;0,00;0,013;NULL;0
+004-000-00240;Cedron Aromas;Gramo;Paseo;NULL;4;NULL;0,00;0,013;NULL;0
+004-000-00241;Amaranto Aromas;Gramo;Paseo;NULL;4;NULL;0,00;0,013;NULL;0
+004-000-00242;Tipo Aromas;Gramo;Paseo;NULL;4;NULL;0,00;0,013;NULL;0
+004-000-00243;Manzanilla Pucara;Gramo;Paseo;NULL;4;NULL;0,00;0,015;NULL;0
+004-000-00244;Hierbabuena Pucara;Gramo;Paseo;NULL;4;NULL;0,00;0,015;NULL;0
+004-000-00245;Menta Pucara;Gramo;Paseo;NULL;4;NULL;0,00;0,015;NULL;0
+004-000-00246;Toronjil Pucara;Gramo;Paseo;NULL;4;NULL;0,00;0,015;NULL;0
+004-000-00247;Cedron Pucara;Gramo;Paseo;NULL;4;NULL;0,00;0,015;NULL;0
+004-000-00248;Jamaica Importada;Gramo;Paseo;NULL;4;NULL;0,00;0,00521;NULL;0
+004-000-00249;Matcha Ceremonial Importado;Gramo;Paseo;NULL;4;NULL;0,00;0,13;NULL;0
+004-000-00250;Matcha Culinario Importado;Gramo;Paseo;NULL;4;NULL;5900,00;0,013;NULL;76,7
+004-000-00251;Te Verde Importado;Gramo;Paseo;NULL;4;NULL;1000,00;0,02;NULL;20
+004-000-00252;Lavanda Importada;Gramo;Paseo;NULL;4;NULL;0,00;0,02;NULL;0
+004-000-00253;Te Blanco Importado;Gramo;Paseo;NULL;4;NULL;0,00;0,03;NULL;0
+004-000-00254;Te Negro Kemuun Importado;Gramo;Paseo;NULL;4;NULL;0,00;0,028;NULL;0
+004-000-00255;Oolong Importado;Gramo;Paseo;NULL;4;NULL;0,00;0,03;NULL;0
+004-000-00256;Rooibos Importado;Gramo;Paseo;NULL;4;NULL;0,00;0,02;NULL;0
+004-000-00257;Manzanilla Importada;Gramo;Paseo;NULL;4;NULL;0,00;0,02;NULL;0
+004-000-00258;Jazmin Importado;Gramo;Paseo;NULL;4;NULL;0,00;0,02;NULL;0
+004-000-00259;Tonka Gabriel Zambrano;Gramo;Paseo;NULL;4;NULL;0,00;0,04;NULL;0
+004-000-00260;Houjicha Importado;Gramo;Paseo;NULL;4;NULL;0,00;0,03;NULL;0
+004-000-00261;Blue Matcha Importado;Gramo;Paseo;NULL;4;NULL;900,00;0,03;NULL;27
+004-000-00262;Butterfly Pea Importado;Gramo;Paseo;NULL;4;NULL;0,00;0,032;NULL;0
+004-000-00263;Puerh Importado;Gramo;Paseo;NULL;4;NULL;0,00;0,04;NULL;0
+004-000-00264;Taro Importado;Gramo;Paseo;NULL;4;NULL;900,00;0,01;NULL;9
+004-000-00265;Remolacha En Polvo Importada;Gramo;Paseo;NULL;4;NULL;0,00;0,02;NULL;0
+004-000-00266;Fresa En Polvo Importada;Gramo;Paseo;NULL;4;NULL;0,00;0,01;NULL;0
+004-000-00267;Papa Morada En Polvo Importada;Gramo;Paseo;NULL;4;NULL;0,00;0,02;NULL;0
+004-000-00268;Piatahaya En Polvo Importada;Gramo;Paseo;NULL;4;NULL;0,00;0,02;NULL;0
+004-000-00269;Mora En Polvo Importada;Gramo;Paseo;NULL;4;NULL;0,00;0,02;NULL;0
+004-000-00270;Cedron Lojanita;Gramo;Paseo;NULL;4;NULL;0,00;0,012;NULL;0
+004-000-00271;Melaza Natural Aditmaq;Gramo;Paseo;NULL;4;NULL;0,00;0,035;NULL;0
+004-000-00272;Miel Encapsulado Aditmaq;Gramo;Paseo;NULL;4;NULL;0,00;0,034;NULL;0
+004-000-00273;Vainilla En Polvo Aditmaq;Gramo;Paseo;NULL;4;NULL;0,00;0,02;NULL;0
+004-000-00275;Chai Aditmaq;Gramo;Paseo;NULL;4;NULL;0,00;0,01;NULL;0
+004-000-00276;Limon Encapsulado Aditmaq;Gramo;Paseo;NULL;4;NULL;0,00;0,031;NULL;0
+004-000-00277;Hierbaluisa Aylluorganic;Gramo;Paseo;NULL;4;NULL;0,00;0,027;NULL;0
+004-000-00278;Purpurina Plateada Garcia Reinoso;Gramo;Paseo;NULL;4;NULL;0,00;0,0075;NULL;0
+004-000-00279;Te Verde (Al Granel)Ichiban;Gramo;Paseo;NULL;4;NULL;0,00;0,02;NULL;0
+004-000-00280;Te Verde Bitaco;Gramo;Paseo;NULL;4;NULL;0,00;0,01;NULL;0
+004-000-00281;Cafe;Gramo;Paseo;NULL;4;NULL;0,00;0,02;NULL;0
+004-000-00282;Cacao En Polvo Republica;Gramo;Paseo;NULL;4;NULL;0,00;0,02;NULL;0
+004-000-00283;Hierbabuena Pilar Lopez;Gramo;Paseo;NULL;4;NULL;0,00;0,016;NULL;0
+004-000-00284;Menta Pilar Lopez;Gramo;Paseo;NULL;4;NULL;0,00;0,01;NULL;0
+004-000-00285;Te Negro Pilar Lopez;Gramo;Paseo;NULL;4;NULL;0,00;0,02;NULL;0
+004-000-00286;Hongos Pilar Lopez;Gramo;Paseo;NULL;4;NULL;0,00;0,01;NULL;0
+004-000-00287;Anis Pilar Lopez;Gramo;Paseo;NULL;4;NULL;0,00;0,01;NULL;0
+004-000-00288;Azucar Impalpable Pilar Lopez;Gramo;Paseo;NULL;4;NULL;0,00;0,01;NULL;0
+004-000-00289;Cascarilla De Cacao Arawi;Gramo;Paseo;NULL;4;NULL;0,00;0,002;NULL;0
+004-000-00290;Nibs Cacao Arawi;Gramo;Paseo;NULL;4;NULL;0,00;0,01;NULL;0
+004-000-00291;Pitahaya Liofilizada;Gramo;Paseo;NULL;4;NULL;0,00;0,02;NULL;0
+004-000-00292;Salvia Carlosama;Gramo;Paseo;NULL;4;NULL;0,00;0,008;NULL;0
+004-000-00293;Valeriana Carlosama;Gramo;Paseo;NULL;4;NULL;0,00;0,009;NULL;0
+004-000-00294;Tomillo Carlosama;Gramo;Paseo;NULL;4;NULL;0,00;0,008;NULL;0
+004-000-00295;Romero Carlosama;Gramo;Paseo;NULL;4;NULL;0,00;0,005;NULL;0
+004-000-00296;Hinojo Carlosama;Gramo;Paseo;NULL;4;NULL;0,00;0,008;NULL;0
+004-000-00297;Mate Carlosama;Gramo;Paseo;NULL;4;NULL;0,00;0,018;NULL;0
+004-000-00298;Cardamomo Carlosama;Gramo;Paseo;NULL;4;NULL;0,00;0,024;NULL;0
+004-000-00299;Anis Estrellado Carlosama;Gramo;Paseo;NULL;4;NULL;0,00;0,012;NULL;0
+004-000-00300;Stevia Carlosama;Gramo;Paseo;NULL;4;NULL;0,00;0,022;NULL;0
+004-000-00301;Extracto Te Negro Dirico;Gramo;Paseo;NULL;4;NULL;0,00;0,03;NULL;0
+004-000-00302;Extracto Te Negro Adiqmat;Gramo;Paseo;NULL;4;NULL;0,00;0,034;NULL;0
+004-000-00303;Fosfato Tricalcio;Gramo;Paseo;NULL;4;NULL;0,00;0,01;NULL;0
+004-000-00304;Nuez Moscada Mc Cormick;Gramo;Paseo;NULL;4;NULL;0,00;0,06;NULL;0
+004-000-00305;Matcha Culinario Ibd (Terraferti);Gramo;Paseo;NULL;4;NULL;0,00;0,07;NULL;0
+004-000-00306;Calendula Aromas Y Especies;Gramo;Paseo;NULL;4;NULL;0,00;0,01;NULL;0
+004-000-00307;Maqui Berry Importado;Gramo;Paseo;NULL;4;NULL;0,00;0,03;NULL;0
+004-000-00308;Acay Berry;Gramo;Paseo;NULL;4;NULL;0,00;0,03;NULL;0
+004-000-00309;Frambuesa;Gramo;Paseo;NULL;4;NULL;0,00;0,02;NULL;0
+004-000-00310;Saborizante Algodon De Azucar;Gramo;Paseo;NULL;4;NULL;0,00;0,02;NULL;0
+004-000-00311;Saborizante Pera;Gramo;Paseo;NULL;4;NULL;0,00;0,01;NULL;0
+004-000-00312;Saborizante Capuccino;Gramo;Paseo;NULL;4;NULL;0,00;0,02;NULL;0
+004-000-00313;Saborizante Rosas;Gramo;Paseo;NULL;4;NULL;0,00;0,03;NULL;0
+004-000-00314;Saborizante Rosas En Polvo;Gramo;Paseo;NULL;4;NULL;0,00;0,02;NULL;0
+004-000-00315;Saborizante Canela En Polvo;Gramo;Paseo;NULL;4;NULL;0,00;0,02;NULL;0
+004-000-00316;Saborizante Uva;Gramo;Paseo;NULL;4;NULL;0,00;0,03;NULL;0
+004-000-00317;Saborizante Azar;Gramo;Paseo;NULL;4;NULL;0,00;0,02;NULL;0
+004-000-00318;Saborizante Te Negro En Polvo;Gramo;Paseo;NULL;4;NULL;0,00;0,03;NULL;0
+004-000-00319;Saborizante Chai Magic Flavors;Gramo;Paseo;NULL;4;NULL;0,00;0,04;NULL;0
+004-000-00320;Saborizante Humo;Gramo;Paseo;NULL;4;NULL;0,00;0,02;NULL;0
+004-000-00321;Saborizante Toronja;Gramo;Paseo;NULL;4;NULL;0,00;0,02;NULL;0
+004-000-00322;Saborizante Mandarina;Gramo;Paseo;NULL;4;NULL;0,00;0,04;NULL;0
+004-000-00323;Saborizante Limon;Gramo;Paseo;NULL;4;NULL;0,00;0,04;NULL;0
+004-000-00324;Saborizante Fruit Ponch;Gramo;Paseo;NULL;4;NULL;0,00;0,02;NULL;0
+004-000-00325;Saborizante Advance Natural;Gramo;Paseo;NULL;4;NULL;0,00;0,02;NULL;0
+004-000-00326;Saborizante Almendras;Gramo;Paseo;NULL;4;NULL;0,00;0,03;NULL;0
+004-000-00327;Saborizante Arandano;Gramo;Paseo;NULL;4;NULL;0,00;0,07;NULL;0
+004-000-00328;Saborizante Arandano En Polvo;Gramo;Paseo;NULL;4;NULL;0,00;0,02;NULL;0
+004-000-00329;Saborizante Arequipe;Gramo;Paseo;NULL;4;NULL;0,00;0,03;NULL;0
+004-000-00330;Saborizante Bergamota Florarom;Gramo;Paseo;NULL;4;NULL;0,00;0,02;NULL;0
+004-000-00331;Saborizante Bergamota Magic;Gramo;Paseo;NULL;4;NULL;0,00;0,01;NULL;0
+004-000-00332;Saborizante Durazno;Gramo;Paseo;NULL;4;NULL;0,00;0,022;NULL;0
+004-000-00333;Saborizante Fresa Acida;Gramo;Paseo;NULL;4;NULL;0,00;0,02;NULL;0
+004-000-00334;Saborizante Fresa Candy;Gramo;Paseo;NULL;4;NULL;0,00;0,03;NULL;0
+004-000-00335;Saborizante Fresa Natural;Gramo;Paseo;NULL;4;NULL;0,00;0,004;NULL;0
+004-000-00336;Saborizante Fresa Natural En Polvo;Gramo;Paseo;NULL;4;NULL;0,00;0,02;NULL;0
+004-000-00337;Saborizante Durazno En Polvo;Gramo;Paseo;NULL;4;NULL;0,00;0;NULL;0
+004-000-00338;Saborizante Frutales Emd;Gramo;Paseo;NULL;4;NULL;0,00;0;NULL;0
+004-000-00339;Saborizante Frutos Rojos Polvo Adiqmat;Gramo;Paseo;NULL;4;NULL;0,00;0,011;NULL;0
+004-000-00341;Saborizante Mango En Polvo;Gramo;Paseo;NULL;4;NULL;0,00;0,03;NULL;0
+004-000-00342;Saborizante Frutos Del Bosque;Gramo;Paseo;NULL;4;NULL;0,00;0,008;NULL;0
+004-000-00343;Saborizante Frutos Rojos;Gramo;Paseo;NULL;4;NULL;0,00;0,00095;NULL;0
+004-000-00344;Saborizante Frutos Rojos Polvo;Gramo;Paseo;NULL;4;NULL;0,00;0,01;NULL;0
+004-000-00345;Saborizante Ciruela;Gramo;Paseo;NULL;4;NULL;0,00;0,05;NULL;0
+004-000-00346;Saborizante Pepino;Gramo;Paseo;NULL;4;NULL;0,00;0,05;NULL;0
+004-000-00347;Saborizante Frutos Tropicales;Gramo;Paseo;NULL;4;NULL;0,00;0,02;NULL;0
+004-000-00348;Saborizante Granada;Gramo;Paseo;NULL;4;NULL;0,00;0,02;NULL;0
+004-000-00349;Saborizante Mora Azul;Gramo;Paseo;NULL;4;NULL;0,00;0,02;NULL;0
+004-000-00350;Saborizante Mora Azul Polvo;Gramo;Paseo;NULL;4;NULL;0,00;0,02;NULL;0
+004-000-00351;Saborizante Naranja Portugal;Gramo;Paseo;NULL;4;NULL;0,00;0,02;NULL;0
+004-000-00352;Saborizante Naranjilla;Gramo;Paseo;NULL;4;NULL;0,00;0,02;NULL;0
+004-000-00353;Saborizante Pina;Gramo;Paseo;NULL;4;NULL;0,00;0,02;NULL;0
+004-000-00354;Saborizante Pina Colada;Gramo;Paseo;NULL;4;NULL;0,00;0,05;NULL;0
+004-000-00355;Saborizante Vainilla Francesa;Gramo;Paseo;NULL;4;NULL;0,00;0,02;NULL;0
+004-000-00356;Saborizante Sandia Florarom;Gramo;Paseo;NULL;4;NULL;0,00;0,01;NULL;0
+004-000-00357;Saborizante Mantecado;Gramo;Paseo;NULL;4;NULL;0,00;0,01;NULL;0
+004-000-00358;Saborizante Maracuya;Gramo;Paseo;NULL;4;NULL;0,00;0,48;NULL;0
+004-000-00359;Saborizante Crema De Leche;Gramo;Paseo;NULL;4;NULL;0,00;0,58;NULL;0
+004-000-00360;Saborizante Miel;Gramo;Paseo;NULL;4;NULL;0,00;0,08;NULL;0
+004-000-00361;Saborizante Leche Condesada;Gramo;Paseo;NULL;4;NULL;0,00;0,09;NULL;0
+004-000-00362;Saborizante Manzana Verde;Gramo;Paseo;NULL;4;NULL;0,00;0,02;NULL;0
+004-000-00363;Saborizante Manzana Verde Polvo Magic;Gramo;Paseo;NULL;4;NULL;0,00;0,02;NULL;0
+004-000-00364;Saborizante Manzana Verde Polvo Florarom;Gramo;Paseo;NULL;4;NULL;0,00;0,02;NULL;0
+004-000-00365;Saborizante Manzanilla;Gramo;Paseo;NULL;4;NULL;0,00;0,02;NULL;0
+004-000-00366;Saborizante Canela;Gramo;Paseo;NULL;4;NULL;0,00;0,02;NULL;0
+004-000-00367;Saborizante Hierbaluisa;Gramo;Paseo;NULL;4;NULL;0,00;0,02;NULL;0
+004-000-00368;Saborizante Jazmin;Gramo;Paseo;NULL;4;NULL;0,00;0,03;NULL;0
+004-000-00369;Saborizante Menta En Polvo;Gramo;Paseo;NULL;4;NULL;0,00;0,03;NULL;0
+004-000-00370;Saborizante Menta;Gramo;Paseo;NULL;4;NULL;0,00;0,02;NULL;0
+004-000-00371;Saborizante Frambuesa;Gramo;Paseo;NULL;4;NULL;0,00;0,02;NULL;0
+004-000-00372;Saborizante Chocolate;Gramo;Paseo;NULL;4;NULL;0,00;0,02;NULL;0
+004-000-00373;Saborizante Cola Champagne;Gramo;Paseo;NULL;4;NULL;0,00;0,03;NULL;0
+004-000-00374;Saborizante Cereza;Gramo;Paseo;NULL;4;NULL;0,00;0,015;NULL;0
+004-000-00375;Saborizante Cereza En Polvo;Gramo;Paseo;NULL;4;NULL;0,00;0,02;NULL;0
+004-000-00376;Saborizante Banano;Gramo;Paseo;NULL;4;NULL;0,00;0,03;NULL;0
+004-000-00377;Saborizante Mango;Gramo;Paseo;NULL;4;NULL;0,00;0,02;NULL;0
+004-000-00378;Saborizante Sandia Magic Flavors;Gramo;Paseo;NULL;4;NULL;0,00;0,03;NULL;0
+004-000-00379;Saborizante Pumpkin Spice Polvo;Gramo;Paseo;NULL;4;NULL;0,00;0,02;NULL;0
+004-000-00380;Saborizante Limon En Polvo Florarom;Gramo;Paseo;NULL;4;NULL;0,00;0,08;NULL;0
+004-000-00381;Saborizante Maracumango;Gramo;Paseo;NULL;4;NULL;0,00;0,03;NULL;0
+004-000-00382;Saborizante Chicle;Gramo;Paseo;NULL;4;NULL;0,00;0,02;NULL;0
+004-000-00383;Saborizante Mango Viche;Gramo;Paseo;NULL;4;NULL;0,00;0,09;NULL;0
+004-000-00384;Saborizante Fresa Acida Polvo;Gramo;Paseo;NULL;4;NULL;0,00;0,013;NULL;0
+004-000-00385;Sanborizante Chicle Polvo;Gramo;Paseo;NULL;4;NULL;0,00;0,02;NULL;0
+004-000-00386;Saborizante Algodon De Azucar En Polvo;Gramo;Paseo;NULL;4;NULL;0,00;0,01;NULL;0
+004-000-00387;Saborizante Tamarindo El Polvo;Gramo;Paseo;NULL;4;NULL;0,00;0,01;NULL;0
+004-000-00388;Saborizante Fresa Natural En Polvo;Gramo;Paseo;NULL;4;NULL;0,00;0,01;NULL;0
+004-000-00389;Saborizante Sandia En Polvo;Gramo;Paseo;NULL;4;NULL;0,00;0,011;NULL;0
+004-000-00390;Saborizante Oreo;Gramo;Paseo;NULL;4;NULL;0,00;0,02;NULL;0
+004-000-00391;Saborizante Caramelo;Gramo;Paseo;NULL;4;NULL;0,00;0,03;NULL;0
+004-000-00392;Saborizante Mora Polvo;Gramo;Paseo;NULL;4;NULL;0,00;0,018;NULL;0
+004-000-00393;Saborizante Chai Polvo Florarom;Gramo;Paseo;NULL;4;NULL;0,00;0,011;NULL;0
+004-000-00394;Colorante Cafe Chocolate;Gramo;Paseo;NULL;4;NULL;0,00;0,03;NULL;0
+004-000-00395;Colorante Rojo Florarom;Gramo;Paseo;NULL;4;NULL;0,00;0,02;NULL;0
+004-000-00396;Colorante Mora Polvo;Gramo;Paseo;NULL;4;NULL;0,00;0,05;NULL;0
+004-000-00397;Gluconolactato Chino;Gramo;Paseo;NULL;4;NULL;0,00;0,01;NULL;0
+004-000-00398;Gluconolactato Top Trading;Gramo;Paseo;NULL;4;NULL;0,00;0,00695;NULL;0
+004-000-00399;Alginato Japones;Gramo;Paseo;NULL;4;NULL;0,00;0,003;NULL;0
+004-000-00400;Benzoato;Gramo;Paseo;NULL;4;NULL;0,00;0,004;NULL;0
+004-000-00401;Azucar;Gramo;Paseo;NULL;4;NULL;0,00;0,001;NULL;0
+004-000-00402;Alginato;Gramo;Paseo;NULL;4;NULL;0,00;0,08;NULL;0
+004-000-00403;Acido Citrico;Gramo;Paseo;NULL;4;NULL;0,00;0,002;NULL;0
+004-000-00404;Goma Xhantan;Gramo;Paseo;NULL;4;NULL;0,00;0,0051;NULL;0
+004-000-00405;Sorbato De Potasio;Gramo;Paseo;NULL;4;NULL;0,00;0,008;NULL;0
+004-000-00406;Goma Guar;Gramo;Paseo;NULL;4;NULL;0,00;0,005;NULL;0
+004-000-00407;Glucosa;Gramo;Paseo;NULL;4;NULL;0,00;0,00095;NULL;0
+004-000-00408;Cloruro;Gramo;Paseo;NULL;4;NULL;0,00;0,1;NULL;0
+004-000-00409;Colorante Verde;Unidad;Paseo;NULL;4;NULL;0,00;5;NULL;0
+004-000-00410;Colorante Azul;Unidad;Paseo;NULL;4;NULL;0,00;5;NULL;0
+004-000-00411;Colorante Rojo;Unidad;Paseo;NULL;4;NULL;0,00;5;NULL;0
+004-000-00412;Colorante Fucsia;Unidad;Paseo;NULL;4;NULL;0,00;5;NULL;0
+004-000-00413;Colorante Amarillo;Unidad;Paseo;NULL;4;NULL;0,00;5;NULL;0
+004-000-00414;Colorante Cafe;Unidad;Paseo;NULL;4;NULL;0,00;5;NULL;0
+004-000-00415;Colorante Pupple 20gr;Unidad;Paseo;NULL;4;NULL;0,00;2,18;NULL;0
+004-000-00416;Colorante Pupple 40gr;Unidad;Paseo;NULL;4;NULL;0,00;5;NULL;0
+004-000-00417;Colorante Naranja;Unidad;Paseo;NULL;4;NULL;0,00;5;NULL;0
+004-000-00418;Pads Manzanilla;Unidad;Paseo;NULL;4;NULL;0,00;0,05;NULL;0
+004-000-00419;Pads Guayusa;Unidad;Paseo;NULL;4;NULL;0,00;0,02;NULL;0
+004-000-00422;Pads Red Seduccion;Unidad;Paseo;NULL;4;NULL;0,00;0,48;NULL;0
+004-000-00423;Pads Butterfly;Unidad;Paseo;NULL;4;NULL;0,00;0,49;NULL;0
+004-000-00424;Piramides Sachet Caribean Punch;Unidad;Paseo;NULL;4;NULL;0,00;0,08;NULL;0
+004-000-00425;Piramides Sachet Strawberry Green Tea;Unidad;Paseo;NULL;4;NULL;9,00;0,11;NULL;0,99
+004-000-00426;Piramides Green Tea;Unidad;Paseo;NULL;4;NULL;0,00;0,1;NULL;0
+004-000-00428;Piramides Sachet Guayusa Y Mortino;Unidad;Paseo;NULL;4;NULL;0,00;0,08;NULL;0
+004-000-00429;Piramides Sachet Guayusa Mate Citrus;Unidad;Paseo;NULL;4;NULL;0,00;0,06;NULL;0
+004-000-00430;Piramides Sachet Mercedes Apple;Unidad;Paseo;NULL;4;NULL;0,00;0,09;NULL;0
+004-000-00431;Piramides Sachet Mint Green;Unidad;Paseo;NULL;4;NULL;0,00;0,09;NULL;0
+004-000-00432;Piramides Sachet Oolong Grape;Unidad;Paseo;NULL;4;NULL;0,00;0,11;NULL;0
+004-000-00433;Piramides Sachet Pina Green Tea;Unidad;Paseo;NULL;4;NULL;0,00;0,05;NULL;0
+004-000-00434;Piramides Sachet Provence;Unidad;Paseo;NULL;4;NULL;0,00;0,1;NULL;0
+004-000-00435;Piramides Detox;Unidad;Paseo;NULL;4;NULL;0,00;0,09;NULL;0
+004-000-00436;Piramides Nuema;Unidad;Paseo;NULL;4;NULL;0,00;0,09;NULL;0
+004-000-00437;Piramides Sachet Rosalinet Night;Unidad;Paseo;NULL;4;NULL;0,00;0,11;NULL;0
+004-000-00438;Piramides Sachet Amaranto Spice;Unidad;Paseo;NULL;4;NULL;0,00;0,11;NULL;0
+004-000-00439;Piramides Urko;Unidad;Paseo;NULL;4;NULL;0,00;0,026;NULL;0
+004-000-00440;Piramides Quitu Ecuatorial;Unidad;Paseo;NULL;4;NULL;0,00;0,062;NULL;0
+004-000-00441;Piramides Quitu Bosque;Unidad;Paseo;NULL;4;NULL;0,00;0,076;NULL;0
+004-000-00442;Piramides Quitu Paramo;Unidad;Paseo;NULL;4;NULL;0,00;0,008;NULL;0
+004-000-00443;Piramides Loccitane;Unidad;Paseo;NULL;4;NULL;0,00;0,012;NULL;0
+004-000-00444;Piramides Sachet Red Seduction;Unidad;Paseo;NULL;4;NULL;0,00;0,06;NULL;0
+004-000-00445;Piramides Sachet Strawberry Rose Mint;Unidad;Paseo;NULL;4;NULL;0,00;0,015;NULL;0
+004-000-00446;Piramides Sachet Negro Blueberry;Unidad;Paseo;NULL;4;NULL;0,00;0,016;NULL;0
+004-000-00447;Piramide Sachet Ginger Cider;Unidad;Paseo;NULL;4;NULL;0,00;0,005;NULL;0
+004-000-00448;Piramides Sachet Majestic Puerh;Unidad;Paseo;NULL;4;NULL;0,00;0,012;NULL;0
+004-000-00452;Funda Matcha Culinario;Unidad;Paseo;NULL;4;NULL;7,00;8;NULL;56
+005-000-00003;Blends Alishan High Mountain;Gramo;Paseo;NULL;4;NULL;0,00;0,015;NULL;0
+005-000-00004;Blends Almondjoy;Gramo;Paseo;NULL;4;NULL;0,00;0,017;NULL;0
+005-000-00005;Blends Andeann Herbs;Gramo;Paseo;NULL;4;NULL;0,00;0,013;NULL;0
+005-000-00006;Blends Anis Oregano Lucia;Gramo;Paseo;NULL;4;NULL;0,00;0,09;NULL;0
+005-000-00007;Blend Dia De La Madre;Gramo;Paseo;NULL;4;NULL;0,00;0,018;NULL;0
+005-000-00008;Blends Birreria;Gramo;Paseo;NULL;4;NULL;0,00;0,018;NULL;0
+005-000-00009;Blends Cloud Forest;Gramo;Paseo;NULL;4;NULL;0,00;0,011;NULL;0
+005-000-00010;Blends Detox Ansiedad;Gramo;Paseo;NULL;4;NULL;0,00;0,011;NULL;0
+005-000-00011;Blends Detox Body Gye Katherine;Gramo;Paseo;NULL;4;NULL;0,00;0,013;NULL;0
+005-000-00012;Blends Detox Bajar De Peso;Gramo;Paseo;NULL;4;NULL;0,00;0;NULL;0
+005-000-00013;Blends Guayusa Y Cacao;Gramo;Paseo;NULL;4;NULL;0,00;0,012;NULL;0
+005-000-00014;Blends Guayusa Naranja;Gramo;Paseo;NULL;4;NULL;0,00;0,012;NULL;0
+005-000-00015;Blends Jamaica And Berries Dulcafe;Gramo;Paseo;NULL;4;NULL;0,00;0;NULL;0
+005-000-00016;Blends Jamaica Berries Embotellados;Gramo;Paseo;NULL;4;NULL;0,00;0,011;NULL;0
+005-000-00017;Blends Jamaica Y Berries Kfc;Gramo;Paseo;NULL;4;NULL;0,00;0;NULL;0
+005-000-00018;Blends Jamaica Y Mora;Gramo;Paseo;NULL;4;NULL;0,00;0;NULL;0
+005-000-00019;Blends Japan Gyokuro;Gramo;Paseo;NULL;4;NULL;0,00;0,012;NULL;0
+005-000-00020;Blends Lemon Ginger Juan Valdez;Gramo;Paseo;NULL;4;NULL;0,00;0,045;NULL;0
+005-000-00021;Blends Lemon Ginger Sweet And Coffee;Gramo;Paseo;NULL;4;NULL;0,00;0;NULL;0
+005-000-00022;Blends Margaret's Hope;Gramo;Paseo;NULL;4;NULL;0,00;0,045;NULL;0
+005-000-00023;Matcha Late Mix;Gramo;Paseo;NULL;4;NULL;0,00;0,007;NULL;0
+005-000-00024;Golden Matcha Latte;Gramo;Paseo;NULL;4;NULL;900,00;0,015;NULL;13,5
+005-000-00025;Pink Matcha P;Gramo;Paseo;NULL;4;NULL;5200,00;0,01611;NULL;83,772
+005-000-00026;Blends Menta Sandia Juan Valdez;Gramo;Paseo;NULL;4;NULL;0,00;0,017;NULL;0
+005-000-00027;Blends Minty Mist Gin;Gramo;Paseo;NULL;4;NULL;0,00;0,014;NULL;0
+005-000-00028;Blends Mystic Petal Gin;Gramo;Paseo;NULL;4;NULL;0,00;0;NULL;0
+005-000-00030;Blends The Ophir;Gramo;Paseo;NULL;4;NULL;0,00;0;NULL;0
+005-000-00031;Blends Oriental Beauty Olong;Gramo;Paseo;NULL;4;NULL;0,00;0,016;NULL;0
+005-000-00032;Blends Pacari Ishpingo;Gramo;Paseo;NULL;4;NULL;0,00;0,015;NULL;0
+005-000-00033;Blends Peach Blend Kfc;Gramo;Paseo;NULL;4;NULL;0,00;0,019;NULL;0
+005-000-00034;Blends Pumpkin Spice;Gramo;Paseo;NULL;4;NULL;0,00;0,022;NULL;0
+005-000-00035;Blends Purple Rain;Gramo;Paseo;NULL;4;NULL;0,00;0,017;NULL;0
+005-000-00036;Bends Rooibos Vainilla;Gramo;Paseo;NULL;4;NULL;0,00;0,018;NULL;0
+005-000-00037;Blends Rooibos Guarmandice;Gramo;Paseo;NULL;4;NULL;0,00;0,015;NULL;0
+005-000-00038;Blends Sakura Cherry;Gramo;Paseo;NULL;4;NULL;218,40;0,014;NULL;3,0576
+005-000-00039;Blends Sandia Kfc;Gramo;Paseo;NULL;4;NULL;0,00;0,018;NULL;0
+005-000-00040;Blends Sunshine Lemon;Gramo;Paseo;NULL;4;NULL;0,00;0,019;NULL;0
+005-000-00041;Butterfly Morado Kfc;Gramo;Paseo;NULL;4;NULL;0,00;0,023;NULL;0
+005-000-00042;Blends Te Negro Kfc;Gramo;Paseo;NULL;4;NULL;0,00;0,018;NULL;0
+005-000-00043;Blends Te Navidad Cyril;Gramo;Paseo;NULL;4;NULL;0,00;0,023;NULL;0
+005-000-00044;Blend De Navidad 2024;Gramo;Paseo;NULL;4;NULL;0,00;0,018;NULL;0
+005-000-00045;Blends Te Negro Granada Luicia;Gramo;Paseo;NULL;4;NULL;0,00;0,16;NULL;0
+005-000-00046;Blends Te Verde Y Jazmin;Gramo;Paseo;NULL;4;NULL;0,00;0,015;NULL;0
+005-000-00047;Blends Tisana Frutos Rojos;Gramo;Paseo;NULL;4;NULL;0,00;0,015;NULL;0
+005-000-00048;Blends Tisana Manzana;Gramo;Paseo;NULL;4;NULL;0,00;0,019;NULL;0
+005-000-00049;Blends Tisana Naranja;Gramo;Paseo;NULL;4;NULL;0,00;0,022;NULL;0
+005-000-00050;Blends Tisana Pina;Gramo;Paseo;NULL;4;NULL;0,00;0,018;NULL;0
+005-000-00051;Blends Vainilla Y Azares;Gramo;Paseo;NULL;4;NULL;0,00;0,025;NULL;0
+005-000-00052;Blends Wild Berry Gin;Gramo;Paseo;NULL;4;NULL;0,00;0,018;NULL;0
+005-000-00053;Blendsandes Quitu;Gramo;Paseo;NULL;4;NULL;0,00;0,019;NULL;0
+005-000-00054;Blends Amazonia Quitu;Gramo;Paseo;NULL;4;NULL;0,00;0,022;NULL;0
+005-000-00055;Blends Apaysami Digestivo;Gramo;Paseo;NULL;4;NULL;0,00;0,023;NULL;0
+005-000-00056;Blends Archipielago Quitu;Gramo;Paseo;NULL;4;NULL;0,00;0,024;NULL;0
+005-000-00057;Blends Arlesienne;Gramo;Paseo;NULL;4;NULL;0,00;0,008;NULL;0
+005-000-00058;Blends Atix Blend;Gramo;Paseo;NULL;4;NULL;0,00;0,017;NULL;0
+005-000-00059;Blend 3500;Gramo;Paseo;NULL;4;NULL;0,00;0,02;NULL;0
+005-000-00060;Blend Holiday Paseo San Francisco;Gramo;Paseo;NULL;4;NULL;0,00;0,08;NULL;0
+005-000-00061;Blend Peach;Gramo;Paseo;NULL;4;NULL;0,00;0,018;NULL;0
+005-000-00062;Blend Tea;Gramo;Paseo;NULL;4;NULL;0,00;0,018;NULL;0
+005-000-00064;Blends Bosque Nublado Quitu;Gramo;Paseo;NULL;4;NULL;0,00;0,18;NULL;0
+005-000-00065;Blends Bourbon Street;Gramo;Paseo;NULL;4;NULL;0,00;0,011;NULL;0
+005-000-00066;Blends Butterfly;Gramo;Paseo;NULL;4;NULL;0,00;0,009;NULL;0
+005-000-00067;Butterfly Blend Kfc;Gramo;Paseo;NULL;4;NULL;0,00;0,023;NULL;0
+005-000-00068;Blends Coquelicot;Gramo;Paseo;NULL;4;NULL;0,00;0,021;NULL;0
+005-000-00069;Blends Cosmic;Gramo;Paseo;NULL;4;NULL;0,00;0,023;NULL;0
+005-000-00070;Blends Coeur Paris;Gramo;Paseo;NULL;4;NULL;0,00;0,024;NULL;0
+005-000-00071;Blends Dragon 4 Flowers;Gramo;Paseo;NULL;4;NULL;0,00;0,023;NULL;0
+005-000-00072;Blends Dragon Pearls;Gramo;Paseo;NULL;4;NULL;0,00;0,011;NULL;0
+005-000-00073;Blends Dragon Well;Gramo;Paseo;NULL;4;NULL;0,00;0,013;NULL;0
+005-000-00074;Blends Ecuatorial Quitu;Gramo;Paseo;NULL;4;NULL;0,00;0;NULL;0
+005-000-00075;Blends Locitonne Jazmin;Gramo;Paseo;NULL;4;NULL;0,00;0,017;NULL;0
+005-000-00076;Blends Lovers Leap;Gramo;Paseo;NULL;4;NULL;0,00;0,009;NULL;0
+005-000-00077;Blends Mandarine Cyril;Gramo;Paseo;NULL;4;NULL;0,00;0;NULL;0
+005-000-00078;Blends Nuema Amazonia Episodio 1;Gramo;Paseo;NULL;4;NULL;0,00;0,048;NULL;0
+005-000-00079;Blends Nuema Costa Episodio 1;Gramo;Paseo;NULL;4;NULL;0,00;0,048;NULL;0
+005-000-00080;Blends Nuema Sierra Episodio 1;Gramo;Paseo;NULL;4;NULL;0,00;0;NULL;0
+005-000-00081;Blends Sandia Jamaica;Gramo;Paseo;NULL;4;NULL;0,00;0,02;NULL;0
+005-000-00082;Blends Terre Lumiere;Gramo;Paseo;NULL;4;NULL;0,00;0,02;NULL;0
+005-000-00083;Blends The Vert;Gramo;Paseo;NULL;4;NULL;0,00;0,018;NULL;0
+005-000-00084;Blends Urko;Gramo;Paseo;NULL;4;NULL;0,00;0,026;NULL;0
+005-000-00085;Blends Mademoisellie Cyril;Gramo;Paseo;NULL;4;NULL;0,00;0,022;NULL;0
+005-000-00086;Blends Angel Y Demon Cyril;Gramo;Paseo;NULL;4;NULL;0,00;0,02;NULL;0
+005-000-00087;Blend Bajativo Casa Res;Gramo;Paseo;NULL;4;NULL;0,00;0,02;NULL;0
+005-000-00088;Blends Les Contraires Cyril;Gramo;Paseo;NULL;4;NULL;0,00;0,021;NULL;0
+005-000-00089;Blends Menta Toronjil Pacari;Gramo;Paseo;NULL;4;NULL;0,00;0,035;NULL;0
+005-000-00090;Blends Legacy;Gramo;Paseo;NULL;4;NULL;0,00;0,018;NULL;0
+005-000-00092;Blends Cardo;Gramo;Paseo;NULL;4;NULL;0,00;0,019;NULL;0
+005-000-00093;Blends Dark Chocolate;Gramo;Paseo;NULL;4;NULL;0,00;0,018;NULL;0
+005-000-00094;Blends Tejada;Gramo;Paseo;NULL;4;NULL;0,00;0,02;NULL;0
+005-000-00095;Blends Ignis;Gramo;Paseo;NULL;4;NULL;0,00;0,015;NULL;0
+005-000-00096;Blends Jardin De La Reina Cyril;Gramo;Paseo;NULL;4;NULL;0,00;0;NULL;0
+005-000-00097;Blends Te Revitaliza;Gramo;Paseo;NULL;4;NULL;0,00;0,012;NULL;0
+005-000-00098;Blends Miss Elisa Cyril;Gramo;Paseo;NULL;4;NULL;0,00;0,021;NULL;0
+005-000-00099;Soluble Chai;Gramo;Paseo;NULL;4;NULL;7000,00;0,02;NULL;140
+005-000-00100;Taro Latte Mix;Gramo;Paseo;NULL;4;NULL;2000,00;0,006;NULL;12
+005-000-00101;Soluble Te Negro;Gramo;Paseo;NULL;4;NULL;0,00;0,01;NULL;0
+005-000-00102;Blends Cedron Hierbaluisa Lucia;Gramo;Paseo;NULL;4;NULL;0,00;0,013;NULL;0
+005-000-00103;Blends Golden Monkey;Gramo;Paseo;NULL;4;NULL;0,00;0,015;NULL;0
+005-000-00104;Blends Manzanilla Y Miel;Gramo;Paseo;NULL;4;NULL;0,00;0,017;NULL;0
+005-000-00105;Blends Chochin Masala;Gramo;Paseo;NULL;4;NULL;0,00;0,02;NULL;0
+005-000-00106;Blends Chocolat Dark;Gramo;Paseo;NULL;4;NULL;0,00;0,02;NULL;0
+005-000-00107;Blends Pivoine Floral;Gramo;Paseo;NULL;4;NULL;0,00;0,01;NULL;0
+005-000-00108;Blends Colada Morada;Gramo;Paseo;NULL;4;NULL;0,00;0,013;NULL;0
+005-000-00109;Blends Kriollo Selvatica N2;Gramo;Paseo;NULL;4;NULL;0,00;0,015;NULL;0
+005-000-00110;Blends Detox Center Dolor;Gramo;Paseo;NULL;4;NULL;0,00;0,017;NULL;0
+005-000-00111;Blends Lemon Splash;Gramo;Paseo;NULL;4;NULL;0,00;0,018;NULL;0
+005-000-00112;Blends Kriollo Oriente Especiado;Gramo;Paseo;NULL;4;NULL;0,00;0,02;NULL;0
+005-000-00113;Blends Kriollo N1 Jardin Rosa;Gramo;Paseo;NULL;4;NULL;0,00;0,021;NULL;0
+005-000-00114;Blends Kriollo N6;Gramo;Paseo;NULL;4;NULL;0,00;0,026;NULL;0
+005-000-00115;Blends Encanto Frutal;Gramo;Paseo;NULL;4;NULL;0,00;0,024;NULL;0
+005-000-00116;Blends Cannandes Red Vitality;Gramo;Paseo;NULL;4;NULL;0,00;0,23;NULL;0
+005-000-00117;Herbal Cbd;Gramo;Paseo;NULL;4;NULL;0,00;0,017;NULL;0
+005-000-00118;Blends Nuema Amazonia Episodio 2;Gramo;Paseo;NULL;4;NULL;0,00;0,015;NULL;0
+005-000-00119;Blends Nuema Amazonia Episodio 3;Gramo;Paseo;NULL;4;NULL;0,00;0,016;NULL;0
+005-000-00120;Blends Nuema Costa Episodio 2;Gramo;Paseo;NULL;4;NULL;0,00;0,017;NULL;0
+005-000-00121;Blends Nuema Costa Episodio 3;Gramo;Paseo;NULL;4;NULL;0,00;0,013;NULL;0
+005-000-00122;Blends Nuema Andes Episodio 1;Gramo;Paseo;NULL;4;NULL;0,00;0,016;NULL;0
+005-000-00123;Blends Nuema Andes Episodio 4;Gramo;Paseo;NULL;4;NULL;0,00;0,018;NULL;0
+005-000-00124;Blend Adelgazante;Gramo;Paseo;NULL;4;NULL;0,00;0,018;NULL;0
+005-000-00125;Blends Digestive;Gramo;Paseo;NULL;4;NULL;187,00;0,015;NULL;2,805
+005-000-00126;Blends Guayusa Mate Y Citrus;Gramo;Paseo;NULL;4;NULL;231,60;0,19;NULL;44,004
+005-000-00127;Blends Fruit Punch;Gramo;Paseo;NULL;4;NULL;0,00;0,02;NULL;0
+005-000-00128;Blends Mystic Rose;Gramo;Paseo;NULL;4;NULL;91,20;0,017;NULL;1,5504
+005-000-00129;Blends Orange Sunset;Gramo;Paseo;NULL;4;NULL;0,00;0,008;NULL;0
+005-000-00130;Blends Rooibos Banana;Gramo;Paseo;NULL;4;NULL;0,00;0,021;NULL;0
+005-000-00131;Soluble Dragon Fruit;Gramo;Paseo;NULL;4;NULL;0,00;0,006;NULL;0
+005-000-00132;Soluble Latte De Rosas;Gramo;Paseo;NULL;4;NULL;0,00;0,004;NULL;0
+005-000-00133;Soluble Te Verde;Gramo;Paseo;NULL;4;NULL;0,00;0,008;NULL;0
+005-000-00134;Soluble Taro Purple;Gramo;Paseo;NULL;4;NULL;4000,00;0,006;NULL;24
+005-000-00135;Soluble Chai Latte Corfu;Gramo;Paseo;NULL;4;NULL;0,00;0,01;NULL;0
+005-000-00136;Soluble Butterfly;Gramo;Paseo;NULL;4;NULL;3000,00;0,009;NULL;27
+005-000-00137;Soluble Limonada Pink;Gramo;Paseo;NULL;4;NULL;3000,00;0,006;NULL;18
+005-000-00138;Soluble Red Velvet;Gramo;Paseo;NULL;4;NULL;600,00;0,08;NULL;48
+005-000-00139;Soluble Arandano;Gramo;Paseo;NULL;4;NULL;0,00;0,01;NULL;0
+005-000-00140;Soluble Limonada Frutos Rojos;Gramo;Paseo;NULL;4;NULL;0,00;0,011;NULL;0
+005-000-00141;Solible Matcha Mango;Gramo;Paseo;NULL;4;NULL;3000,00;0,012;NULL;36
+005-000-00142;Blends Orange Sunset;Gramo;Paseo;NULL;4;NULL;0,00;0,016;NULL;0
+005-000-00143;Blends Hierbaluisa;Gramo;Paseo;NULL;4;NULL;0,00;0,017;NULL;0
+005-000-00144;Piramide Alba Stefy;Unidad;Paseo;NULL;4;NULL;0,00;0,09;NULL;0
+005-000-00145;Piramide Amaranto;Unidad;Paseo;NULL;4;NULL;0,00;0,09;NULL;0
+005-000-00146;Piramide Andeann Herbs;Unidad;Paseo;NULL;4;NULL;0,00;0,06;NULL;0
+005-000-00147;Piramide Anis Oregano;Unidad;Paseo;NULL;4;NULL;0,00;0,06;NULL;0
+005-000-00148;Piramide Apayasamin;Unidad;Paseo;NULL;4;NULL;0,00;0,11;NULL;0
+005-000-00149;Piramides Sachet Oolong Rose;Unidad;Paseo;NULL;4;NULL;0,00;0,05;NULL;0
+005-000-00150;Piramide Atix;Unidad;Paseo;NULL;4;NULL;15,00;0,02;NULL;0,3
+005-000-00151;Piramide Au Coeur De Paris;Unidad;Paseo;NULL;4;NULL;2,00;0,07;NULL;0,14
+005-000-00152;Piramide Blue Focus;Unidad;Paseo;NULL;4;NULL;0,00;0,05;NULL;0
+005-000-00153;Piramide Body Detox;Unidad;Paseo;NULL;4;NULL;0,00;0,1;NULL;0
+005-000-00154;Piramides Sachet Butterfly;Unidad;Paseo;NULL;4;NULL;0,00;0,08;NULL;0
+005-000-00155;Piramides Sachet Cedron Hierbaluisa Lucia;Unidad;Paseo;NULL;4;NULL;0,00;0,09;NULL;0
+005-000-00156;Piramide Detox Ansiedad;Unidad;Paseo;NULL;4;NULL;0,00;0,04;NULL;0
+005-000-00157;Piramide Detox Center Revitaliza;Unidad;Paseo;NULL;4;NULL;0,00;0,07;NULL;0
+005-000-00158;Piramide Green Jamaica;Unidad;Paseo;NULL;4;NULL;0,00;0,03;NULL;0
+005-000-00159;Piramide Guayusa Negra;Unidad;Paseo;NULL;4;NULL;0,00;0,03;NULL;0
+005-000-00160;Piramide Sachet Andeann Herbs;Unidad;Paseo;NULL;4;NULL;0,00;0,03;NULL;0
+005-000-00161;Piramide Hierbabuena;Unidad;Paseo;NULL;4;NULL;50,00;0,03;NULL;1,5
+005-000-00162;Piramide Hierbaluisa;Unidad;Paseo;NULL;4;NULL;50,00;0,07;NULL;3,5
+005-000-00163;Piramide Jamaica Y Berries Sweet  Coffee;Unidad;Paseo;NULL;4;NULL;0,00;0,07;NULL;0
+005-000-00164;Piramide Lemon Ginger Sweet And Coffee;Unidad;Paseo;NULL;4;NULL;0,00;0,04;NULL;0
+005-000-00165;Piramide Manzanilla Y Miel;Unidad;Paseo;NULL;4;NULL;150,00;0,07;NULL;10,5
+005-000-00166;Piramide Menta-Totonjil Pacari;Unidad;Paseo;NULL;4;NULL;0,00;0,04;NULL;0
+005-000-00167;Piramide Minty Mist;Unidad;Paseo;NULL;4;NULL;0,00;0,01;NULL;0
+005-000-00168;Piramide Mystic Petal Gin;Unidad;Paseo;NULL;4;NULL;0,00;0,07;NULL;0
+005-000-00169;Piramide Naranja Paccari;Unidad;Paseo;NULL;4;NULL;0,00;0,07;NULL;0
+005-000-00170;Piramide Sachet Pinneaple Mint;Unidad;Paseo;NULL;4;NULL;0,00;0,09;NULL;0
+005-000-00171;Piramides Sachet Orange Cocoa;Unidad;Paseo;NULL;4;NULL;0,00;0,1;NULL;0
+005-000-00172;Piramides Sachet Vainilla Y Azares;Unidad;Paseo;NULL;4;NULL;0,00;0,07;NULL;0
+005-000-00173;Piramides Sachet Menta Toronjil Pacari;Unidad;Paseo;NULL;4;NULL;0,00;0,11;NULL;0
+005-000-00174;Piramides Sachet Jazmin;Unidad;Paseo;NULL;4;NULL;0,00;0,09;NULL;0
+005-000-00175;Piramides Sachet Jamaica Green;Unidad;Paseo;NULL;4;NULL;0,00;0,1;NULL;0
+005-000-00176;Piramides Sachet Lucky Mango;Unidad;Paseo;NULL;4;NULL;0,00;0,12;NULL;0
+005-000-00177;Piramides Sachet Guayusa Tropical;Unidad;Paseo;NULL;4;NULL;0,00;0,013;NULL;0
+005-000-00178;Piramide Te Negro Puro;Unidad;Paseo;NULL;4;NULL;0,00;0,08;NULL;0
+005-000-00179;Piramide Blend Paseo San Francisco;Unidad;Paseo;NULL;4;NULL;0,00;0,014;NULL;0
+005-000-00183;Piramide Red Vitality;Unidad;Paseo;NULL;4;NULL;0,00;0,049;NULL;0
+005-000-00184;Piramide Rooibos Gourmandise;Unidad;Paseo;NULL;4;NULL;0,00;0,066;NULL;0
+005-000-00185;Piramides Sachet  Amaranto;Unidad;Paseo;NULL;4;NULL;0,00;0,11;NULL;0
+005-000-00186;Piramide Te Navidad Locales;Unidad;Paseo;NULL;4;NULL;0,00;0,086;NULL;0
+005-000-00187;Piramide Te Negro Granada;Unidad;Paseo;NULL;4;NULL;0,00;0,076;NULL;0
+005-000-00188;Piramide Te Verde Kfc;Unidad;Paseo;NULL;4;NULL;0,00;0,079;NULL;0
+005-000-00189;Piramide Te Negro Kfc;Unidad;Paseo;NULL;4;NULL;0,00;0,065;NULL;0
+005-000-00190;Piramide Jazmin Loccitane;Unidad;Paseo;NULL;4;NULL;0,00;0,079;NULL;0
+005-000-00192;Piramide Terre Lumiere;Unidad;Paseo;NULL;4;NULL;0,00;0,026;NULL;0
+005-000-00193;Piramide The Vert;Unidad;Paseo;NULL;4;NULL;0,00;0,026;NULL;0
+005-000-00194;Piramide Toronjil Pucara;Unidad;Paseo;NULL;4;NULL;0,00;0,026;NULL;0
+005-000-00195;Piramide Tropical Fruit;Unidad;Paseo;NULL;4;NULL;0,00;0,026;NULL;0
+005-000-00196;Piramide Urko Blend;Unidad;Paseo;NULL;4;NULL;7,00;0,062;NULL;0,434
+005-000-00197;Piramide Vainilla Y Azares;Unidad;Paseo;NULL;4;NULL;0,00;0,076;NULL;0
+005-000-00198;Piramide Anis Oregano Lucia;Unidad;Paseo;NULL;4;NULL;0,00;0,008;NULL;0
+005-000-00199;Piramide Detox Center Bajar De Peso;Unidad;Paseo;NULL;4;NULL;0,00;0,012;NULL;0
+005-000-00200;Piramide Malva Olorosa;Unidad;Paseo;NULL;4;NULL;0,00;0,06;NULL;0
+005-000-00201;Piramide Butterflly;Unidad;Paseo;NULL;4;NULL;0,00;0,015;NULL;0
+005-000-00202;Piramide Sandia Y Jamaica;Unidad;Paseo;NULL;4;NULL;0,00;0,016;NULL;0
+005-000-00203;Piramide Ishphingo;Unidad;Paseo;NULL;4;NULL;0,00;0,005;NULL;0
+005-000-00204;Piramide Guayusa Naranja;Unidad;Paseo;NULL;4;NULL;0,00;0,012;NULL;0
+005-000-00205;Piramide Butterfly Morado;Unidad;Paseo;NULL;4;NULL;0,00;0,074;NULL;0
+005-000-00206;Piramides Anis;Unidad;Paseo;NULL;4;NULL;50,00;0,06;NULL;3
+005-000-00207;Piramides Toronjil;Unidad;Paseo;NULL;4;NULL;50,00;0,06;NULL;3
+005-000-00208;Piramide Wild Berry;Unidad;Paseo;NULL;4;NULL;0,00;0,062;NULL;0
+005-000-00209;Piramide Blend Ajenjo;Unidad;Paseo;NULL;4;NULL;0,00;0,06;NULL;0
+005-000-00210;Piramide Samples;Unidad;Paseo;NULL;4;NULL;0,00;0,07;NULL;0
+005-000-00211;Piramide Cacai Nibs Pacari;Unidad;Paseo;NULL;4;NULL;0,00;0,08;NULL;0
+005-000-00212;Piramide Flor Silvestre Cbd;Unidad;Paseo;NULL;4;NULL;0,00;0,09;NULL;0
+005-000-00213;Piramide Floral Sierra;Unidad;Paseo;NULL;4;NULL;0,00;0,07;NULL;0
+005-000-00214;Piramide Kriollo N6;Unidad;Paseo;NULL;4;NULL;0,00;0,07;NULL;0
+005-000-00215;Piramides Sachet Guayusa Naranja;Unidad;Paseo;NULL;4;NULL;0,00;0,08;NULL;0
+005-000-00216;Piramide Nunandes;Unidad;Paseo;NULL;4;NULL;0,00;0,06;NULL;0
+005-000-00217;Piramide Cbd Herbal Funcional;Unidad;Paseo;NULL;4;NULL;0,00;0,03;NULL;0
+005-000-00218;Piramides Sachet Te Negro Kemun;Unidad;Paseo;NULL;4;NULL;0,00;0,07;NULL;0
+005-000-00219;Piramide Oregano;Unidad;Paseo;NULL;4;NULL;0,00;0,06;NULL;0
+005-000-00221;Piramide Pumpkin;Unidad;Paseo;NULL;4;NULL;0,00;0,05;NULL;0
+005-000-00222;Pads Manzanilla;Unidad;Paseo;NULL;4;NULL;0,00;0,05;NULL;0
+005-000-00223;Pads Hierbabuena;Unidad;Paseo;NULL;4;NULL;0,00;0,04;NULL;0
+005-000-00224;Pads Hierbaluisa;Unidad;Paseo;NULL;4;NULL;0,00;0,03;NULL;0
+005-000-00225;Pads Manzanilla Y Miel;Unidad;Paseo;NULL;4;NULL;0,00;0,02;NULL;0
+005-000-00226;Pads Guayusa;Unidad;Paseo;NULL;4;NULL;0,00;0,02;NULL;0
+005-000-00227;Pads Anis;Unidad;Paseo;NULL;4;NULL;0,00;0,02;NULL;0
+005-000-00228;Pads Menta;Unidad;Paseo;NULL;4;NULL;0,00;0,04;NULL;0
+005-000-00229;Pads Toronjil;Unidad;Paseo;NULL;4;NULL;0,00;0,04;NULL;0
+005-000-00230;Pads Cedron;Unidad;Paseo;NULL;4;NULL;0,00;0,02;NULL;0
+005-000-00231;Pads Jamaica Berries;Unidad;Paseo;NULL;4;NULL;0,00;0,4;NULL;0
+005-000-00232;Pads Butterfly Morado Kfc;Unidad;Paseo;NULL;4;NULL;0,00;0,49;NULL;0
+005-000-00233;Pads Sandia Jamaica;Unidad;Paseo;NULL;4;NULL;0,00;0,42;NULL;0
+005-000-00234;Pads Apaysami Digestivo;Unidad;Paseo;NULL;4;NULL;0,00;0,03;NULL;0
+005-000-00235;Pads Blend Bajativo;Unidad;Paseo;NULL;4;NULL;0,00;0,32;NULL;0
+005-000-00236;Pads Red Seduccion;Unidad;Paseo;NULL;4;NULL;0,00;0,48;NULL;0
+005-000-00237;Pads Te Verde Fiorana;Unidad;Paseo;NULL;4;NULL;0,00;0,02;NULL;0
+005-000-00238;Pads Te Negro Fiorana;Unidad;Paseo;NULL;4;NULL;0,00;0,02;NULL;0
+005-000-00239;Pads Guayusa Fiorana;Unidad;Paseo;NULL;4;NULL;0,00;0,02;NULL;0
+005-000-00240;Pads Manzanilla Fiorana;Unidad;Paseo;NULL;4;NULL;0,00;0,03;NULL;0
+005-000-00241;Pads Toronjil Fiorana;Unidad;Paseo;NULL;4;NULL;0,00;0,02;NULL;0
+005-000-00242;Pads Menta Fiorana;Unidad;Paseo;NULL;4;NULL;0,00;0,02;NULL;0
+005-000-00243;Pads Cedron Fiorana;Unidad;Paseo;NULL;4;NULL;0,00;0,02;NULL;0
+003-026-00157;Cuchara de Bambu;Unidad;Paseo;NULL;4;NULL;7,00;1,73;NULL;12,11
+003-026-00160;Caja de Acetato Tisanas Varias;Unidad;Paseo;NULL;4;NULL;13,00;2,46;NULL;31,98
+003-021-00328;Sachet Vainilla chai;Unidad;Paseo;NULL;4;NULL;25,00;0,1;NULL;2,5
+003-021-00329;Sachet Ooolong;Unidad;Paseo;NULL;4;NULL;75,00;0,08;NULL;6
+003-021-00330;Sachet Tilo Lemon;Unidad;Paseo;NULL;4;NULL;25,00;0,08;NULL;2
+003-021-00333;Piramide Dragon 4 Flowers;Unidad;Paseo;NULL;4;NULL;1,00;0,11;NULL;0,11
+003-021-00334;Piramide Golden Monkey;Unidad;Paseo;NULL;4;NULL;1,00;0,12;NULL;0,12
+003-001-00339;Lata Sandia y Menta;Unidad;Paseo;NULL;4;NULL;1,00;1,35;NULL;1,35
+003-001-00340;Muestra Tartelette Mandarine;Unidad;Paseo;NULL;4;NULL;4,00;0,09;NULL;0,36
+;;;;;;;;;;3553,54

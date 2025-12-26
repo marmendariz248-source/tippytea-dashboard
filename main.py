@@ -2,35 +2,38 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 
-# --- 1. CONFIGURACIÓN DE PÁGINA (Debe ser lo primero) ---
-st.set_page_config(
-    page_title="TIPPYTEA | Gestión de Inventario",
-    page_icon="🍃",
-    layout="wide",
-    initial_sidebar_state="expanded"
-)
+# --- 1. CONFIGURACIÓN ---
+st.set_page_config(page_title="TIPPYTEA | Inteligencia de Inventario", page_icon="🍃", layout="wide")
+
+# Estilos para visibilidad total en PC y Móvil
+st.markdown("""
+    <style>
+    .stApp { background-color: #fcfdfc !important; }
+    h1, h2, h3, p, span, label, .stMetric div { color: #1b5e20 !important; }
+    [data-testid="stMetric"] {
+        background-color: #ffffff !important;
+        padding: 15px; border-radius: 12px;
+        box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+        border-left: 5px solid #2e7d32;
+    }
+    .stTabs [data-baseweb="tab-list"] { gap: 10px; }
+    .stTabs [data-baseweb="tab"] {
+        background-color: #e8f5e9; border-radius: 4px 4px 0 0; padding: 10px 20px;
+    }
+    </style>
+    """, unsafe_allow_html=True)
 
 
-# --- 2. SISTEMA DE SEGURIDAD (Contraseña) ---
+# --- 2. SEGURIDAD ---
 def check_password():
     if "password_correct" not in st.session_state:
         st.session_state["password_correct"] = False
+    if st.session_state["password_correct"]: return True
 
-    if st.session_state["password_correct"]:
-        return True
-
-    st.markdown("""
-        <style>
-        .stApp { background-color: #fcfdfc; }
-        h1 { color: #1b5e20; font-family: sans-serif; }
-        </style>
-    """, unsafe_allow_html=True)
-
-    st.title("🔒 Acceso Restringido - TIPPYTEA")
-    password = st.text_input("Ingresa la clave de acceso:", type="password")
-
+    st.title("🔒 Acceso Reservado - TIPPYTEA")
+    password = st.text_input("Clave de acceso:", type="password")
     if st.button("Entrar"):
-        if password == "Tippytea2025":  # <--- PUEDES CAMBIAR TU CLAVE AQUÍ
+        if password == "Tippytea2025":
             st.session_state["password_correct"] = True
             st.rerun()
         else:
@@ -38,118 +41,109 @@ def check_password():
     return False
 
 
-if not check_password():
-    st.stop()
-
-# --- 3. ESTILOS REFORZADOS (Para PC y Celular) ---
-st.markdown("""
-    <style>
-    /* Forzar colores claros y visibilidad */
-    .stApp {
-        background-color: #fcfdfc !important;
-    }
-    /* Forzar color de texto para evitar que el modo oscuro del celular lo oculte */
-    h1, h2, h3, p, span, label, .stMetric div {
-        color: #1b5e20 !important;
-    }
-    /* Tarjetas de métricas profesionales */
-    [data-testid="stMetric"] {
-        background-color: #ffffff !important;
-        padding: 20px;
-        border-radius: 12px;
-        box-shadow: 0 4px 12px rgba(46, 125, 50, 0.1);
-        border-left: 5px solid #2e7d32;
-    }
-    /* Sidebar personalizado */
-    section[data-testid="stSidebar"] {
-        background-color: #e8f5e9;
-    }
-    </style>
-    """, unsafe_allow_html=True)
+if not check_password(): st.stop()
 
 
-# --- 4. CARGA DE DATOS ---
+# --- 3. CARGA Y PROCESAMIENTO ---
 @st.cache_data
-def load_data():
-    files = {
-        "Paseo": "Copia de Toma de Inventarios Tippytea Original Noviembre Paseo.csv",
-        "Jardin": "Copia de Toma de Inventarios Tippytea Original Noviembre Jardin (1).csv",
-        "Planta": "Copia de Toma de Inventarios Tippytea Original Planta Noviembre 2025 (1).csv"
-    }
+def load_all_data():
+    # Definición de archivos
+    files = [
+        {"mes": "Octubre", "sede": "Paseo", "path": "TOMA DE INVENTARIO OCTUBRE PASEO.csv"},
+        {"mes": "Octubre", "sede": "Jardin", "path": "TOMA INVENTARIO OCTUBRE JARDIN.csv"},
+        {"mes": "Octubre", "sede": "Planta", "path": "TOMA DE INVENTARIO OCTUBRE PLANTA.csv"},
+        {"mes": "Noviembre", "sede": "Paseo",
+         "path": "Copia de Toma de Inventarios Tippytea Original Noviembre Paseo.csv"},
+        {"mes": "Noviembre", "sede": "Jardin",
+         "path": "Copia de Toma de Inventarios Tippytea Original Noviembre Jardin (1).csv"},
+        {"mes": "Noviembre", "sede": "Planta",
+         "path": "Copia de Toma de Inventarios Tippytea Original Planta Noviembre 2025 (1).csv"}
+    ]
 
-    all_data = []
-    for sede, path in files.items():
+    data_frames = []
+    for f in files:
         try:
-            # Leer con punto y coma (delimitador de tus archivos)
-            df = pd.read_csv(path, sep=';')
-            df.columns = df.columns.str.strip()  # Limpiar espacios en nombres de columnas
+            temp_df = pd.read_csv(f['path'], sep=';')
+            temp_df.columns = temp_df.columns.str.strip()
+            # Limpieza numérica
+            for col in ['Saldo', 'Costo']:
+                if col in temp_df.columns:
+                    temp_df[col] = temp_df[col].astype(str).str.replace(',', '.').str.strip()
+                    temp_df[col] = pd.to_numeric(temp_df[col], errors='coerce').fillna(0)
 
-            # Limpieza de números (Cambiar comas por puntos en Costo y Saldo)
-            for col in ['Costo', 'Saldo']:
-                if col in df.columns:
-                    df[col] = df[col].astype(str).str.replace(',', '.').str.strip()
-                    df[col] = pd.to_numeric(df[col], errors='coerce').fillna(0)
+            temp_df['Mes'] = f['mes']
+            temp_df['Sede'] = f['sede']
+            temp_df['Valor_Total'] = temp_df['Saldo'] * temp_df['Costo']
+            data_frames.append(temp_df[['Codigo', 'nombre', 'Saldo', 'Costo', 'Valor_Total', 'Mes', 'Sede']])
+        except:
+            continue
 
-            df['Sede'] = sede
-            df['Valor_Total'] = df['Saldo'] * df['Costo']
-            all_data.append(df)
-        except Exception as e:
-            st.error(f"Error cargando la sede {sede}: {e}")
-
-    return pd.concat(all_data, ignore_index=True) if all_data else None
+    return pd.concat(data_frames, ignore_index=True) if data_frames else None
 
 
-# --- 5. EJECUCIÓN DEL DASHBOARD ---
-df = load_data()
+df = load_all_data()
 
+# --- 4. INTERFAZ ---
 if df is not None:
-    st.title("🍃 TIPPYTEA - Panel Multisede")
-    st.markdown("Consolidado de inventarios actualizado")
-    st.divider()
+    st.title("🍃 TIPPYTEA - Análisis Evolutivo")
 
-    # --- FILTROS SIDEBAR ---
-    st.sidebar.header("📍 Control de Sedes")
-    sedes_sel = st.sidebar.multiselect("Ver Sedes:", ["Paseo", "Jardin", "Planta"],
-                                       default=["Paseo", "Jardin", "Planta"])
-    buscar = st.sidebar.text_input("🔍 Buscar Insumo:")
+    # Filtros Globales
+    st.sidebar.header("⚙️ Configuración")
+    sedes_sel = st.sidebar.multiselect("Sedes:", df['Sede'].unique(), default=df['Sede'].unique())
+    df_f = df[df['Sede'].isin(sedes_sel)]
 
-    # Filtrado
-    df_filtrado = df[df['Sede'].isin(sedes_sel)]
-    if buscar:
-        df_filtrado = df_filtrado[df_filtrado['nombre'].str.contains(buscar, case=False, na=False)]
+    tab1, tab2, tab3 = st.tabs(["📊 Vista Actual", "📈 Evolución", "⚠️ Rotación y Alertas"])
 
-    # --- MÉTRICAS (KPIs) ---
-    c1, c2, c3 = st.columns(3)
-    c1.metric("Inversión Total", f"${df_filtrado['Valor_Total'].sum():,.2f}")
-    c2.metric("Unidades Totales", f"{df_filtrado['Saldo'].sum():,.0f}")
-    c3.metric("Items Agotados", len(df_filtrado[df_filtrado['Saldo'] == 0]))
+    # TAB 1: VISTA ACTUAL (NOVIEMBRE)
+    with tab1:
+        df_nov = df_f[df_f['Mes'] == 'Noviembre']
+        c1, c2, c3 = st.columns(3)
+        c1.metric("Inversión Noviembre", f"${df_nov['Valor_Total'].sum():,.2f}")
+        c2.metric("Items en Inventario", len(df_nov))
+        c3.metric("Stock Crítico (<5)", len(df_nov[(df_nov['Saldo'] > 0) & (df_nov['Saldo'] < 5)]))
 
-    st.divider()
+        st.subheader("Inventario por Sede (Noviembre)")
+        fig_nov = px.bar(df_nov.groupby('Sede')['Valor_Total'].sum().reset_index(),
+                         x='Sede', y='Valor_Total', color='Sede', text_auto='.2s')
+        st.plotly_chart(fig_nov, use_container_width=True)
 
-    # --- GRÁFICOS ---
-    col_graf1, col_graf2 = st.columns(2)
+    # TAB 2: EVOLUCIÓN (OCT VS NOV)
+    with tab2:
+        st.subheader("Comparativa de Inversión Mensual")
+        evol_sede = df_f.groupby(['Mes', 'Sede'])['Valor_Total'].sum().reset_index()
+        # Ordenar meses para que Octubre salga antes que Noviembre
+        evol_sede['Mes'] = pd.Categorical(evol_sede['Mes'], categories=['Octubre', 'Noviembre'], ordered=True)
+        fig_evol = px.bar(evol_sede.sort_values('Mes'), x='Mes', y='Valor_Total', color='Sede', barmode='group')
+        st.plotly_chart(fig_evol, use_container_width=True)
 
-    with col_graf1:
-        st.subheader("💰 Inversión por Sede")
-        resumen_sede = df_filtrado.groupby('Sede')['Valor_Total'].sum().reset_index()
-        fig_sede = px.bar(resumen_sede, x='Sede', y='Valor_Total', color='Sede',
-                          color_discrete_map={"Paseo": "#81c784", "Jardin": "#4caf50", "Planta": "#1b5e20"})
-        st.plotly_chart(fig_sede, use_container_width=True)
+    # TAB 3: ANÁLISIS DE ROTACIÓN (LO QUE PIDIÓ GERENCIA)
+    with tab3:
+        st.subheader("🔍 Diagnóstico de Movimiento")
 
-    with col_graf2:
-        st.subheader("⚠️ Stock Bajo (1-10 unidades)")
-        bajo_stock = df_filtrado[(df_filtrado['Saldo'] > 0) & (df_filtrado['Saldo'] <= 10)]
-        if not bajo_stock.empty:
-            fig_bajo = px.bar(bajo_stock.head(15), x='Saldo', y='nombre', color='Sede', orientation='h')
-            st.plotly_chart(fig_bajo, use_container_width=True)
+        # Preparar comparación
+        pivoted = df_f.pivot_table(index=['Sede', 'nombre'], columns='Mes', values='Saldo').fillna(0).reset_index()
+
+        if 'Octubre' in pivoted.columns and 'Noviembre' in pivoted.columns:
+            pivoted['Diferencia'] = pivoted['Noviembre'] - pivoted['Octubre']
+
+            col_a, col_b = st.columns(2)
+
+            with col_a:
+                st.error("🚫 Items Sin Movimiento (Parados)")
+                st.caption("Items que tienen el mismo saldo en Octubre y Noviembre (y > 0)")
+                parados = pivoted[(pivoted['Octubre'] == pivoted['Noviembre']) & (pivoted['Noviembre'] > 0)]
+                st.dataframe(parados[['Sede', 'nombre', 'Noviembre']].rename(columns={'Noviembre': 'Saldo Actual'}),
+                             hide_index=True)
+
+            with col_b:
+                st.success("🚀 Mayor Rotación (Consumo)")
+                st.caption("Items que más disminuyeron su saldo este mes")
+                rotacion = pivoted[pivoted['Diferencia'] < 0].copy()
+                rotacion['Consumo'] = rotacion['Diferencia'].abs()
+                st.dataframe(rotacion[['Sede', 'nombre', 'Consumo']].sort_values('Consumo', ascending=False).head(15),
+                             hide_index=True)
         else:
-            st.write("No hay stock crítico.")
+            st.warning("Se necesitan datos de Octubre y Noviembre para este análisis.")
 
-    # --- TABLA DETALLADA ---
-    st.subheader("📋 Lista de Existencias")
-    st.dataframe(
-        df_filtrado[['Sede', 'Codigo', 'nombre', 'Saldo', 'Costo', 'Valor_Total']].sort_values('Valor_Total',
-                                                                                               ascending=False),
-        use_container_width=True,
-        hide_index=True
-    )
+else:
+    st.error("No se pudieron cargar los archivos. Verifica los nombres en GitHub.")
