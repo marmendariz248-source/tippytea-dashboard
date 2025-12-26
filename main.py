@@ -1,20 +1,22 @@
 import streamlit as st
 import pandas as pd
 import plotly.express as px
-import plotly.graph_objects as go
 
 # --- 1. CONFIGURACIÓN Y ESTILO ---
-st.set_page_config(page_title="TIPPYTEA | Executive Analytics", page_icon="📈", layout="wide")
+st.set_page_config(page_title="TIPPYTEA | Inventory BI", page_icon="🍃", layout="wide")
 
+# Estilo UX mejorado
 st.markdown("""
     <style>
-    .main { background-color: #f8f9fa; }
+    .main { background-color: #f1f3f1; }
     .stMetric { 
-        background-color: #ffffff; border: 1px solid #e0e0e0; 
-        padding: 15px; border-radius: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+        background-color: #ffffff; border-radius: 15px; 
+        padding: 20px; box-shadow: 0 4px 12px rgba(27, 94, 32, 0.08);
+        border: 1px solid #e1e8e1;
     }
-    h1, h2, h3 { color: #1b5e20 !important; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; }
-    div[data-testid="stExpander"] { border: none; box-shadow: 0 2px 10px rgba(0,0,0,0.1); }
+    h1, h2, h3 { color: #1b5e20 !important; font-family: 'Helvetica Neue', sans-serif; }
+    .stTabs [data-baseweb="tab"] { font-size: 16px; font-weight: 600; padding: 10px 20px; }
+    .stTabs [aria-selected="true"] { color: #2e7d32 !important; border-bottom: 3px solid #2e7d32 !important; }
     </style>
     """, unsafe_allow_html=True)
 
@@ -23,125 +25,136 @@ st.markdown("""
 def check_password():
     if "password_correct" not in st.session_state: st.session_state["password_correct"] = False
     if st.session_state["password_correct"]: return True
-    st.title("🔒 TIPPYTEA - Business Intelligence")
-    pwd = st.text_input("Credencial de Acceso:", type="password")
-    if st.button("Acceder"):
-        if pwd == "Tippytea2025":
-            st.session_state["password_correct"] = True
-            st.rerun()
-        else:
-            st.error("Acceso denegado")
+
+    col1, col2, col3 = st.columns([1, 2, 1])
+    with col2:
+        st.markdown("<h1 style='text-align: center;'>🍃</h1>", unsafe_allow_html=True)
+        st.markdown("<h2 style='text-align: center;'>Acceso Ejecutivo Tippytea</h2>", unsafe_allow_html=True)
+        pwd = st.text_input("Ingrese la clave:", type="password")
+        if st.button("Ingresar"):
+            if pwd == "Tippytea2025":
+                st.session_state["password_correct"] = True
+                st.rerun()
+            else:
+                st.error("❌ Credencial incorrecta")
     return False
 
 
 if not check_password(): st.stop()
 
 
-# --- 3. PROCESAMIENTO DE DATOS ---
+# --- 3. CARGA DE DATOS ---
 @st.cache_data
-def get_data():
+def load_data():
     files = [
-        {"m": "Octubre", "s": "Paseo", "p": "TOMA DE INVENTARIO OCTUBRE PASEO.csv"},
-        {"m": "Octubre", "s": "Jardin", "p": "TOMA INVENTARIO OCTUBRE JARDIN.csv"},
-        {"m": "Octubre", "s": "Planta", "p": "TOMA DE INVENTARIO OCTUBRE PLANTA.csv"},
-        {"m": "Noviembre", "s": "Paseo", "p": "Copia de Toma de Inventarios Tippytea Original Noviembre Paseo.csv"},
-        {"m": "Noviembre", "s": "Jardin",
-         "p": "Copia de Toma de Inventarios Tippytea Original Noviembre Jardin (1).csv"},
-        {"m": "Noviembre", "s": "Planta",
-         "p": "Copia de Toma de Inventarios Tippytea Original Planta Noviembre 2025 (1).csv"}
+        {"Mes": "Octubre", "Sede": "Paseo", "Path": "TOMA DE INVENTARIO OCTUBRE PASEO.csv"},
+        {"Mes": "Octubre", "Sede": "Jardin", "Path": "TOMA INVENTARIO OCTUBRE JARDIN.csv"},
+        {"Mes": "Octubre", "Sede": "Planta", "Path": "TOMA DE INVENTARIO OCTUBRE PLANTA.csv"},
+        {"Mes": "Noviembre", "Sede": "Paseo",
+         "Path": "Copia de Toma de Inventarios Tippytea Original Noviembre Paseo.csv"},
+        {"Mes": "Noviembre", "Sede": "Jardin",
+         "Path": "Copia de Toma de Inventarios Tippytea Original Noviembre Jardin (1).csv"},
+        {"Mes": "Noviembre", "Sede": "Planta",
+         "Path": "Copia de Toma de Inventarios Tippytea Original Planta Noviembre 2025 (1).csv"}
     ]
-    all_dfs = []
+    all_data = []
     for f in files:
         try:
-            df = pd.read_csv(f['p'], sep=';')
+            df = pd.read_csv(f['Path'], sep=';')
             df.columns = df.columns.str.strip()
-            for col in ['Saldo', 'Costo']:
-                df[col] = pd.to_numeric(df[col].astype(str).str.replace(',', '.').str.strip(), errors='coerce').fillna(
-                    0)
-            df['Mes'], df['Sede'] = f['m'], f['s']
-            df['Valor_Total'] = df['Saldo'] * df['Costo']
-            # Categorización simple por prefijo de código
-            df['Cat'] = df['Codigo'].astype(str).str[:7]
-            all_dfs.append(df[['Codigo', 'nombre', 'Saldo', 'Costo', 'Valor_Total', 'Mes', 'Sede', 'Cat']])
+            col_costo = next((c for c in df.columns if 'Costo' in c), 'Costo')
+            for c in ['Saldo', col_costo]:
+                df[c] = pd.to_numeric(df[c].astype(str).str.replace(',', '.').str.strip(), errors='coerce').fillna(0)
+            df['Mes'], df['Sede'] = f['Mes'], f['Sede']
+            df['Valor_Total'] = df['Saldo'] * df[col_costo]
+            all_data.append(df[['Codigo', 'nombre', 'Saldo', col_costo, 'Valor_Total', 'Mes', 'Sede']])
         except:
             continue
-    return pd.concat(all_dfs)
+    return pd.concat(all_data, ignore_index=True) if all_data else None
 
 
-df_all = get_data()
+full_df = load_data()
 
-# --- 4. DASHBOARD UI ---
-st.title("🍃 TIPPYTEA Executive Dashboard")
-st.markdown("### Inteligencia de Inventario y Control de Activos")
+# --- 4. INTERFAZ ---
+if full_df is not None:
+    # Encabezado con Hoja
+    st.markdown("<h1 style='text-align: center;'>🍃 INVENTARIOS TIPPYTEA 🍃</h1>", unsafe_allow_html=True)
+    st.markdown("<p style='text-align: center; color: #555;'>Sistema de Auditoría y Control de Activos</p>",
+                unsafe_allow_html=True)
 
-# Sidebar - Filtros de Alto Nivel
-st.sidebar.image("https://tippytea.com/wp-content/uploads/2021/05/logo-tippytea.png",
-                 width=150)  # Cambia por tu logo real
-st.sidebar.header("Filtros de Análisis")
-sel_sede = st.sidebar.multiselect("Sedes Seleccionadas", df_all['Sede'].unique(), default=df_all['Sede'].unique())
-df_f = df_all[df_all['Sede'].isin(sel_sede)]
+    # Sidebar
+    st.sidebar.markdown("### 🔍 Buscador Global")
+    search = st.sidebar.text_input("Nombre o Código:", placeholder="Ej: Matcha...")
+    mes_sel = st.sidebar.multiselect("Periodos:", full_df['Mes'].unique(), default=["Noviembre"])
+    sede_sel = st.sidebar.multiselect("Sedes:", full_df['Sede'].unique(), default=full_df['Sede'].unique())
 
-tabs = st.tabs(["📌 Resumen Ejecutivo", "💰 Análisis de Valor", "📉 Tendencias", "🕵️ Auditoría de Rotación"])
+    # Filtros
+    df_f = full_df[(full_df['Mes'].isin(mes_sel)) & (full_df['Sede'].isin(sede_sel))]
+    if search:
+        df_f = df_f[df_f['nombre'].str.contains(search, case=False) | df_f['Codigo'].str.contains(search)]
 
-# --- TAB 1: KPI MASTER ---
-with tabs[0]:
-    nov = df_f[df_f['Mes'] == 'Noviembre']
-    octub = df_f[df_f['Mes'] == 'Octubre']
+    # Tabs de Análisis
+    tab1, tab2, tab3 = st.tabs(["📋 Resumen Ejecutivo", "📈 Existencias", "🕵️ Auditoría de Inventario"])
 
-    val_nov = nov['Valor_Total'].sum()
-    val_oct = octub['Valor_Total'].sum()
-    delta_val = ((val_nov - val_oct) / val_oct * 100) if val_oct > 0 else 0
+    with tab1:
+        c1, c2, c3 = st.columns(3)
+        v_total = df_f['Valor_Total'].sum()
+        c1.metric("Inversión Total", f"${v_total:,.2f}")
+        c2.metric("Items en Stock", f"{len(df_f[df_f['Saldo'] > 0])}")
+        c3.metric("Sede Líder", df_f.groupby('Sede')['Valor_Total'].sum().idxmax())
 
-    c1, c2, c3, c4 = st.columns(4)
-    c1.metric("Valor Inventario", f"${val_nov:,.2f}", f"{delta_val:+.1f}% vs Oct")
-    c2.metric("Items Activos", f"{len(nov[nov['Saldo'] > 0])}")
-    c3.metric("Stock Agotado", f"{len(nov[nov['Saldo'] == 0])}", border=True)
-    c4.metric("Inversión en Planta", f"${nov[nov['Sede'] == 'Planta']['Valor_Total'].sum():,.0f}")
+        st.divider()
+        st.subheader("Distribución Patrimonial por Sede")
+        fig_pie = px.pie(df_f, values='Valor_Total', names='Sede', hole=0.4,
+                         color_discrete_sequence=px.colors.sequential.Greens_r)
+        st.plotly_chart(fig_pie, use_container_width=True)
 
-    st.subheader("Distribución Patrimonial (Sede y Categoría)")
-    fig_tree = px.treemap(nov[nov['Valor_Total'] > 0], path=['Sede', 'Cat'], values='Valor_Total',
-                          color='Valor_Total', color_continuous_scale='Greens')
-    st.plotly_chart(fig_tree, use_container_width=True)
+    with tab2:
+        st.subheader("Análisis de Stock Crítico vs Mayoritario")
+        ver = st.radio("Mostrar Top 15:", ["Mayor Stock", "Stock Crítico", "Agotados"], horizontal=True)
 
-# --- TAB 2: PARETO Y ABC ---
-with tabs[1]:
-    st.subheader("Concentración de Inversión (Top 15 Items)")
-    top_items = nov.groupby('nombre')['Valor_Total'].sum().sort_values(ascending=False).head(15).reset_index()
-    fig_top = px.bar(top_items, x='Valor_Total', y='nombre', orientation='h',
-                     color='Valor_Total', color_continuous_scale='Greens', text_auto='.2s')
-    fig_top.update_layout(yaxis={'categoryorder': 'total ascending'})
-    st.plotly_chart(fig_top, use_container_width=True)
+        df_rank = df_f.copy()
+        if ver == "Mayor Stock":
+            df_rank = df_rank.sort_values('Saldo', ascending=False).head(15)
+        elif ver == "Stock Crítico":
+            df_rank = df_rank[df_rank['Saldo'] > 0].sort_values('Saldo', ascending=True).head(15)
+        else:
+            df_rank = df_rank[df_rank['Saldo'] == 0]
 
-    st.info("💡 El 20% de estos productos suelen representar el 80% del valor total de TIPPYTEA.")
+        fig_bar = px.bar(df_rank, x='Saldo', y='nombre', color='Sede', orientation='h', text_auto='.2s',
+                         color_discrete_map={"Paseo": "#81c784", "Jardin": "#4caf50", "Planta": "#1b5e20"})
+        st.plotly_chart(fig_bar, use_container_width=True)
 
-# --- TAB 3: TENDENCIAS ---
-with tabs[2]:
-    st.subheader("Evolución de Costos por Sede")
-    evol = df_f.groupby(['Mes', 'Sede'])['Valor_Total'].sum().reset_index()
-    evol['Mes'] = pd.Categorical(evol['Mes'], categories=['Octubre', 'Noviembre'], ordered=True)
-    fig_line = px.line(evol.sort_values('Mes'), x='Mes', y='Valor_Total', color='Sede', markers=True)
-    st.plotly_chart(fig_line, use_container_width=True)
+    with tab3:
+        st.subheader("🕵️ Auditoría de Movimientos (Octubre vs Noviembre)")
+        st.markdown("Identificación automática de **Dinero Dormido** y productos de **Alta Rotación**.")
 
-# --- TAB 4: ROTACIÓN (EL PROBLEMA DE GERENCIA) ---
-with tabs[3]:
-    st.subheader("⚠️ Informe de Stock Crítico y Parado")
+        comp = full_df[full_df['Sede'].isin(sede_sel)].pivot_table(index=['Sede', 'nombre'], columns='Mes',
+                                                                   values='Saldo').fillna(0).reset_index()
 
-    # Comparativa de saldos
-    comp = df_f.pivot_table(index=['Sede', 'nombre'], columns='Mes', values='Saldo').fillna(0).reset_index()
+        if 'Octubre' in comp.columns and 'Noviembre' in comp.columns:
+            comp['Diferencia'] = comp['Noviembre'] - comp['Octubre']
+            cola, colb = st.columns(2)
 
-    col1, col2 = st.columns(2)
-    with col1:
-        st.error("📉 Items con Fuga de Stock (Uso Rápido)")
-        comp['Gasto'] = comp['Octubre'] - comp['Noviembre']
-        gasto = comp[comp['Gasto'] > 0].sort_values('Gasto', ascending=False).head(10)
-        st.table(gasto[['Sede', 'nombre', 'Gasto']])
+            with cola:
+                st.error("🧊 Dinero Dormido")
+                st.caption("Sin movimiento en 30 días. Evaluar evacuación.")
+                parados = comp[(comp['Octubre'] == comp['Noviembre']) & (comp['Noviembre'] > 0)]
+                st.dataframe(parados[['Sede', 'nombre', 'Noviembre']].rename(columns={'Noviembre': 'Saldo'}).head(20),
+                             use_container_width=True, hide_index=True)
 
-    with col2:
-        st.warning("🧊 Items Sin Movimiento (Dinero Dormido)")
-        parados = comp[(comp['Octubre'] == comp['Noviembre']) & (comp['Noviembre'] > 0)]
-        st.table(parados[['Sede', 'nombre', 'Noviembre']].head(10).rename(columns={'Noviembre': 'Stock Estancado'}))
+            with colb:
+                st.success("🚀 Alta Rotación")
+                st.caption("Items con mayor velocidad de salida.")
+                salida = comp[comp['Diferencia'] < 0].copy()
+                salida['Uso'] = salida['Diferencia'].abs()
+                st.dataframe(salida[['Sede', 'nombre', 'Uso']].sort_values('Uso', ascending=False).head(20),
+                             use_container_width=True, hide_index=True)
+        else:
+            st.warning("Selecciona Octubre y Noviembre para ver la Auditoría.")
 
-    st.subheader("Explorador de Inventario Completo")
-    st.dataframe(
-        nov[['Sede', 'Codigo', 'nombre', 'Saldo', 'Costo', 'Valor_Total']].sort_values('Valor_Total', ascending=False),
-        use_container_width=True, hide_index=True)
+    with st.expander("📄 Ver Tabla de Datos Maestra"):
+        st.dataframe(df_f, use_container_width=True, hide_index=True)
+
+else:
+    st.error("❌ Los archivos CSV no han sido detectados en la carpeta del proyecto.")
